@@ -13,7 +13,7 @@ permalink: /feed/
 	<id>https://steinea.work/</id>
 	<author>
 		<name>Eric Stein</name>
-		<email>steinea@protonmail.com</name>
+		<email>steinea@protonmail.com</email>
 	</author>
 
 	{% for post in site.categories.posts %}
