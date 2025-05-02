@@ -1,0 +1,29 @@
+---
+layout: null
+permalink: /feed/
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>steinea.work</title>
+	<link href="https://steinea.work/files/xml/feed.xml/" rel="self"/>
+	<link href="https://steinea.work/"/>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<id>https://steinea.work/</id>
+	<author>
+		<name>Eric Stein</name>
+		<email>steinea@protonmail.com</name>
+	</author>
+
+	{% for post in site.categories.posts %}
+		<entry>
+			<title>{{ post.title }}</title>
+			<link href="https://steinea.work{{ post.url }}"/>
+			<updated>{{ post.date | date_to_xmlschema }}</updated>
+			<id>https://steinea.work{{ post.id }}</id>
+			<content type="html">{{ post.content | xml_escape }}</content>
+		</entry>
+	{% endfor %}
+
+</feed>
