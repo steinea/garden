@@ -11,6 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 * [Test Post](/2025/05/01/hello-world/)
 * [Feed](/files/xml/feed.xml/)
+* [README](/readme.md/)
 
 <!-- Datatables Test -->
 
