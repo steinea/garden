@@ -27,6 +27,9 @@
     <link rel="shortcut icon" type="image/png" href="/files/img/favicon.png">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/files/css/styles.css">
 
+    <!-- DataTables CSS -->
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/files/css/datatables.css">
+
   </head>
 
   <!-- Site Body -->
@@ -65,6 +68,18 @@
     <div id="footer">
       <footer></footer>
     </div>
+
+  <!-- jQuery Javascript -->
+  <script src="/files/js/jquery-3.7.1.min.js"></script>
+
+  <!-- DataTables Javascript -->
+  <script src="/files/js/datatables.js"></script>
+
+  <script>
+    $(document).ready( function () {
+      $('#sortable').DataTable();
+    } );
+  </script>
 
   </body>
 
