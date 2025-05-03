@@ -14,7 +14,7 @@ Posts and pages are differentiated by whether or not the file requires a date in
 
 To make the directory organizationally compact, this site uses Jekyll [collections](https://jekyllrb.com/docs/collections/) to group related content types. The posts collection includes all dated content (blogs, articles, updates, etc.) and the pages collection includes all undated content (primarily wiki entries).
 
-Using the [jekyll_custom_permalink](https://github.com/NiklasEi/jekyll_custom_permalink) plugin, I give all posts a permalink in the format <code>/:year/:month/:day/:title/</code>, and all pages a permalink in the format <code>/:title/<code>. In the past, I have preserved the folder tree for post and page permalinks, but because [a cool URI is one which does not change](https://www.w3.org/Provider/Style/URI.html), I have resorted to using strong canonical links relative to the site root to avoid link rot due to site restructures.
+Using the [jekyll_custom_permalink](https://github.com/NiklasEi/jekyll_custom_permalink) plugin, I give all posts a permalink in the format <code>/:year/:month/:day/:title/</code>, and all pages a permalink in the format <code>/:title/</code>. In the past, I have preserved the folder tree for post and page permalinks, but because [a cool URI is one which does not change](https://www.w3.org/Provider/Style/URI.html), I have resorted to using strong canonical links relative to the site root to avoid link rot due to site restructures.
 
 Unlike posts and pages, data files are .yml, .yaml, .json, .tsv, or .csv files, which can be used for a variety of purposes, but on this site primarily for populating data content to posts or pages.
 
