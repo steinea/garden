@@ -1,0 +1,45 @@
+---
+layout: default
+title: Playing
+permalink: /playing/
+---
+
+<table id="sortable" class="display" style="width: 100%">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Platform</th>
+      <th>Hours</th>
+      <th>Trophies</th>
+      <th>Percent</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {% assign sorted = site.pages | sort: 'date' | reverse %}
+    {% for item in sorted %}
+    {% if item.category contains "videogame" %}
+    <tr>
+      <td><a href="{{ item.url }}" title="{{ item.title }}" class="internal-link">{{ item.title }}</a></td>
+  		<td>{{ item.platform }}</td>
+      <td>{{ item.durationHours }}</td>
+  		<td>{{ item.trophies }}</td>
+      <td>{{ item.percent }}</td>
+      <td>{{ item.date | date: '%Y-%m-%d' }}</td>
+		</tr>
+    {% endif %}
+  	{% endfor %}
+  </tbody>
+
+  <tfoot>
+    <tr>
+      <th>Title</th>
+      <th>Platform</th>
+      <th>Hours</th>
+      <th>Trophies</th>
+      <th>Percent</th>
+      <th>Date</th>
+    </tr>
+  </tfoot>
+</table>

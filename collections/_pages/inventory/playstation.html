@@ -1,0 +1,34 @@
+---
+layout: default
+title: PlayStation
+---
+
+<table id="sortable" class="display" style="width: 100%">
+  <thead>
+    <tr>
+      <th>Game</th>
+      <th>Platform</th>
+      <th>UPC</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {% for playstation in site.data.playstation %}
+    {% if playstation.Type contains "game" %}
+    <tr>
+		  <td><a href="{{ site.baseurl }}/{{ playstation.Developer | slugify: 'latin'}}-{{ playstation.Title | slugify: 'latin'}}/" class="internal-link">{{ playstation.Title }}</a></td>
+      <td>{{ playstation.Platform }}</td>
+      <td><a href="https://www.barcodelookup.com/{{ playstation.UPC }}" title="{{ playstation.Title }}"  target="_blank" rel="noopener noreferrer">{{ playstation.UPC }}</td>
+		</tr>
+    {% endif %}
+  	{% endfor %}
+  </tbody>
+
+  <tfoot>
+    <tr>
+      <th>Game</th>
+      <th>Platform</th>
+      <th>UPC</th>
+    </tr>
+  </tfoot>
+</table>
