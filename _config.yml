@@ -23,3 +23,6 @@ collections:
   pages:
     output: true
     permalink: /:title/
+
+# Exclusions
+exclude:             ['_includes/notes_graph.json']
