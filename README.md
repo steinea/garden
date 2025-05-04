@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/005f5f0e-c50a-42c0-bc92-8b415ca15ba3/deploy-status)](https://app.netlify.com/sites/neon-stardust-12b34a/deploys)
 
-*I am web development hobbyist and by no means an expert. The following README describes the principles and choices that have guided my implementation of this website.*
+*I am a web development hobbyist and by no means an expert. The following README describes the principles and choices that have guided my implementation of this website.*
 
 This site is built with [Jekyll](https://jekyllrb.com/), versioned with [GitHub](https://github.com/), deployed with [Netlify](https://www.netlify.com/), and hosted with [Hover](https://www.hover.com/).
 
