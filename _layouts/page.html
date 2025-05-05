@@ -5,9 +5,11 @@ layout: default
 <article class="h-entry">
 
   <div id="notes-entry-container">
-    <content>
-      {{ content }}
-    </content>
+    <div>
+      <content>
+        {{ content }}
+      </content>
+    </div>
 
     <!-- Backlinks Aside -->
     <side style="font-size: 0.9em">
@@ -20,7 +22,7 @@ layout: default
       {% for backlink in page.backlinks %}
 
         <div class="backlink-box">
-        <a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a><br>
+        <a class="nav-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a><br>
         <div style="font-size: 0.9em">{{ backlink.excerpt | strip_html | truncatewords: 20 }}</div>
         </div>
 
