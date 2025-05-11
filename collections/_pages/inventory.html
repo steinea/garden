@@ -3,17 +3,11 @@ layout: default
 title: Inventory
 ---
 
-<h4 style="color:red;">TEST ZONE</h4>
-<p><a href="/playstation/" class="internal-link" style="color:red;">PlayStation</a> ← <em>This link required for graph for some reason</em></p>
-<br>
-
-<ul>
 {% for page in site.pages %}
   {% if page.category contains "inventory" %}
-  <li><a href="{{ page.url }}" class="internal-link">{{ page.title }}</a></li>
+  <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
   {% endif %}
 {% endfor %}
-</ul>
 
 <hr>
 

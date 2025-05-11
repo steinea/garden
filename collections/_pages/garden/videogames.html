@@ -4,17 +4,11 @@ category: garden
 title: Video Games
 ---
 
-<h4 style="color:red;">TEST ZONE</h4>
-<p><a href="/sloclap-absolver/" class="internal-link" style="color:red;">Absolver</a> ← <em>This link required for graph for some reason</em></p>
-<br>
-
-<ul>
 {% for page in site.pages %}
   {% if page.category contains "videogame" %}
-  <li><a href="{{ page.url }}" class="internal-link">{{ page.title }}</a></li>
+  <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
   {% endif %}
 {% endfor %}
-</ul>
 
 <hr>
 
