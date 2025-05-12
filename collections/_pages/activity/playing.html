@@ -5,9 +5,25 @@ title: Playing
 permalink: /playing/
 ---
 
+<!-- Category Counts -->
+{% assign totalComplete = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "videogame" and page.progress contains "complete" %}
+      {% assign totalComplete = totalComplete | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalRetired = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "videogame" and page.progress contains "retired" %}
+      {% assign totalRetired = totalRetired | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+<!-- Category Tabs -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab('complete')">Complete</button>
-  <button class="tablinks" onclick="openTab('retired')">Retired</button>
+  <button class="tablinks" onclick="openTab('complete')">Complete ({{ totalComplete }})</button>
+  <button class="tablinks" onclick="openTab('retired')">Retired ({{ totalRetired }})</button>
   <button class="tablinks" onclick="openTab('backlog')">Backlog</button>
   <button class="tablinks" onclick="openTab('wishlist')">Wishlist</button>
 </div>
@@ -15,7 +31,7 @@ permalink: /playing/
 <br>
 
 <div id="complete" class="tabcontent">
-  <table id="sortable5" class="display" style="width: 100%">
+  <table class="display sortable5" style="width: 100%">
     <thead>
       <tr>
         <th>Title</th>
@@ -56,7 +72,7 @@ permalink: /playing/
 </div>
 
 <div id="retired" class="tabcontent">
-  <table id="sortable" class="display" style="width: 100%">
+  <table class="display sortable5" style="width: 100%">
     <thead>
       <tr>
         <th>Title</th>
