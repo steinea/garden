@@ -5,41 +5,119 @@ title: Playing
 permalink: /playing/
 ---
 
-<table id="sortable5" class="display" style="width: 100%">
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th class="collapsible">Platform</th>
-      <th class="collapsible">Hours</th>
-      <th>Trophies</th>
-      <th class="collapsible">Percent</th>
-      <th>Date</th>
-    </tr>
-  </thead>
+<div class="tab">
+  <button class="tablinks" onclick="openTab('complete')">Complete</button>
+  <button class="tablinks" onclick="openTab('retired')">Retired</button>
+  <button class="tablinks" onclick="openTab('backlog')">Backlog</button>
+  <button class="tablinks" onclick="openTab('wishlist')">Wishlist</button>
+</div>
 
-  <tbody>
-    {% for page in site.pages %}
-      {% if page.category contains "videogame" %}
-        <tr>
-          <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
-      		<td class="collapsible">{{ page.platform }}</td>
-          <td class="collapsible">{{ page.durationHours }}</td>
-      		<td>{{ page.trophies }}</td>
-          <td class="collapsible">{{ page.percent }}</td>
-          <td>{{ page.date | date: '%Y-%m-%d' }}</td>
-    		</tr>
-      {% endif %}
-  	{% endfor %}
-  </tbody>
+<div id="complete" class="tabcontent">
+  <table id="sortable5" class="display" style="width: 100%">
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Platform</th>
+        <th>Hours</th>
+        <th>Trophies</th>
+        <th>Percent</th>
+        <th>Date</th>
+      </tr>
+    </thead>
 
-  <tfoot>
-    <tr>
-      <th>Title</th>
-      <th class="collapsible">Platform</th>
-      <th class="collapsible">Hours</th>
-      <th>Trophies</th>
-      <th class="collapsible">Percent</th>
-      <th>Date</th>
-    </tr>
-  </tfoot>
-</table>
+    <tbody>
+      {% for page in site.pages %}
+        {% if page.category contains "videogame" %}
+          <tr>
+            <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
+        		<td>{{ page.platform }}</td>
+            <td>{{ page.durationHours }}</td>
+        		<td>{{ page.trophies }}</td>
+            <td>{{ page.percent }}</td>
+            <td>{{ page.date | date: '%Y-%m-%d' }}</td>
+      		</tr>
+        {% endif %}
+    	{% endfor %}
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th>Title</th>
+        <th>Platform</th>
+        <th>Hours</th>
+        <th>Trophies</th>
+        <th>Percent</th>
+        <th>Date</th>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+
+<div id="retired" class="tabcontent">
+</div>
+
+<div id="backlog" class="tabcontent">
+</div>
+
+<div id="wishlist" class="tabcontent">
+</div>
+
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('complete');
+</script>
+
+<!-- Some potential styling...
+<style>
+  /* Style the tab */
+  .tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+  }
+
+  /* Style the buttons inside the tab */
+  .tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+
+  /* Change background color of buttons on hover */
+  .tab button:hover {
+    background-color: #ddd;
+  }
+
+  /* Create an active/current tablink class */
+  .tab button.active {
+    background-color: #ccc;
+  }
+
+  /* Style the tab content */
+  .tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+  }
+</style>
+-->
