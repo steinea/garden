@@ -97,6 +97,14 @@
       $(document).ready( function () {
         $('#sortable').DataTable();
       } );
+
+      $(document).ready(function () {
+        $("#sortable5").DataTable({
+          order: [
+            [5, "desc"]
+          ],
+        });
+      });
     </script>
 
     <!-- Maxime Vaillancourt's Link Previews -->
