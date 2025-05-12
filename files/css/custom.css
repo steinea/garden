@@ -7,3 +7,37 @@
   }
 
 }
+
+.tab {
+  overflow: hidden;
+  border-width: 1px;
+  border-color: #8b88e6;
+  border-bottom-style: solid;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #fffaf1;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  border-width: 1px;
+  border-color: #8b88e6;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  border-top: none;
+}
