@@ -20,12 +20,26 @@ permalink: /playing/
     {% endif %}
   {% endfor %}
 
+{% assign totalBacklog = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "videogame" and page.progress contains "backlog" %}
+      {% assign totalBacklog = totalBacklog | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalWishlist = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "videogame" and page.progress contains "wishlist" %}
+      {% assign totalWishlist = totalWishlist | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
 <!-- Category Tabs -->
 <div class="tab">
   <button class="tablinks" onclick="openTab('complete')">Complete ({{ totalComplete }})</button>
   <button class="tablinks" onclick="openTab('retired')">Retired ({{ totalRetired }})</button>
-  <button class="tablinks" onclick="openTab('backlog')">Backlog</button>
-  <button class="tablinks" onclick="openTab('wishlist')">Wishlist</button>
+  <button class="tablinks" onclick="openTab('backlog')">Backlog ({{ totalBacklog }})</button>
+  <button class="tablinks" onclick="openTab('wishlist')">Wishlist ({{ totalWishlist }})</button>
 </div>
 
 <br>
