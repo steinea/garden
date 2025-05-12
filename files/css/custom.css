@@ -23,6 +23,8 @@
   outline: none;
   cursor: pointer;
   padding: 14px 16px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
 }
 
 /* Change background color of buttons on hover */
