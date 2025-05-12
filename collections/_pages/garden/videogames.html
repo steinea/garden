@@ -8,8 +8,8 @@ title: Video Games
   <thead>
     <tr>
       <th>Title</th>
-      <th>Developer</th>
-      <th>Publisher</th>
+      <th class="collapsible">Developer</th>
+      <th class="collapsible">Publisher</th>
       <th>Released</th>
     </tr>
   </thead>
@@ -19,8 +19,8 @@ title: Video Games
       {% if page.category contains "videogame" %}
         <tr>
           <td><a href="{{ page.url }}" class="internal-link">{{ page.title }}</a></td>
-          <td>{{ page.developer }}</td>
-          <td>{{ page.publisher }}</td>
+          <td class="collapsible">{{ page.developer }}</td>
+          <td class="collapsible">{{ page.publisher }}</td>
           <td>{{ page.releaseDate }}</td>
         </tr>
       {% endif %}
@@ -30,8 +30,8 @@ title: Video Games
   <tfoot>
     <tr>
       <th>Title</th>
-      <th>Developer</th>
-      <th>Publisher</th>
+      <th class="collapsible">Developer</th>
+      <th class="collapsible">Publisher</th>
       <th>Released</th>
     </tr>
   </tfoot>
