@@ -4,14 +4,35 @@ category: garden
 title: Video Games
 ---
 
-{% for page in site.pages %}
-  {% if page.category contains "videogame" %}
-  <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
-  {% endif %}
-{% endfor %}
+<table id="sortable" class="display" style="width: 100%">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Developer</th>
+      <th>Publisher</th>
+      <th>Released</th>
+    </tr>
+  </thead>
 
-<hr>
+  <tbody>
+    {% for page in site.pages %}
+      {% if page.category contains "videogame" %}
+        <tr>
+          <td><a href="{{ page.url }}" class="internal-link">{{ page.title }}</a></td>
+          <td>{{ page.developer }}</td>
+          <td>{{ page.publisher }}</td>
+          <td>{{ page.releaseDate }}</td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
 
-<h4>Graph</h4>
-
-<p>{% include notes_graph.html %}</p>
+  <tfoot>
+    <tr>
+      <th>Title</th>
+      <th>Developer</th>
+      <th>Publisher</th>
+      <th>Released</th>
+    </tr>
+  </tfoot>
+</table>
