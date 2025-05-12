@@ -9,10 +9,10 @@ permalink: /playing/
   <thead>
     <tr>
       <th>Title</th>
-      <th>Platform</th>
-      <th>Hours</th>
+      <th class="collapsible">Platform</th>
+      <th class="collapsible">Hours</th>
       <th>Trophies</th>
-      <th>Percent</th>
+      <th class="collapsible">Percent</th>
       <th>Date</th>
     </tr>
   </thead>
@@ -22,10 +22,10 @@ permalink: /playing/
       {% if page.category contains "videogame" %}
         <tr>
           <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
-      		<td>{{ page.platform }}</td>
-          <td>{{ page.durationHours }}</td>
+      		<td class="collapsible">{{ page.platform }}</td>
+          <td class="collapsible">{{ page.durationHours }}</td>
       		<td>{{ page.trophies }}</td>
-          <td>{{ page.percent }}</td>
+          <td class="collapsible">{{ page.percent }}</td>
           <td>{{ page.date | date: '%Y-%m-%d' }}</td>
     		</tr>
       {% endif %}
@@ -35,10 +35,10 @@ permalink: /playing/
   <tfoot>
     <tr>
       <th>Title</th>
-      <th>Platform</th>
-      <th>Hours</th>
+      <th class="collapsible">Platform</th>
+      <th class="collapsible">Hours</th>
       <th>Trophies</th>
-      <th>Percent</th>
+      <th class="collapsible">Percent</th>
       <th>Date</th>
     </tr>
   </tfoot>

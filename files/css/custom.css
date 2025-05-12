@@ -1,0 +1,9 @@
+/* Collapsible Table */
+
+@media only screen and (max-width: 756px) {
+
+  .collapsible {
+    display: none;
+  }
+
+}
