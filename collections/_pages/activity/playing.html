@@ -56,6 +56,44 @@ permalink: /playing/
 </div>
 
 <div id="retired" class="tabcontent">
+  <table id="sortable" class="display" style="width: 100%">
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Platform</th>
+        <th>Hours</th>
+        <th>Trophies</th>
+        <th>Percent</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for page in site.pages %}
+        {% if page.category contains "videogame" and page.progress contains "retired" %}
+          <tr>
+            <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
+            <td>{{ page.platform }}</td>
+            <td>{{ page.durationHours }}</td>
+            <td>{{ page.trophies }}</td>
+            <td>{{ page.percent }}</td>
+            <td>{{ page.date | date: '%Y-%m-%d' }}</td>
+          </tr>
+        {% endif %}
+      {% endfor %}
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th>Title</th>
+        <th>Platform</th>
+        <th>Hours</th>
+        <th>Trophies</th>
+        <th>Percent</th>
+        <th>Date</th>
+      </tr>
+    </tfoot>
+  </table>
 </div>
 
 <div id="backlog" class="tabcontent">
