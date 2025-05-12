@@ -5,7 +5,7 @@ title: Playing
 permalink: /playing/
 ---
 
-<table id="sortable" class="display" style="width: 100%">
+<table id="sortable5" class="display" style="width: 100%">
   <thead>
     <tr>
       <th>Title</th>
@@ -18,18 +18,17 @@ permalink: /playing/
   </thead>
 
   <tbody>
-    {% assign sorted = site.pages | sort: 'date' | reverse %}
-    {% for item in sorted %}
-    {% if item.category contains "videogame" %}
-    <tr>
-      <td><a href="{{ item.url }}" title="{{ item.title }}" class="internal-link">{{ item.title }}</a></td>
-  		<td>{{ item.platform }}</td>
-      <td>{{ item.durationHours }}</td>
-  		<td>{{ item.trophies }}</td>
-      <td>{{ item.percent }}</td>
-      <td>{{ item.date | date: '%Y-%m-%d' }}</td>
-		</tr>
-    {% endif %}
+    {% for page in site.pages %}
+      {% if page.category contains "videogame" %}
+        <tr>
+          <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
+      		<td>{{ page.platform }}</td>
+          <td>{{ page.durationHours }}</td>
+      		<td>{{ page.trophies }}</td>
+          <td>{{ page.percent }}</td>
+          <td>{{ page.date | date: '%Y-%m-%d' }}</td>
+    		</tr>
+      {% endif %}
   	{% endfor %}
   </tbody>
 
@@ -44,9 +43,3 @@ permalink: /playing/
     </tr>
   </tfoot>
 </table>
-
-<hr>
-
-<h4>Graph</h4>
-
-<p>{% include notes_graph.html %}</p>
