@@ -127,6 +127,36 @@ permalink: /playing/
 </div>
 
 <div id="backlog" class="tabcontent">
+  <table class="display sortable" style="width: 100%">
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Platform</th>
+        <th>HowLongToBeat</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for page in site.pages %}
+        {% if page.category contains "videogame" and page.progress contains "backlog" %}
+          <tr>
+            <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
+            <td>{{ page.platform }}</td>
+            <td>{{ page.howlongtobeat }}</td>
+          </tr>
+        {% endif %}
+      {% endfor %}
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th>Title</th>
+        <th>Platform</th>
+        <th>HowLongToBeat</th>
+      </tr>
+    </tfoot>
+  </table>
+</div>
 </div>
 
 <div id="wishlist" class="tabcontent">
