@@ -10,8 +10,8 @@ howlongtobeat: 119
 difficulty: --
 trophyGuide: --
 durationHours: 76
-trophies: 52/137
-percent: 38%
+trophies: 52/164
+percent: 32%
 progress: retired
 link: --
 date: 2022-05-03
