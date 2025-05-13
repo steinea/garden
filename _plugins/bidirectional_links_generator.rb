@@ -3,6 +3,7 @@
 # frozen_string_literal: true
 class BidirectionalLinksGenerator < Jekyll::Generator
   def generate(site)
+    Jekyll::Hooks.register :documents, :post_convert do |docs|
       graph_nodes = []
       graph_edges = []
 
@@ -51,3 +52,4 @@ class BidirectionalLinksGenerator < Jekyll::Generator
       note.data['title'].bytes.join
     end
   end
+end
