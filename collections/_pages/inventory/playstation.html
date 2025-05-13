@@ -8,6 +8,7 @@ title: PlayStation
   <thead>
     <tr>
       <th>Game</th>
+      <th>Edition</th>
       <th>Platform</th>
       <th>UPC</th>
     </tr>
@@ -18,6 +19,7 @@ title: PlayStation
     {% if playstation.Type contains "game" %}
     <tr>
 		  <td><a href="{{ site.baseurl }}/{{ playstation.Developer | slugify: 'latin'}}-{{ playstation.Title | slugify: 'latin'}}/" class="internal-link">{{ playstation.Title }}</a></td>
+      <td>{{ playstation.Edition }}</td>
       <td>{{ playstation.Platform }}</td>
       <td><a href="https://www.barcodelookup.com/{{ playstation.UPC }}" title="{{ playstation.Title }}"  target="_blank" rel="noopener noreferrer">{{ playstation.UPC }}</td>
 		</tr>
@@ -28,6 +30,7 @@ title: PlayStation
   <tfoot>
     <tr>
       <th>Game</th>
+      <th>Edition</th>
       <th>Platform</th>
       <th>UPC</th>
     </tr>
