@@ -6,6 +6,13 @@ permalink: /playing/
 ---
 
 <!-- Category Counts -->
+{% assign totalPlaying = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "videogame" and page.progress contains "now" %}
+      {% assign totalPlaying = totalPlaying | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
 {% assign totalComplete = 0 %}
   {% for page in site.pages %}
     {% if page.category contains "videogame" and page.progress contains "complete" %}
@@ -36,6 +43,7 @@ permalink: /playing/
 
 <!-- Category Tabs -->
 <div class="tab">
+  <button class="tablinks" onclick="openTab('playing')">Playing ({{ totalPlaying }})</button>
   <button class="tablinks" onclick="openTab('complete')">Complete ({{ totalComplete }})</button>
   <button class="tablinks" onclick="openTab('retired')">Retired ({{ totalRetired }})</button>
   <button class="tablinks" onclick="openTab('backlog')">Backlog ({{ totalBacklog }})</button>
@@ -43,6 +51,47 @@ permalink: /playing/
 </div>
 
 <br>
+
+<div id="playing" class="tabcontent">
+  <table class="display sortable5" style="width: 100%">
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Platform</th>
+        <th>Hours</th>
+        <th>Trophies</th>
+        <th>Percent</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for page in site.pages %}
+        {% if page.category contains "videogame" and page.progress contains "now" %}
+          <tr>
+            <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
+        		<td>{{ page.platform }}</td>
+            <td>{{ page.durationHours }}</td>
+        		<td>{{ page.trophies }}</td>
+            <td>{{ page.percent }}</td>
+            <td>{{ page.date | date: '%Y-%m-%d' }}</td>
+      		</tr>
+        {% endif %}
+    	{% endfor %}
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th>Title</th>
+        <th>Platform</th>
+        <th>Hours</th>
+        <th>Trophies</th>
+        <th>Percent</th>
+        <th>Date</th>
+      </tr>
+    </tfoot>
+  </table>
+</div>
 
 <div id="complete" class="tabcontent">
   <table class="display sortable5" style="width: 100%">
@@ -178,5 +227,5 @@ permalink: /playing/
   }
 
   // Show the first tab by default
-  openTab('complete');
+  openTab('playing');
 </script>
