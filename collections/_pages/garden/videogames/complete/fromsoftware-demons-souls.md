@@ -9,7 +9,7 @@ releaseDate: 2009-02-05
 howlongtobeat: 73
 difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/989-demons-souls-trophy-guide
-durationHours: --
+durationHours:
 trophies: 38/38
 percent: 100%
 progress: complete

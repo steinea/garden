@@ -9,7 +9,7 @@ releaseDate: 2014-04-03
 howlongtobeat: 3
 difficulty: --
 trophyGuide: --
-durationHours: --
+durationHours:
 trophies: 19/19
 percent: 100%
 progress: complete

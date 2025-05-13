@@ -9,7 +9,7 @@ releaseDate: 2012-11-29
 howlongtobeat: 37
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/9-far-cry-3-trophy-guide
-durationHours: --
+durationHours:
 trophies: 51/51
 percent: 100%
 progress: complete

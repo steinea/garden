@@ -10,8 +10,8 @@ howlongtobeat:
 difficulty:
 trophyGuide:
 durationHours: 42
-trophies: 0/0
-percent: --
+trophies:
+percent:
 progress: complete
 link: https://www.exophase.com/game/elden-ring-steam/achievements/#1624301
 date: 2024-07-06

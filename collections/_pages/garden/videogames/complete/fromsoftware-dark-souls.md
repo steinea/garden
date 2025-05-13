@@ -9,7 +9,7 @@ releaseDate: 2011-09-22
 howlongtobeat: 105
 difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/1656-dark-souls-trophy-guide
-durationHours: --
+durationHours:
 trophies: 41/41
 percent: 100%
 progress: complete

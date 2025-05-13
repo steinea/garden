@@ -9,7 +9,7 @@ releaseDate: 2001-09-25
 howlongtobeat: 8
 difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/486-ico-trophy-guide
-durationHours: --
+durationHours:
 trophies: 31/31
 percent: 100%
 progress: complete

@@ -9,7 +9,7 @@ releaseDate: 2011-11-11
 howlongtobeat: 234
 difficulty: --
 trophyGuide: --
-durationHours: --
+durationHours:
 trophies: 75/75
 percent: 100%
 progress: complete

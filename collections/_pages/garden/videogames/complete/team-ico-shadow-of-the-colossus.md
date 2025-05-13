@@ -9,7 +9,7 @@ releaseDate: 2005-10-18
 howlongtobeat: 21
 difficulty: --
 trophyGuide: --
-durationHours: --
+durationHours:
 trophies: 31/31
 percent: 100%
 progress: complete

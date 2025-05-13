@@ -9,7 +9,7 @@ releaseDate: 2022-02-10
 howlongtobeat: --
 difficulty: --
 trophyGuide: --
-durationHours: --
+durationHours:
 trophies: 13/13
 percent: 100%
 progress: complete
