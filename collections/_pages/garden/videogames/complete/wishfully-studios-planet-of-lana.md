@@ -9,12 +9,12 @@ releaseDate: 2023-05-23
 howlongtobeat: 5
 difficulty: --
 trophyGuide: --
-durationHours: --
-trophies: --
-percent: --
-progress: backlog
-link: --
-date: 1999-01-01
+durationHours: 5
+trophies: 25/25
+percent: 100%
+progress: complete
+link: https://www.exophase.com/game/planet-of-lana-xbox/achievements/#2209141
+date: 2025-03-02
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Planet_of_Lana):
