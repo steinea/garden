@@ -9,7 +9,7 @@ releaseDate: 2018-12-07
 howlongtobeat: 26
 difficulty: --
 trophyGuide: --
-durationHours: 83
+durationHours: 54
 trophies: 34/34
 percent: 100%
 progress: complete
