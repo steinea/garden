@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: now
 title: "Oxenfree II: Lost Signals"
 developer: Night School Studio
 publisher: Netflix Games
@@ -12,7 +13,6 @@ trophyGuide: https://steamcommunity.com/sharedfiles/filedetails/?l=english&id=30
 durationHours: 9
 trophies: 22/27
 percent: 81%
-progress: now
 link: https://steamcommunity.com/id/steinea/stats/1574310/
 date: 2024-10-15
 ---

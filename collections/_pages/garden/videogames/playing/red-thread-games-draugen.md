@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: now
 title: Draugen
 developer: Red Thread Games
 publisher: Red Thread Games
@@ -12,7 +13,6 @@ trophyGuide: https://steamcommunity.com/sharedfiles/filedetails/?id=1755587444
 durationHours: 2
 trophies: 7/13
 percent: 54%
-progress: now
 link: https://steamcommunity.com/id/steinea/stats/770390/
 date: 2024-11-02
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: now
 title: Disco Elysium
 developer: 	ZA/UM
 publisher: 	ZA/UM
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/12298-disco-elysium-trophy-guide
 durationHours: 41
 trophies: 32/45
 percent: 71%
-progress: now
 link: https://www.exophase.com/game/disco-elysium-steam/achievements/#1624301
 date: 2021-10-03
 ---

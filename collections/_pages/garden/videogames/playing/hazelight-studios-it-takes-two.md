@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: now
 title: It Takes Two
 developer: Hazelight Studios
 publisher: Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/14366-it-takes-two-trophy-guide
 durationHours: 12
 trophies: 8/21
 percent: 38%
-progress: now
 link: https://psnprofiles.com/trophies/12510-it-takes-two/barrelofjuice
 date: 2025-03-16
 ---

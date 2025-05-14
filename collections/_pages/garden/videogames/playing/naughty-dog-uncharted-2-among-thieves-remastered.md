@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: now
 title: "Uncharted 2: Among Thieves Remastered"
 developer: Naughty Dog
 publisher: Sony Interactive Entertainment
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/3423-uncharted-2-among-thieves-remast
 durationHours: 10
 trophies: 16/53
 percent: 30%
-progress: now
 link: https://psnprofiles.com/trophies/3937-uncharted-2-among-thieves-remastered/barrelofjuice
 date: 2023-11-18
 ---

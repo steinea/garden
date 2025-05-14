@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: now
 title: Starfield
 developer: Bethesda Game Studios
 publisher: Bethesda Softworks
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 104
 trophies: 50/62
 percent: 80%
-progress: now
 link: https://www.exophase.com/game/starfield-xbox/achievements/#2209141
 date: 2024-02-25
 ---

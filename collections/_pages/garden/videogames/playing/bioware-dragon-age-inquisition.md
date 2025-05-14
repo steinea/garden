@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: now
 title: "Dragon Age: Inquisition"
 developer: BioWare
 publisher: Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/2151-dragon-age-inquisition-trophy-gu
 durationHours: 267
 trophies: 59/70
 percent: 84%
-progress: now
 link: https://psnprofiles.com/trophies/3151-dragon-age-inquisition/barrelofjuice
 date: 2015-08-14
 ---

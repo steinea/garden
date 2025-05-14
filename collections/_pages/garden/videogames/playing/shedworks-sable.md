@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: now
 title: Sable
 developer: Shedworks
 publisher: Raw Fury
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/18412-sable-trophy-guide
 durationHours: 1
 trophies: 3/56
 percent: 5%
-progress: now
 link: https://www.exophase.com/game/sable-xbox/achievements/#2209141
 date: 2022-07-12
 ---

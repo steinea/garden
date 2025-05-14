@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: now
 title: Crawl
 developer: Powerhoof
 publisher: Powerhoof
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/13020-crawl-trophy-guide
 durationHours: 4
 trophies: 4/46
 percent: 8%
-progress: now
 link: --
 date: 2019-08-19
 ---

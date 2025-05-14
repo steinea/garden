@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: now
 title: Vampire Survivors
 developer: Poncle
 publisher: Poncle
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 55
 trophies: 204/228
 percent: 89%
-progress: now
 link: https://www.exophase.com/game/vampire-survivors-game-preview-xbox/achievements/#2209141
 date: 2024-03-21
 ---

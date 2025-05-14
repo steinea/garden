@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: now
 title: "The Elder Scrolls IV: Oblivion Remastered"
 developer: Virtuos and Bethesda Game Studios
 publisher: Bethesda Softworks
@@ -12,7 +13,6 @@ trophyGuide: https://www.xboxachievements.com/game/the-elder-scrolls-4-oblivion-
 durationHours: 11
 trophies: 9/60
 percent: 15%
-progress: now
 link: https://www.exophase.com/game/the-elder-scrolls-iv-oblivion-remastered-xbox/achievements/#2209141
 date: 2025-05-11
 ---

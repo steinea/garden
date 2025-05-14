@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: now
 title: Halo Infinite
 developer: 343 Industries
 publisher: Xbox Game Studios
@@ -12,7 +13,6 @@ trophyGuide:
 durationHours: 352
 trophies: 133/144
 percent: 91%
-progress: now
 link: https://www.exophase.com/game/halo-infinite-xbox/achievements/#2209141
 date: 2024-12-06
 ---
