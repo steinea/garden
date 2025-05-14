@@ -1,0 +1,10 @@
+---
+layout: default
+title: Posts
+---
+
+{% for page in site.pages %}
+  {% if page.category contains "posts" %}
+    <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+  {% endif %}
+{% endfor %}
