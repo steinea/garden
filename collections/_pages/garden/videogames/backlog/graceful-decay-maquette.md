@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: backlog
 title: Maquette
 developer: Graceful Decay
 publisher: Annapurna Interactive
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: --
 percent: --
-progress: backlog
 link: --
 date: 1999-01-01
 ---

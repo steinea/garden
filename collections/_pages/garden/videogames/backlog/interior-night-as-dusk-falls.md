@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: backlog
 title: As Dusk Falls
 developer: Interior Night
 publisher: Xbox Game Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: --
 percent: --
-progress: backlog
 link: --
 date: 1999-01-01
 ---

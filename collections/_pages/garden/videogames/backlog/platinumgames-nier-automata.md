@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: backlog
 title: "Nier: Automata"
 developer: PlatinumGames
 publisher: Square Enix
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/5884-nier-automata-trophy-guide
 durationHours: --
 trophies: --
 percent: --
-progress: backlog
 link: --
 date: 1999-01-01
 ---

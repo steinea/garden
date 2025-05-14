@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: backlog
 title: Nier Replicant ver.1.22474487139…
 developer: Cavia
 publisher: Square Enix
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/12106-nier-replicant-ver122474487139-
 durationHours: --
 trophies: --
 percent: --
-progress: backlog
 link: --
 date: 1999-01-01
 ---

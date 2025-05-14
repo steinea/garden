@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: backlog
 title: The Last Guardian
 developer: GenDesign
 publisher: Sony Interactive Entertainment
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/5539-the-last-guardian-trophy-guide
 durationHours: --
 trophies: --
 percent: --
-progress: backlog
 link: --
 date: 1999-01-01
 ---

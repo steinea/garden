@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: backlog
 title: Wild Hearts
 developer: Omega Force
 publisher: Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/19241-wild-hearts-trophy-guide
 durationHours: --
 trophies: --
 percent: --
-progress: backlog
 link: --
 date: 1999-01-01
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: backlog
 title: "Control: Ultimate Edition"
 developer: Remedy Entertainment
 publisher: 505 Games
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/9040-control-trophy-guide
 durationHours: --
 trophies: --
 percent: --
-progress: backlog
 link: --
 date: 1999-01-01
 ---

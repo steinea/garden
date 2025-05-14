@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: backlog
 title: "Jett: The Far Shore"
 developer: Superbrothers
 publisher: Pine Scented Software
@@ -12,7 +13,6 @@ trophyGuide: https://www.playstationtrophies.org/game/jett-the-far-shore/guide/
 durationHours: --
 trophies: --
 percent: --
-progress: backlog
 link: --
 date: 1999-01-01
 ---

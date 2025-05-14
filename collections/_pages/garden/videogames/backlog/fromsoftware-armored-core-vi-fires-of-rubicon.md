@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: backlog
 title: "Armored Core VI: Fires of Rubicon"
 developer: FromSoftware
 publisher: Bandai Namco Entertainment
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/17834-armored-core-vi-fires-of-rubico
 durationHours: --
 trophies: --
 percent: --
-progress: backlog
 link: --
 date: 1999-01-01
 ---

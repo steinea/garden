@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: backlog
 title: Lost in Random
 developer: Zoink
 publisher: Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/12996-lost-in-random-trophy-guide
 durationHours: --
 trophies: --
 percent: --
-progress: backlog
 link: --
 date: 1999-01-01
 ---

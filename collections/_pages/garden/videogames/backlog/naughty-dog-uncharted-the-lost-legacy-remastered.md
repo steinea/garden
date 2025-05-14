@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: backlog
 title: "Uncharted: The Lost Legacy Remastered"
 developer: Naughty Dog
 publisher: Sony Interactive Entertainment
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/6375-uncharted-the-lost-legacy-trophy
 durationHours: --
 trophies: --
 percent: --
-progress: backlog
 link: --
 date: 1999-01-01
 ---

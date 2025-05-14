@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: backlog
 title: "Uncharted 3: Drake’s Deception Remastered"
 developer: Naughty Dog
 publisher: Sony Computer Entertainment
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/3434-uncharted-3-drakes-deception-rem
 durationHours: --
 trophies: --
 percent: --
-progress: backlog
 link: --
 date: 1999-01-01
 ---

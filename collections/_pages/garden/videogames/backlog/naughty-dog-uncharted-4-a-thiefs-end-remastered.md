@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: backlog
 title: "Uncharted 4: A Thief’s End Remastered"
 developer: Naughty Dog
 publisher: Sony Computer Entertainment
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/4401-uncharted-4-a-thiefs-end-trophy-
 durationHours: --
 trophies: --
 percent: --
-progress: backlog
 link: --
 date: 1999-01-01
 ---

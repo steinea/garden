@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: backlog
 title: Solar Ash
 developer: Heart Machine
 publisher: Annapurna Interactive
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/13377-solar-ash-trophy-guide
 durationHours: --
 trophies: --
 percent: --
-progress: backlog
 link: --
 date: 1999-01-01
 ---

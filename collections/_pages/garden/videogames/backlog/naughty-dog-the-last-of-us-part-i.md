@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: backlog
 title: The Last of Us Part I
 developer: Naughty Dog
 publisher: Sony Interactive Entertainment
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/15152-the-last-of-us-part-i-platinum-
 durationHours: --
 trophies: --
 percent: --
-progress: backlog
 link: --
 date: 1999-01-01
 ---

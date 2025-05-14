@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: backlog
 title: "Endling: Extinction is Forever"
 developer: Herobeat Studios
 publisher: HandyGames
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/17055-endling-extinction-is-forever-t
 durationHours: --
 trophies: --
 percent: --
-progress: backlog
 link: --
 date: 1999-01-01
 ---
