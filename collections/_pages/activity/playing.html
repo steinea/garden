@@ -8,35 +8,35 @@ permalink: /playing/
 <!-- Category Counts -->
 {% assign totalPlaying = 0 %}
   {% for page in site.pages %}
-    {% if page.category contains "videogame" and page.progress contains "now" %}
+    {% if page.category contains "videogame" and page.subcategory contains "now" %}
       {% assign totalPlaying = totalPlaying | plus: 1 %}
     {% endif %}
   {% endfor %}
 
 {% assign totalComplete = 0 %}
   {% for page in site.pages %}
-    {% if page.category contains "videogame" and page.progress contains "complete" %}
+    {% if page.category contains "videogame" and page.subcategory contains "complete" %}
       {% assign totalComplete = totalComplete | plus: 1 %}
     {% endif %}
   {% endfor %}
 
 {% assign totalRetired = 0 %}
   {% for page in site.pages %}
-    {% if page.category contains "videogame" and page.progress contains "retired" %}
+    {% if page.category contains "videogame" and page.subcategory contains "retired" %}
       {% assign totalRetired = totalRetired | plus: 1 %}
     {% endif %}
   {% endfor %}
 
 {% assign totalBacklog = 0 %}
   {% for page in site.pages %}
-    {% if page.category contains "videogame" and page.progress contains "backlog" %}
+    {% if page.category contains "videogame" and page.subcategory contains "backlog" %}
       {% assign totalBacklog = totalBacklog | plus: 1 %}
     {% endif %}
   {% endfor %}
 
 {% assign totalWishlist = 0 %}
   {% for page in site.pages %}
-    {% if page.category contains "videogame" and page.progress contains "wishlist" %}
+    {% if page.category contains "videogame" and page.subcategory contains "wishlist" %}
       {% assign totalWishlist = totalWishlist | plus: 1 %}
     {% endif %}
   {% endfor %}
@@ -67,7 +67,7 @@ permalink: /playing/
 
     <tbody>
       {% for page in site.pages %}
-        {% if page.category contains "videogame" and page.progress contains "now" %}
+        {% if page.category contains "videogame" and page.subcategory contains "now" %}
           <tr>
             <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
         		<td>{{ page.platform }}</td>
@@ -108,7 +108,7 @@ permalink: /playing/
 
     <tbody>
       {% for page in site.pages %}
-        {% if page.category contains "videogame" and page.progress contains "complete" %}
+        {% if page.category contains "videogame" and page.subcategory contains "complete" %}
           <tr>
             <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
         		<td>{{ page.platform }}</td>
@@ -149,7 +149,7 @@ permalink: /playing/
 
     <tbody>
       {% for page in site.pages %}
-        {% if page.category contains "videogame" and page.progress contains "retired" %}
+        {% if page.category contains "videogame" and page.subcategory contains "retired" %}
           <tr>
             <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
             <td>{{ page.platform }}</td>
@@ -187,7 +187,7 @@ permalink: /playing/
 
     <tbody>
       {% for page in site.pages %}
-        {% if page.category contains "videogame" and page.progress contains "backlog" %}
+        {% if page.category contains "videogame" and page.subcategory contains "backlog" %}
           <tr>
             <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
             <td>{{ page.platform }}</td>
