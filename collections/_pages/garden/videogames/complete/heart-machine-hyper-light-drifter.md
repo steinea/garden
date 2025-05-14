@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Hyper Light Drifter
 developer: Heart Machine
 publisher: Heart Machine
@@ -12,7 +13,6 @@ trophyGuide: ---
 durationHours: 18
 trophies: 23/23
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/257850/
 date: 2021-10-13
 ---

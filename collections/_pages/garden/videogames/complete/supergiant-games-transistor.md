@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Transistor
 developer: Supergiant Games
 publisher: Supergiant Games
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/944-transistor-trophy-guide
 durationHours: 13
 trophies: 34/34
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/2619-transistor/barrelofjuice
 date: 2014-06-03
 ---

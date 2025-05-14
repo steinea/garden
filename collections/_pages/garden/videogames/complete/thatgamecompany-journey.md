@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Journey
 developer: Thatgamecompany
 publisher: Sony Computer Entertainment
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/1271-journey-trophy-guide
 durationHours: 10
 trophies: 14/14
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/3705-journey/barrelofjuice
 date: 2017-08-15
 ---

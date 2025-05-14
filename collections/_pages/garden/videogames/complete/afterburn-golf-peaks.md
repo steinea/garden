@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Golf Peaks
 developer: Afterburn
 publisher: Afterburn
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours:
 trophies: 12/12
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/golf-peaks-android/achievements/#1644034
 date: 2023-07-16
 ---

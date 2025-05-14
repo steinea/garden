@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: 'The Walking Dead: Season 2'
 developer: Telltale Games
 publisher: Telltale Games
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/716-the-walking-dead-season-2-trophy-
 durationHours: 22
 trophies: 40/40
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/2971-the-walking-dead-season-2/barrelofjuice
 date: 2015-03-02
 ---

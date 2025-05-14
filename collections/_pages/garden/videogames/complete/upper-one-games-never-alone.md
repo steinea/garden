@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Never Alone
 developer: Upper One Games
 publisher: E-Line Media
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/2209-never-alone-trophy-guide
 durationHours: 7
 trophies: 19/19
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/3154-never-alone/barrelofjuice
 date: 2015-07-29
 ---

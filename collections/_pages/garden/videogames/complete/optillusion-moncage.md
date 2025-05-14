@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Moncage
 developer: Optillusion
 publisher: XD
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 2
 trophies: 15/15
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/1195290/
 date: 2022-09-23
 ---

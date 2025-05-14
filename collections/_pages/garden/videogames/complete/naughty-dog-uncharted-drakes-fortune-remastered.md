@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: "Uncharted: Drake’s Fortune Remastered"
 developer: Naughty Dog
 publisher: Sony Computer Entertainment
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/3418-uncharted-drakes-fortune-remaste
 durationHours: 36
 trophies: 54/54
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/3938-uncharted-drakes-fortune-remastered/barrelofjuice
 date: 2016-12-08
 ---

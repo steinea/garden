@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: 'Dark Souls II: Scholar of the First Sin'
 developer: FromSoftware
 publisher: Bandai Namco Games
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/357-dark-souls-ii-trophy-guide
 durationHours: 47
 trophies: 38/38
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/335300/
 date: 2023-04-02
 ---

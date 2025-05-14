@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Venba
 developer: Visai Games
 publisher: Visai Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 3
 trophies: 15/15
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/venba-xbox/achievements/#2209141
 date: 2023-08-14
 ---

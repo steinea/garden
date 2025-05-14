@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Norco
 developer: Geography of Robots
 publisher: Raw Fury
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 7
 trophies: 35/35
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/norco-xbox/achievements/#2209141
 date: 2022-04-15
 ---

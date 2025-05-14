@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Hollow Knight
 developer: Team Cherry
 publisher: Team Cherry
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 69
 trophies: 63/63
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/367520/
 date: 2020-06-23
 ---

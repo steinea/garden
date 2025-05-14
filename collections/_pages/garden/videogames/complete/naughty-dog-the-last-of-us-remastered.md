@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: The Last of Us Remastered
 developer: Naughty Dog
 publisher: Sony Computer Entertainment
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/6004-the-last-of-us-remastered-trophy
 durationHours: 103
 trophies: 50/50
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/2752-the-last-of-us-remastered/barrelofjuice
 date: 2019-10-06
 ---

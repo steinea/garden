@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: "Dear Esther: Landmark Edition"
 developer: The Chinese Room
 publisher: Secret Mode
@@ -12,7 +13,6 @@ trophyGuide:
 durationHours: 4
 trophies: 10/10
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/dear-esther-landmark-edition-steam/achievements/#1624301
 date: 2024-09-22
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Gorogoa
 developer: Jason Roberts
 publisher: Annapurna Interactive
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 2
 trophies: 11/11
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/557600/
 date: 2022-09-15
 ---

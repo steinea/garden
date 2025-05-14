@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: 'The Walking Dead: The Final Season'
 developer: Telltale Games and Skybound Games
 publisher: Telltale Games and Skybound Games
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/17133-the-walking-dead-the-final-seas
 durationHours: 13
 trophies: 49/49
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/8022-the-walking-dead-the-final-season/barrelofjuice
 date: 2022-05-20
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Monument Valley 2
 developer: Ustwo Games
 publisher: Ustwo Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours:
 trophies: 15/15
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/monument-valley-2-android/achievements/#1644034
 date: 2018-11-26
 ---

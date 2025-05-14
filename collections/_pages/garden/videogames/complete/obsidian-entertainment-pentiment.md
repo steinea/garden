@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Pentiment
 developer: Obsidian Entertainment
 publisher: Xbox Game Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 19
 trophies: 41/41
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/pentiment-xbox/achievements/#2209141
 date: 2023-09-05
 ---

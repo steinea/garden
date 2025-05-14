@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Papers, Please
 developer: Lucas Pope
 publisher: 3909 LLC
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 13
 trophies: 13/13
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/239030/
 date: 2020-10-13
 ---

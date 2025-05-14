@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: The Ramp
 developer: Paul Schnepf
 publisher: hyperparadise
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 1
 trophies: 12/12
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/1506510/
 date: 2022-02-21
 ---

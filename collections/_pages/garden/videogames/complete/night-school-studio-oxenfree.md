@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Oxenfree
 developer: Night School Studio
 publisher: Night School Studio
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 11
 trophies: 13/13
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/388880/
 date: 2021-06-01
 ---

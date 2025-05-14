@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: 'Star Wars Jedi: Fallen Order'
 developer: Respawn Entertainment
 publisher: Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 27
 trophies: 40/40
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/star-wars-jedi-fallen-order-stadia/achievements/#1889706
 date: 2021-05-20
 ---

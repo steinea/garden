@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Umurangi Generation
 developer: Origame Digital
 publisher: Origame Digital and Playism
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 5
 trophies: 23/23
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/1223500/
 date: 2021-03-04
 ---

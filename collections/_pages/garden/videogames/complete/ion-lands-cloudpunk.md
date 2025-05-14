@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Cloudpunk
 developer: Ion Lands
 publisher: Maple Whispering Limited
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 11
 trophies: 79/79
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/746850/
 date: 2021-03-23
 ---

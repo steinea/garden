@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Demon’s Souls
 developer: FromSoftware
 publisher: Sony Computer Entertainment
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/989-demons-souls-trophy-guide
 durationHours:
 trophies: 38/38
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/104-demons-souls/barrelofjuice
 date: 2019-04-01
 ---

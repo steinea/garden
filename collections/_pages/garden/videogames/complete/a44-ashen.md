@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Ashen
 developer: A44
 publisher: Annapurna Interactive
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 54
 trophies: 34/34
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/649950/
 date: 2021-08-11
 ---

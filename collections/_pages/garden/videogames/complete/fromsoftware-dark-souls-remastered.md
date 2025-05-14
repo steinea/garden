@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: 'Dark Souls: Remastered'
 developer: FromSoftware
 publisher: Namco Bandai Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 131
 trophies: 41/41
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/570940/
 date: 2020-03-29
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: "Elden Ring: Shadow of the Erdtree"
 developer: FromSoftware
 publisher: Bandai Namco Entertainment
@@ -12,7 +13,6 @@ trophyGuide:
 durationHours: 42
 trophies:
 percent:
-progress: complete
 link: https://www.exophase.com/game/elden-ring-steam/achievements/#1624301
 date: 2024-07-06
 ---

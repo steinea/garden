@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: We Know the Devil
 developer: Date Nighto
 publisher: Date Nighto
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 2
 trophies: 5/5
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/435300/
 date: 2022-04-06
 ---

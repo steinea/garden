@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Dorfromantik
 developer: Toukana Interactive
 publisher: Toukana Interactive
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 61
 trophies: 85/85
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/1455840/
 date: 2022-12-13
 ---

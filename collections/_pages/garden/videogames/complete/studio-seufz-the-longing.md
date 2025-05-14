@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: The Longing
 developer: Studio Seufz
 publisher: Application Systems Heidelberg
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 17
 trophies: 25/25
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/893850/
 date: 2021-02-10
 ---

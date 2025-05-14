@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Unpacking
 developer: Witch Beam
 publisher: Humble Bundle
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 3
 trophies: 25/25
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/unpacking-xbox/achievements/#2209141
 date: 2021-11-28
 ---

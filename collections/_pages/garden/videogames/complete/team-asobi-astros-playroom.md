@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Astro's Playroom
 developer: Team Asobi
 publisher: Sony Interactive Entertainment
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/11237-astros-playroom-trophy-guide
 durationHours: 5
 trophies: 51/51
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/11753-astros-playroom/barrelofjuice
 date: 2025-03-13
 ---

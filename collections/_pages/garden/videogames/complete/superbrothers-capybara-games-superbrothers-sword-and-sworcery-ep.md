@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: 'Superbrothers: Sword & Sworcery EP'
 developer: Superbrothers and Capybara Games
 publisher: Capybara Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 3
 trophies: 14/14
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/SuperbrothersSwordampSworceryEP
 date: 2020-08-24
 ---

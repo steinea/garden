@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: A Short Hike
 developer: Adam Robinson-Yu
 publisher: Adam Robinson-Yu
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 7
 trophies: 12/12
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/1055540/
 date: 2022-01-05
 ---

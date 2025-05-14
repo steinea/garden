@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Gris
 developer: Nomada Studio
 publisher: Devolver Digital
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 5
 trophies: 17/17
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/683320/?tab=achievements
 date: 2021-06-01
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Alto’s Adventure
 developer: Team Alto
 publisher: Noodlecake Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 12
 trophies: 17/17
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/altos-adventure-android/achievements/#1644034
 date: 2024-01-12
 ---

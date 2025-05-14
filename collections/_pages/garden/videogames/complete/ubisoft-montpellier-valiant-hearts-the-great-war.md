@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: 'Valiant Hearts: The Great War'
 developer: Ubisoft Montpellier
 publisher: Ubisoft
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/2989-valiant-hearts-the-great-war-tro
 durationHours: 18
 trophies: 20/20
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/2663-valiant-hearts-the-great-war/barrelofjuice
 date: 2015-03-27
 ---

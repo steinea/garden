@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: The Walking Dead
 developer: Telltale Games
 publisher: Telltale Games
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/1826-the-walking-dead-trophy-guide
 durationHours: 29
 trophies: 49/49
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/3000-the-walking-dead/barrelofjuice
 date: 2015-02-25
 ---

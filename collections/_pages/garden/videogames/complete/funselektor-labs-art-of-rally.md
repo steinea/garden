@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Art of Rally
 developer: Funselektor Labs
 publisher: Funselektor Labs
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/13506-art-of-rally-trophy-guide
 durationHours: 22
 trophies: 44/44
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/14211-art-of-rally/barrelofjuice
 date: 2023-09-08
 ---

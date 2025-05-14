@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Night in the Woods
 developer: Infinite Fall
 publisher: Finji
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 18
 trophies: 31/31
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/481510/
 date: 2022-04-30
 ---

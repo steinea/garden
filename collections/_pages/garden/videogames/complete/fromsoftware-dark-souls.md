@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Dark Souls
 developer: FromSoftware
 publisher: Namco Bandai Games
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/1656-dark-souls-trophy-guide
 durationHours:
 trophies: 41/41
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/1057-dark-souls/barrelofjuice
 date: 2014-07-17
 ---

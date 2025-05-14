@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: 'Sekiro: Shadows Die Twice'
 developer: FromSoftware
 publisher: Activision
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 26
 trophies: 34/34
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/814380/
 date: 2022-05-28
 ---

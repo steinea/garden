@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Cyberpunk 2077
 developer: CD Projekt Red
 publisher: CD Projekt
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 74
 trophies: 44/44
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/cyberpunk-2077-stadia/achievements/#1889706
 date: 2021-01-27
 ---

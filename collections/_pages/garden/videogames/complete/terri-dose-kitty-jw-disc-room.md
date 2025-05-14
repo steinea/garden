@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Disc Room
 developer: Terri, Dose, Kitty, and JW
 publisher: Devolver Digital
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 11
 trophies: 35/35
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/disc-room-xbox/achievements/#2209141
 date: 2023-08-19
 ---

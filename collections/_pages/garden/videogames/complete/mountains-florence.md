@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Florence
 developer: Mountains
 publisher: Annapurna Interactive
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 1
 trophies: 12/12
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/1102130/
 date: 2022-01-21
 ---

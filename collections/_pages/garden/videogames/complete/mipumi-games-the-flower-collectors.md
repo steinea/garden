@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: The Flower Collectors
 developer: Mi'pu'mi Games
 publisher: Mi'pu'mi Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 6
 trophies: 13/13
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/1034750/
 date: 2021-03-11
 ---

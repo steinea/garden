@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Mutazione
 developer: Die Gute Fabrik
 publisher: Akupara Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 7
 trophies: 20/20
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/1080750/
 date: 2021-01-14
 ---

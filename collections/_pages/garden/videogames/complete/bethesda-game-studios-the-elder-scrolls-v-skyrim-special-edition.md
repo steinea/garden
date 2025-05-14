@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: 'The Elder Scrolls V: Skyrim Special Edition'
 developer: Bethesda Game Studios
 publisher: Bethesda Softworks
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/1277-the-elder-scrolls-v-skyrim-troph
 durationHours: 118
 trophies: 76/76
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/5507-the-elder-scrolls-v-skyrim/barrelofjuice
 date: 2017-01-06
 ---

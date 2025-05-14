@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Gone Home
 developer: The Fullbright Company
 publisher: Annapurna Interactive
@@ -12,7 +13,6 @@ trophyGuide:
 durationHours: 2
 trophies: 10/10
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/gone-home-steam/achievements/#1624301
 date: 2024-10-06
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: The Last of Us Part II
 developer: Naughty Dog
 publisher: Sony Interactive Entertainment
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/10411-the-last-of-us-part-ii-trophy-g
 durationHours: 77
 trophies: 28/28
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/10960-the-last-of-us-part-ii/barrelofjuice
 date: 2025-01-27
 ---

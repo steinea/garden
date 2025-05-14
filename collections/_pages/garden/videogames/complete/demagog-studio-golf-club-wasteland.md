@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: "Golf Club: Wasteland"
 developer: Demagog Studio
 publisher: Untold Tales
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours:
 trophies: 14/14
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/golf-club-wasteland-android/achievements/#1644034
 date: 2021-11-04
 ---

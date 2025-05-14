@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Eliza
 developer: Zachtronics
 publisher: Zachtronics
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 6
 trophies: 1/1
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/716500/
 date: 2021-06-06
 ---

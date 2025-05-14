@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Inside
 developer: Playdead
 publisher: Playdead
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 3
 trophies: 14/14
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/304430/
 date: 2022-09-15
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Absolver
 developer: Sloclap
 publisher: Devolver Digital
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 42
 trophies: 22/22
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/473690/
 date: 2022-01-10
 ---

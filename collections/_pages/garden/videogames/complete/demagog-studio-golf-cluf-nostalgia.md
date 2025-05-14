@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: "Golf Club: Nostalgia"
 developer: Demagog Studio
 publisher: Untold Tales
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/12864-golf-club-nostalgia-trophy-guid
 durationHours: 9
 trophies: 28/28
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/13725-golf-club-nostalgia/barrelofjuice
 date: 2024-03-04
 ---

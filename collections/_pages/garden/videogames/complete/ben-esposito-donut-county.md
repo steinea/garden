@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Donut County
 developer: Ben Esposito
 publisher: Annapurna Interactive
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 2
 trophies: 20/20
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/702670/
 date: 2020-09-29
 ---

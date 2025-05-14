@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Adios
 developer: Mischief
 publisher: Mischief
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 2
 trophies: 25/25
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/1271400/
 date: 2021-06-05
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Shredders
 developer: FoamPunch
 publisher: FoamPunch
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 5
 trophies: 35/35
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/shredders-xbox/achievements/#2209141
 date: 2022-03-27
 ---

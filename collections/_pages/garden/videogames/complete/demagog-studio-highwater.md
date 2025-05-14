@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Highwater
 developer: Demagog Studio
 publisher: Rogue Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 17
 trophies: 20/20
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/26211-highwater/barrelofjuice
 date: 2024-06-06
 ---

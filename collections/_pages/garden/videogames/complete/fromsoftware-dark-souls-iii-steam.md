@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Dark Souls III
 developer: FromSoftware
 publisher: Bandai Namco Entertainment
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 142
 trophies: 43/43
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/374320/
 date: 2020-05-10
 ---

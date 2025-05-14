@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: "Monument Valley: Panoramic Edition"
 developer: Ustwo Games
 publisher: Ustwo Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 2
 trophies: 19/19
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/monument-valley-steam/achievements/#1624301
 date: 2024-07-12
 ---

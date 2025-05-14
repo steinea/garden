@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Immortality
 developer: Half Mermaid Productions
 publisher: Half Mermaid Productions
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 16
 trophies: 27/27
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/immortality-xbox/achievements/#2209141
 date: 2023-08-19
 ---

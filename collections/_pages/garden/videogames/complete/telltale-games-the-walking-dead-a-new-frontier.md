@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: 'The Walking Dead: A New Frontier'
 developer: Telltale Games
 publisher: Telltale Games
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/6197-the-walking-dead-a-new-frontier-
 durationHours: 7
 trophies: 31/31
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/5698-the-walking-dead-a-new-frontier/barrelofjuice
 date: 2022-05-13
 ---

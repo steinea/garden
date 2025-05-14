@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: 'The Elder Scrolls IV: Oblivion'
 developer: Bethesda Game Studios
 publisher: Bethesda Softworks
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours:
 trophies: 60/60
 percent: 100%
-progress: complete
 link: --
 date: 2011-11-05
 ---

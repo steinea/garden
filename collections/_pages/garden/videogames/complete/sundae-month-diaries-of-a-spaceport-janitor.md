@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Diaries of a Spaceport Janitor
 developer: Sundae Month
 publisher: tinyBuild
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 13
 trophies: 44/44
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/436500/
 date: 2020-09-30
 ---

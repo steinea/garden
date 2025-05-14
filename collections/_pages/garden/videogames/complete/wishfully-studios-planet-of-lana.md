@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Planet of Lana
 developer: Wishfully Studios
 publisher: Thunderful Publishing
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 5
 trophies: 25/25
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/planet-of-lana-xbox/achievements/#2209141
 date: 2025-03-02
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: What Remains of Edith Finch
 developer: Giant Sparrow
 publisher: Annapurna Interactive
@@ -12,7 +13,6 @@ trophyGuide:
 durationHours: 4
 trophies: 9/9
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/what-remains-of-edith-finch-steam/achievements/#1624301
 date: 2024-10-04
 ---

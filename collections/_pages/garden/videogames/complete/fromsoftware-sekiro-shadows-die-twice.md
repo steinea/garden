@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: 'Sekiro: Shadows Die Twice'
 developer: FromSoftware
 publisher: Activison
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/8525-sekiro-shadows-die-twice-trophy-
 durationHours: 84
 trophies: 34/34
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/8864-sekiro-shadows-die-twice/barrelofjuice
 date: 2019-08-19
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Untitled Goose Game
 developer: House House
 publisher: Panic Inc.
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 6
 trophies: 25/25
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/837470/
 date: 2020-10-01
 ---

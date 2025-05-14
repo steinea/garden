@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Sportsfriends
 developer: Die Gute Fabrik
 publisher: Die Gute Fabrik
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/1676-sportsfriends-trophy-guide
 durationHours: 6
 trophies: 14/14
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/2593-sportsfriends/barrelofjuice
 date: 2015-07-31
 ---

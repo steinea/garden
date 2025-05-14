@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: The Cub
 developer: Demagog Studio
 publisher: Untold Tales
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 5
 trophies: 20/20
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/25510-the-cub/barrelofjuice
 date: 2024-03-07
 ---

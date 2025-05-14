@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Kentucky Route Zero
 developer: Cardboard Computer
 publisher: Annapurna Interactive
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 31
 trophies: 24/24
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/231200/
 date: 2020-10-07
 ---

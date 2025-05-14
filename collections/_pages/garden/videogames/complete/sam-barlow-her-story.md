@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Her Story
 developer: Sam Barlow
 publisher: Sam Barlow
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 3
 trophies: 13/13
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/368370/?tab=achievements
 date: 2017-09-06
 ---

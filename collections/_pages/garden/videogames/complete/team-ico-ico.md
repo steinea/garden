@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Ico
 developer: Team Ico
 publisher: Sony Computer Entertainment
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/486-ico-trophy-guide
 durationHours:
 trophies: 31/31
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/1035-ico/barrelofjuice
 date: 2019-10-21
 ---

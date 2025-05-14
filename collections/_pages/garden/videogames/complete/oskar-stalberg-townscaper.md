@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Townscaper
 developer: Oskar Stålberg
 publisher: Oskar Stålberg
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 1
 trophies: 10/10
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/townscaper-xbox/achievements/#2209141
 date: 2022-01-16
 ---

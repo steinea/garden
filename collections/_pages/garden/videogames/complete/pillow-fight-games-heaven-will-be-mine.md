@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Heaven Will Be Mine
 developer: Pillow Fight Games
 publisher: Pillow Fight Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 5
 trophies: 12/12
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/836450/
 date: 2022-04-08
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: 'Star Wars Jedi: Survivor'
 developer: Respawn Entertainment
 publisher: 	Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/16676-star-wars-jedi-survivor-trophy-
 durationHours: 43
 trophies: 54/54
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/21937-star-wars-jedi-survivor/barrelofjuice
 date: 2023-07-09
 ---

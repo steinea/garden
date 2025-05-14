@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Descenders
 developer: RageSquid
 publisher: No More Robots
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 78
 trophies: 42/42
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/681280/
 date: 2022-01-04
 ---

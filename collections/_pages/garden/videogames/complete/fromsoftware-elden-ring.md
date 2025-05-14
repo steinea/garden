@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Elden Ring
 developer: FromSoftware
 publisher: Bandai Namco Entertainment
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 136
 trophies: 42/42
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/1245620/
 date: 2022-03-22
 ---

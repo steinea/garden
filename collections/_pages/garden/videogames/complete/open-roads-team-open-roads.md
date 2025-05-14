@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Open Roads
 developer: Open Roads Team
 publisher: Annapurna Interactive
@@ -12,7 +13,6 @@ trophyGuide:
 durationHours: 2
 trophies: 16/16
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/open-roads-steam/achievements/#1624301
 date: 2024-10-12
 ---

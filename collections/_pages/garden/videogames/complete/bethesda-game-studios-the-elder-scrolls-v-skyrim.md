@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: 'The Elder Scrolls V: Skyrim'
 developer: Bethesda Game Studios
 publisher: Bethesda Softworks
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours:
 trophies: 75/75
 percent: 100%
-progress: complete
 link: --
 date: 2013-04-09
 ---

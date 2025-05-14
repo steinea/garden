@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: The Stanley Parable
 developer: Galactic Cafe
 publisher: Galactic Cafe
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 28
 trophies: 10/10
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/221910/
 date: 2022-01-03
 ---

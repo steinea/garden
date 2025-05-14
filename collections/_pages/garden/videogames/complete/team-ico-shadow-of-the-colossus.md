@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Shadow of the Colossus
 developer: Team Ico
 publisher: Sony Computer Entertainment
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours:
 trophies: 31/31
 percent: 100%
-progress: complete
 link: https://psnprofiles.com/trophies/1034-shadow-of-the-colossus/barrelofjuice
 date: 2020-01-19
 ---

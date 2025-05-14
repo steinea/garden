@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Wavelength
 developer: CMYK Games
 publisher: CMYK Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours:
 trophies: 13/13
 percent: 100%
-progress: complete
 link: https://www.exophase.com/game/wavelength-android/achievements/#1644034
 date: 2025-02-28
 ---

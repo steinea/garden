@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: 'Unbeatable: White Label'
 developer: D-CELL GAMES
 publisher: D-CELL GAMES
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 1
 trophies: 3/3
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/1290490/
 date: 2021-06-18
 ---

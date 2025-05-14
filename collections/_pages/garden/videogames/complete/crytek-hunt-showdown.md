@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: 'Hunt: Showdown'
 developer: Crytek
 publisher: Crytek
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 535
 trophies: 37/37
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/594650/
 date: 2021-08-22
 ---

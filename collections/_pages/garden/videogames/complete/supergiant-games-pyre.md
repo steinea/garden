@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Pyre
 developer: Supergiant Games
 publisher: Supergiant Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 19
 trophies: 51/51
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/462770/
 date: 2020-12-26
 ---

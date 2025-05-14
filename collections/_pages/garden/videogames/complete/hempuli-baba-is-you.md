@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Baba Is You
 developer: Hempuli
 publisher: Hempuli
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 23
 trophies: 18/18
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/736260/
 date: 2020-09-25
 ---

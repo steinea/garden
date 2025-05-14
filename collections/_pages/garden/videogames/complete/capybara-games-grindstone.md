@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: complete
 title: Grindstone
 developer: Capybara Games
 publisher: Capybara Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 31
 trophies: 49/49
 percent: 100%
-progress: complete
 link: https://steamcommunity.com/id/steinea/stats/1818690/achievements/
 date: 2023-08-23
 ---
