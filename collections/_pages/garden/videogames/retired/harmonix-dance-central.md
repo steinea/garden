@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Dance Central
 developer: Harmonix
 publisher: MTV Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 8/50
 percent: 16%
-progress: retired
 link: --
 date: 2011-01-05
 ---

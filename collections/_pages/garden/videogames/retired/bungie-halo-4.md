@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Halo 4
 developer: 343 Industries
 publisher: Microsoft Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 45/86
 percent: 52%
-progress: retired
 link: --
 date: 2015-10-18
 ---

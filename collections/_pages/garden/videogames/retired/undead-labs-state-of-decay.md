@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: State of Decay
 developer: Undead Labs
 publisher: Microsoft Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 8/46
 percent: 17%
-progress: retired
 link: --
 date: 2013-06-26
 ---

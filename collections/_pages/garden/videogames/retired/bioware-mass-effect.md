@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Mass Effect
 developer: BioWare
 publisher: Microsoft Game Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 33/49
 percent: 67%
-progress: retired
 link: --
 date: 2012-04-01
 ---

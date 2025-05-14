@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: The Elder Scrolls Online
 developer: ZeniMax Online Studios
 publisher: Bethesda Softworks
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/16974-the-elder-scrolls-online-trophy
 durationHours: 176
 trophies: 21/124
 percent: 17%
-progress: retired
 link: https://psnprofiles.com/trophies/3610-the-elder-scrolls-online/barrelofjuice
 date: 2019-11-05
 ---

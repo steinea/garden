@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Assassin's Creed II
 developer: Ubisoft Montréal
 publisher: Ubisoft
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 5/50
 percent: 10%
-progress: retired
 link: --
 date: 2012-02-29
 ---

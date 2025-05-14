@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Mass Effect 2
 developer: BioWare
 publisher: Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 57/62
 percent: 92%
-progress: retired
 link: --
 date: 2012-04-26
 ---

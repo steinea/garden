@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Guitar Hero World Tour
 developer: Neversoft
 publisher: Activision
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 25/50
 percent: 50%
-progress: retired
 link: --
 date: 2009-09-19
 ---

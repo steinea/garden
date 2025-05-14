@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Destiny
 developer: Bungie
 publisher: Activision
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 64
 trophies: 26/61
 percent: 42%
-progress: retired
 link: --
 date: 2016-08-23
 ---

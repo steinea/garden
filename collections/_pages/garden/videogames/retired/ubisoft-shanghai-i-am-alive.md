@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: I Am Alive
 developer: Ubisoft Shanghai
 publisher: Ubisoft
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 3/12
 percent: 25%
-progress: retired
 link: --
 date: 2012-06-09
 ---

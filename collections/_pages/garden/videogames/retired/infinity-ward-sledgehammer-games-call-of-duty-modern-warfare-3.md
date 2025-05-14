@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: "Call of Duty: Modern Warfare 3"
 developer: Infinity Ward and Sledgehammer Games
 publisher: Activision
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 33/76
 percent: 43%
-progress: retired
 link: --
 date: 2012-05-29
 ---

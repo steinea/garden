@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Kinect Sports
 developer: Rare
 publisher: Microsoft Game Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 26/70
 percent: 37%
-progress: retired
 link: --
 date: 2011-12-19
 ---

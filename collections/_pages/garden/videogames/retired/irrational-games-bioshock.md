@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: BioShock
 developer: Irrational Games
 publisher: 2K
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/5341-bioshock-trophy-guide
 durationHours: --
 trophies: 48/66
 percent: 73%
-progress: retired
 link: https://psnprofiles.com/trophies/3-bioshock/barrelofjuice
 date: 2014-08-14
 ---

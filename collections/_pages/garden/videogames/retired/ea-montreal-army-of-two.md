@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Army of Two
 developer: EA Montreal
 publisher: Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 10/47
 percent: 21%
-progress: retired
 link: --
 date: 2010-09-06
 ---

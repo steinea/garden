@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: F1 22
 developer: Codemasters
 publisher: EA Sports
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 1
 trophies: 1/50
 percent: 2%
-progress: retired
 link: --
 date: 2022-07-08
 ---

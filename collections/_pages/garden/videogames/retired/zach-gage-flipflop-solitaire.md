@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Flipflop Solitaire
 developer: Zach Gage
 publisher: Noodlecake
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 53/102
 percent: 52%
-progress: retired
 link: --
 date: 2022-09-24
 ---

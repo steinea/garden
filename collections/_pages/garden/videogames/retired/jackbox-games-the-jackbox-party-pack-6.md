@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: The Jackbox Party Pack 6
 developer: Jackbox Games
 publisher: Jackbox Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 5
 trophies: 2/20
 percent: 1%
-progress: retired
 link: --
 date: 2020-07-01
 ---

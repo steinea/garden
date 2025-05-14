@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Siralim
 developer: Thylacine Studios
 publisher: Thylacine Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 0.4
 trophies: 3/322
 percent: 1%
-progress: retired
 link: https://steamcommunity.com/id/steinea/stats/362090/
 date: 2017-01-14
 ---

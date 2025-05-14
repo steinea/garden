@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Fable II
 developer: Lionhead Studios
 publisher: Microsoft Game Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 20/66
 percent: 30%
-progress: retired
 link: --
 date: 2010-01-02
 ---

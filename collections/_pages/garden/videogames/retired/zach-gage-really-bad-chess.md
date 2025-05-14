@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Really Bad Chess
 developer: Zach Gage
 publisher: Noodlecake Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 3/24
 percent: 12%
-progress: retired
 link: --
 date: 2022-10-15
 ---

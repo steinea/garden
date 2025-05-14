@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: "Lego Batman: The Videogame"
 developer: Traveller's Tales
 publisher: Warner Bros. Interactive Entertainment
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 1/46
 percent: 2%
-progress: retired
 link: --
 date: 2010-03-06
 ---

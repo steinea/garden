@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: EA Sports FC 25
 developer: EA Sports
 publisher: Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: https://www.powerpyx.com/ea-sports-fc25-trophy-guide-roadmap/
 durationHours: 98
 trophies: 25/40
 percent: 63%
-progress: retired
 link: https://psnprofiles.com/trophies/29388-ea-sports-fc-25/barrelofjuice
 date: 2025-03-31
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Mass Effect 3
 developer: BioWare
 publisher: Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 52/68
 percent: 76%
-progress: retired
 link: --
 date: 2013-06-17
 ---

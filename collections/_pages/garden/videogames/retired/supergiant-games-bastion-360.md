@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Bastion
 developer: Supergiant Games
 publisher: Warner Bros. Interactive Entertainment
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 6/12
 percent: 50%
-progress: retired
 link: --
 date: 2012-02-28
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Vox Machinae
 developer: Space Bullet Dynamics Corporation
 publisher: Space Bullet Dynamics Corporation
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 2
 trophies: 1/30
 percent: 3%
-progress: retired
 link: https://steamcommunity.com/id/steinea/stats/334540/
 date: 2020-08-19
 ---

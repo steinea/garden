@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Pure
 developer: Black Rock Studio
 publisher: Disney Interactive Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 8/50
 percent: 16%
-progress: retired
 link: --
 date: 2010-03-05
 ---

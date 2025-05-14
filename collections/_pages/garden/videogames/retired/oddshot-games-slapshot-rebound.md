@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: "Slapshot: Rebound"
 developer: Oddshot Games
 publisher: Oddshot Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 0.5
 trophies: 2/17
 percent: 12%
-progress: retired
 link: https://steamcommunity.com/id/steinea/stats/1173370/
 date: 2021-03-30
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: "Halo 3: ODST"
 developer: Bungie
 publisher: Microsoft Game Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 34/47
 percent: 72%
-progress: retired
 link: --
 date: 2009-10-02
 ---

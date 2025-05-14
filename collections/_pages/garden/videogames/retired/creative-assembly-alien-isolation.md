@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: "Alien: Isolation"
 developer: Creative Assembly
 publisher: Sega
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/2570-alien-isolation-trophy-guide
 durationHours: 3
 trophies: 5/51
 percent: 10%
-progress: retired
 link: --
 date: 2015-03-16
 ---

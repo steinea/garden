@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Battlefield 2042
 developer: DICE
 publisher: Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 10
 trophies: 8/34
 percent: 23%
-progress: retired
 link: https://steamcommunity.com/id/steinea/stats/1517290/
 date: 2022-09-27
 ---

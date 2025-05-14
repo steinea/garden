@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: EA Sports FC 24
 developer: EA Sports
 publisher: Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/17925-ea-sports-fc-24-trophy-guide
 durationHours: 48
 trophies: 27/41
 percent: 65%
-progress: retired
 link: --
 date: 2024-02-26
 ---

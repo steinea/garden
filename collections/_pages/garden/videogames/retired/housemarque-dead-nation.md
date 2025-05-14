@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Dead Nation
 developer: Housemarque
 publisher: Sony Interactive Entertainment
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 0.2
 trophies: 1/41
 percent: 2%
-progress: retired
 link: --
 date: 2014-03-04
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: "Halo: Reach"
 developer: Bungie
 publisher: Microsoft Game Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 48/69
 percent: 70%
-progress: retired
 link: --
 date: 2011-04-24
 ---

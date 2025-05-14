@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Dark Souls
 developer: FromSoftware
 publisher: Namco Bandai Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 23/41
 percent: 56%
-progress: retired
 link: --
 date: 2014-05-22
 ---

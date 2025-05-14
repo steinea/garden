@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: EA Sports WRC
 developer: Codemasters
 publisher: EA Sports
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/17977-ea-sports-wrc-trophy-guide
 durationHours: 0.5
 trophies: 1/27
 percent: 4%
-progress: retired
 link: https://psnprofiles.com/trophies/24384-ea-sports-wrc/barrelofjuice
 date: 2023-11-09
 ---

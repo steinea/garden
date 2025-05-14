@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Battlefield 4
 developer: DICE
 publisher: Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/1462-battlefield-4-trophy-guide
 durationHours: 22
 trophies: 29/68
 percent: 42%
-progress: retired
 link: --
 date: 2014-08-17
 ---

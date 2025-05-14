@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Alto’s Odyssey
 developer: Team Alto
 publisher: Noodlecake Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 17
 trophies: 20/22
 percent: 90%
-progress: retired
 link: https://www.exophase.com/game/altos-odyssey-android/achievements/#1644034
 date: 2024-02-29
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: The Finals
 developer: Embark Studios
 publisher: Embark Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 1.5
 trophies: 3/50
 percent: 6%
-progress: retired
 link: https://steamcommunity.com/id/steinea/stats/2073850/
 date: 2023-12-10
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Little Big Planet 3
 developer: Sumo Digital
 publisher: Sony Interactive Entertainment
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 12
 trophies: 12/38
 percent: 31%
-progress: retired
 link: --
 date: 2017-02-04
 ---

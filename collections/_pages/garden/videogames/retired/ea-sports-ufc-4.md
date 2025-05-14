@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: EA Sports UFC 4
 developer: EA Sports
 publisher: Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/10755-ea-sports-ufc-4-trophy-guide
 durationHours: 23
 trophies: 25/28
 percent: 90%
-progress: retired
 link: --
 date: 2021-07-02
 ---

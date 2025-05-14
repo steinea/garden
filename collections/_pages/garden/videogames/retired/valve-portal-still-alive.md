@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: "Portal: Still Alive"
 developer: Valve
 publisher: Valve
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 6/12
 percent: 50%
-progress: retired
 link: --
 date: 2009-10-23
 ---

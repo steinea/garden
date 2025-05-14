@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: "Call of Duty 4: Modern Warfare"
 developer: Infinity Ward
 publisher: Activision
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 34/37
 percent: 92%
-progress: retired
 link: --
 date: 2009-09-06
 ---

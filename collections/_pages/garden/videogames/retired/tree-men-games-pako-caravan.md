@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Pako Caravan
 developer: Tree Men Games
 publisher: Tree Men Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 1/18
 percent: 5%
-progress: retired
 link: --
 date: 2021-12-07
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: EA Sports FIFA 21
 developer: EA Sports
 publisher: Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 32
 trophies: 21/37
 percent: 57%
-progress: retired
 link: --
 date: 2021-09-11
 ---

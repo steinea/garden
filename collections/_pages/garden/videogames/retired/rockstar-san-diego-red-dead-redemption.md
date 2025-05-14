@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Red Dead Redemption
 developer: Rockstar San Diego
 publisher: 	Rockstar Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 34/95
 percent: 36%
-progress: retired
 link: --
 date: 2011-07-18
 ---

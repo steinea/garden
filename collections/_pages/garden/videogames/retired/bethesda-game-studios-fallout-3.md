@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Fallout 3
 developer: Bethesda Game Studios
 publisher: Bethesda Softworks
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 29/72
 percent: 40%
-progress: retired
 link: --
 date: 2009-10-28
 ---

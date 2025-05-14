@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: "Dragon Age: Origins"
 developer: BioWare
 publisher: Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 26/76
 percent: 34%
-progress: retired
 link: --
 date: 2013-05-25
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: The Jackbox Party Pack
 developer: Jackbox Games
 publisher: Telltale Publishing
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 3
 trophies: 10/20
 percent: 50%
-progress: retired
 link: --
 date: 2019-12-31
 ---

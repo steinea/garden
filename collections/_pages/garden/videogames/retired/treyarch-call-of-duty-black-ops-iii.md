@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 title: "Call of Duty: Black Ops III"
+subcategory: retired
 developer: Treyarch
 publisher: Activision
 platform: PS4
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/3557-call-of-duty-black-ops-iii-troph
 durationHours: 19
 trophies: 5/99
 percent: 5%
-progress: retired
 link: --
 date: 2017-08-15
 ---

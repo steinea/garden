@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Turok
 developer: Propaganda Games
 publisher: 	Disney Interactive Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 1/43
 percent: 2%
-progress: retired
 link: --
 date: 2010-01-05
 ---

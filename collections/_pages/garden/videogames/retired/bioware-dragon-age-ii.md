@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Dragon Age II
 developer: BioWare
 publisher: Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 7/65
 percent: 11%
-progress: retired
 link: --
 date: 2014-05-01
 ---

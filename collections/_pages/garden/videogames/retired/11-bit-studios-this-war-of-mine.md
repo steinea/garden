@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: This War of Mine
 developer: 11 Bit Studios
 publisher: 11 Bit Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 2
 trophies: 3/55
 percent: 5%
-progress: retired
 link: https://steamcommunity.com/id/steinea/stats/282070/
 date: 2020-12-15
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Halo 3
 developer: Bungie
 publisher: Microsoft Game Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 65/79
 percent: 82%
-progress: retired
 link: --
 date: 2010-07-22
 ---

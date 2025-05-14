@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Splitgate
 developer: 1047 Games
 publisher: 1047 Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 44
 trophies: 25/30
 percent: 83%
-progress: retired
 link: https://steamcommunity.com/id/steinea/stats/677620/
 date: 2022-05-12
 ---

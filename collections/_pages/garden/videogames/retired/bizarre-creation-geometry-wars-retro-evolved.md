@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: "Geometry Wars: Retro Evolved"
 developer: Bizarre Creation
 publisher: Microsoft Game Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 1/12
 percent: 8%
-progress: retired
 link: --
 date: 2009-09-05
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Kinect Adventures!
 developer: Good Science Studio
 publisher: Microsoft Game Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 6/32
 percent: 19%
-progress: retired
 link: --
 date: 2011-01-29
 ---

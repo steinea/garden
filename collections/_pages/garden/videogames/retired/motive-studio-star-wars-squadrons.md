@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Star Wars Squadrons
 developer: Motive Studio
 publisher: Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 1
 trophies: 1/48
 percent: 2%
-progress: retired
 link: https://steamcommunity.com/id/steinea/stats/1222730/
 date: 2021-10-05
 ---

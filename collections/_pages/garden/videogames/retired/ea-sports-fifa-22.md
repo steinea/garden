@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: EA Sports FIFA 22
 developer: EA Sports
 publisher: Electronic Arts
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 12
 trophies: 3/38
 percent: 8%
-progress: retired
 link: --
 date: 2022-05-12
 ---

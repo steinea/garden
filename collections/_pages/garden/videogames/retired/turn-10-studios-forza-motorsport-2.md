@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Forza Motorsport 2
 developer: Turn 10 Studios
 publisher: Microsoft Game Studios
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 7/44
 percent: 16%
-progress: retired
 link: --
 date: 2010-03-22
 ---

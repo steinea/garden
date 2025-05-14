@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: The Last of Us
 developer: Naughty Dog
 publisher: Sony Interactive Entertainment
@@ -12,7 +13,6 @@ trophyGuide: https://psnprofiles.com/guide/348-the-last-of-us-trophy-guide
 durationHours: --
 trophies: 42/50
 percent: 84%
-progress: retired
 link: https://psnprofiles.com/trophies/1989-the-last-of-us/barrelofjuice
 date: 2014-07-24
 ---

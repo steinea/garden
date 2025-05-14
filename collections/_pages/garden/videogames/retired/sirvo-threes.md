@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Threes!
 developer: Sirvo
 publisher: Sirvo
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 8/18
 percent: 44%
-progress: retired
 link: --
 date: 2021-06-20
 ---

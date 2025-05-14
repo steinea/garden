@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: The Jackbox Party Pack 9
 developer: Jackbox Games
 publisher: Jackbox Games
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: 3
 trophies: 7/20
 percent: 35%
-progress: retired
 link: https://psnprofiles.com/trophies/18862-the-jackbox-party-pack-9/barrelofjuice
 date: 2024-03-09
 ---

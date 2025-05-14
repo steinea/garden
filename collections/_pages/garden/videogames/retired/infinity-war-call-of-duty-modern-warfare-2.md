@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: "Call of Duty: Modern Warfare 2"
 developer: Infinity War
 publisher: Activision
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 39/50
 percent: 78%
-progress: retired
 link: --
 date: 2009-12-03
 ---

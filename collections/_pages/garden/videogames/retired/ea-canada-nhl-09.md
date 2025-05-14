@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: NHL 09
 developer: EA Canada
 publisher: EA Sports
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 2/27
 percent: 7%
-progress: retired
 link: --
 date: 2009-09-04
 ---

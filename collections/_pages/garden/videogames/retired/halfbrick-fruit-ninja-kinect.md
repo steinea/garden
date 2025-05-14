@@ -1,6 +1,7 @@
 ---
 layout: page
 category: videogame
+subcategory: retired
 title: Fruit Ninja Kinect
 developer: Halfbrick
 publisher: Halfbrick
@@ -12,7 +13,6 @@ trophyGuide: --
 durationHours: --
 trophies: 3/21
 percent: 14%
-progress: retired
 link: --
 date: 2011-09-07
 ---
