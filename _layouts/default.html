@@ -110,6 +110,19 @@
       });
     </script>
 
+    <!-- Mermaid Javascript -->
+    <script src="/files/js/mermaid.min.js"></script>
+
+    <script>
+      $(document).ready(function () {
+        mermaid.initialize({
+          startOnLoad:true,
+          theme: "default",
+        });
+        window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+      });
+    </script>
+
     <!-- Maxime Vaillancourt's Link Previews -->
     <div style="opacity: 0; display: none;" id='tooltip-wrapper'>
       <div id='tooltip-content'>
