@@ -7,10 +7,10 @@ developer: Square Enix
 publisher: Square Enix
 platform: PS4
 releaseDate: 2019-10-29
-howlongtobeat: --
+howlongtobeat:
 difficulty: --
 trophyGuide: --
-durationHours: --
+durationHours:
 trophies: --
 percent: --
 link: --

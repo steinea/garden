@@ -7,7 +7,7 @@ developer: Color Gray Games
 publisher: Playstack
 platform: Steam
 releaseDate: 2024
-howlongtobeat: --
+howlongtobeat:
 difficulty: --
 trophyGuide: --
 durationHours: --
