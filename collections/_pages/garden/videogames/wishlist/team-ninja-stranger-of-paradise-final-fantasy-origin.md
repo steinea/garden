@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: fantasy-action
 title: "Stranger of Paradise: Final Fantasy Origin"
 developer: Team Ninja
 publisher: Square Enix

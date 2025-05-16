@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: fantasy-action
 title: Nioh 2 Remastered Complete
 developer: Team Ninja
 publisher: Sony Interactive Entertainment

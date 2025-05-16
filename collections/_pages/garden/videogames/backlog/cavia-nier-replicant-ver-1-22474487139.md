@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
+tags: fantasy-action
 title: Nier Replicant ver.1.22474487139…
 developer: Cavia
 publisher: Square Enix

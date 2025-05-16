@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: fantasy-action
 title: "Devil May Cry 5: Special Edition"
 developer: Capcom
 publisher: Capcom

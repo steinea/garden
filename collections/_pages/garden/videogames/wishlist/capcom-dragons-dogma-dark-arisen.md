@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: fantasy-action
 title: "Dragon’s Dogma: Dark Arisen"
 developer: Capcom
 publisher: Capcom

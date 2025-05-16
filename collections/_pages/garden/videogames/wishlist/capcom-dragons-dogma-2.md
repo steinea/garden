@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: fantasy-action
 title: Dragon’s Dogma 2
 developer: Capcom
 publisher: Capcom

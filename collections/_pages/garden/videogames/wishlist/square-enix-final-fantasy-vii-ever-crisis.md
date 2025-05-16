@@ -2,11 +2,12 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: fantasy-action
 title: Final Fantasy VII Ever Crisis
 developer: Square Enix
 publisher: Square Enix
 platform: Steam
-releaseDate: 2023
+releaseDate: 2023-09-07
 howlongtobeat: 130
 difficulty: --
 trophyGuide: --

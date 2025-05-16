@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: fantasy-action
 title: Final Fantasy XIII-2
 developer: Square Enix
 publisher: Square Enix

@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: fantasy-action
 title: "YoRHa: Dark Apocalypse"
 developer: Square Enix
 publisher: Square Enix

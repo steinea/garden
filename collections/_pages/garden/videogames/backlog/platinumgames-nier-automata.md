@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
+tags: fantasy-action
 title: "Nier: Automata"
 developer: PlatinumGames
 publisher: Square Enix

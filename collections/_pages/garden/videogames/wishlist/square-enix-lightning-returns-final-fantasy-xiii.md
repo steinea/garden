@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: fantasy-action
 title: "Lightning Returns: Final Fantasy XIII"
 developer: Square Enix
 publisher: Square Enix

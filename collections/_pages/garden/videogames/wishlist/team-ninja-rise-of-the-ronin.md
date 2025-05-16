@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: fantasy-action
 title: Rise of the Ronin
 developer: Team Ninja
 publisher: Sony Interactive Entertainment

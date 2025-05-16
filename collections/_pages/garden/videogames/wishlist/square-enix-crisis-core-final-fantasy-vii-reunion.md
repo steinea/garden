@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: fantasy-action
 title: "Crisis Core: Final Fantasy VII Reunion"
 developer: Square Enix
 publisher: Square Enix

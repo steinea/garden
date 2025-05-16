@@ -2,11 +2,12 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: fantasy-action
 title: Final Fantasy Type-0
 developer: Square Enix
 publisher: Square Enix
 platform: PS4
-releaseDate: 2011
+releaseDate: 2011-10-27
 howlongtobeat: 49
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/2560-final-fantasy-type-0-hd-trophy-guide

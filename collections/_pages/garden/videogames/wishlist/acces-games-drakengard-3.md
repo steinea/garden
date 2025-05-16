@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: fantasy-action
 title: Drakengard 3
 developer: Access Games
 publisher: Square Enix

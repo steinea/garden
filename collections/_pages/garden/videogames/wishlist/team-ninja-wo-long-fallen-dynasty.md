@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: fantasy-action
 title: "Wo Long: Fallen Dynasty"
 developer: Team Ninja
 publisher: Koei Tecmo

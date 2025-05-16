@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: fantasy-action
 title: Forspoken
 developer: Luminous Productions
 publisher: Square Enix

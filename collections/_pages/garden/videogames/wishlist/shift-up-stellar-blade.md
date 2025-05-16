@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: fantasy-action
 title: Stellar Blade
 developer: Shift Up
 publisher: Sony Interactive Entertainment

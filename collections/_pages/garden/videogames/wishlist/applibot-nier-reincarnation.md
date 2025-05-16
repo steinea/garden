@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: fantasy-action
 title: Nier Reincarnation
 developer: Applibot
 publisher: Square Enix
