@@ -1,0 +1,11 @@
+---
+layout: default
+category: garden
+title: Ludographies
+---
+
+{% for page in site.pages %}
+  {% if page.category contains "ludographies" %}
+    <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+  {% endif %}
+{% endfor %}
