@@ -3,22 +3,20 @@ layout: page
 category: videogame
 subcategory: backlog
 tags: fantasy-action
-title: Nier Replicant ver.1.22474487139…
+title: Nier
 developer: Cavia
 publisher: Square Enix
-platform: PS4
+platform: PS3
 releaseDate: 2010-04-22
-howlongtobeat: 69
+howlongtobeat: 80
 difficulty: 3/10
-trophyGuide: https://psnprofiles.com/guide/12106-nier-replicant-ver122474487139-trophy-guide
-durationHours: --
-trophies: --
-percent: --
-link: --
+trophyGuide: https://psnprofiles.com/guide/7393-nier-trophy-guide
+durationHours:
+trophies:
+percent:
+link:
 date: 1999-01-01
 ---
-
-Director: [[Yoko Taro]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Nier):
 
