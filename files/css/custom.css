@@ -8,23 +8,23 @@
 
 }
 
+/* Using W3 Schools guide: https://www.w3schools.com/howto/howto_js_tabs.asp */
+
 .tab {
   overflow: hidden;
-  border-width: 1px;
-  border-color: #8b88e6;
-  border-bottom-style: solid;
+  background-color: #ffffff;
 }
 
 /* Style the buttons inside the tab */
 .tab button {
   background-color: inherit;
+  border-width: 1px;
+  border-color: #8b88e6;
+  border-style: none none solid none;
   float: left;
-  border: none;
   outline: none;
   cursor: pointer;
   padding: 14px 16px;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
 }
 
 /* Change background color of buttons on hover */
@@ -36,7 +36,12 @@
 .tab button.active {
   border-width: 1px;
   border-color: #8b88e6;
+  border-style: solid solid none solid;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
 }
+
+.tablinks {}
 
 /* Style the tab content */
 .tabcontent {
