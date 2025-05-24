@@ -97,19 +97,7 @@
     <script src="/files/js/datatables.js"></script>
 
     <script>
-      $(document).ready( function () {
-        $(".sortable").DataTable();
-      } );
-
-      $(document).ready(function () {
-        $(".sortablePlaying").DataTable({
-          columns: [null, null, { type: "num" }, null, null, null],
-          lengthMenu: [50, 75, 100],
-          order: [5, "desc"],
-          responsive: true,
-        });
-      });
-
+      // Use Javascript 'new' instead of old dom '$' initialize
       new DataTable (".playingDateSort", {
         order: [5, "desc"],
         responsive: true,
@@ -117,6 +105,11 @@
 
       new DataTable (".playingHLTBSort", {
         order: [2, "asc"],
+        responsive: true,
+      });
+
+      new DataTable (".videoGames", {
+        order: [0, "asc"],
         responsive: true,
       });
     </script>
