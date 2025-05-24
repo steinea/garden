@@ -1,4 +1,4 @@
-# Site
+# About
 title: Eric Stein
 name: Eric Stein
 email: steinea@protonmail.com
@@ -15,14 +15,18 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# Collections
-collections_dir: collections
-collections:
-  posts:
-    permalink: /:year/:month/:day/:title/
-  pages:
-    output: true
-    permalink: /:title/
+# Defaults
+defaults:
+  - scope:
+      path: ''
+      type: pages
+    values:
+      permalink: /:title/
+  - scope:
+      path: ''
+      type: posts
+    values:
+      permalink: /:year/:month/:day/:title/
 
 # Exclusions
 exclude:             ['_includes/notes_graph.json']
