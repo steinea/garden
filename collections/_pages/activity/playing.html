@@ -6,10 +6,10 @@ permalink: /playing/
 ---
 
 <!-- Category Counts -->
-{% assign totalPlaying = 0 %}
+{% assign totalInProgress = 0 %}
   {% for page in site.pages %}
     {% if page.category contains "videogame" and page.subcategory contains "now" %}
-      {% assign totalPlaying = totalPlaying | plus: 1 %}
+      {% assign totalInProgress = totalInProgress | plus: 1 %}
     {% endif %}
   {% endfor %}
 
@@ -43,7 +43,7 @@ permalink: /playing/
 
 <!-- Category Tabs -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab('playing')">Playing ({{ totalPlaying }})</button>
+  <button class="tablinks" onclick="openTab('in-progress')">In Progress ({{ totalInProgress }})</button>
   <button class="tablinks" onclick="openTab('complete')">Complete ({{ totalComplete }})</button>
   <button class="tablinks" onclick="openTab('retired')">Retired ({{ totalRetired }})</button>
   <button class="tablinks" onclick="openTab('backlog')">Backlog ({{ totalBacklog }})</button>
@@ -52,8 +52,8 @@ permalink: /playing/
 
 <br>
 
-<div id="playing" class="tabcontent">
-  <table id="playingTable" class="display nowrap">
+<div id="in-progress" class="tabcontent">
+  <table class="display nowrap playingDateSort">
     <thead>
       <tr>
         <th>Title</th>
@@ -94,7 +94,7 @@ permalink: /playing/
 </div>
 
 <div id="complete" class="tabcontent">
-  <table class="display sortable5" style="width: 100%">
+  <table class="display nowrap playingDateSort">
     <thead>
       <tr>
         <th>Title</th>
@@ -135,7 +135,7 @@ permalink: /playing/
 </div>
 
 <div id="retired" class="tabcontent">
-  <table class="display sortable5" style="width: 100%">
+  <table class="display nowrap playingDateSort">
     <thead>
       <tr>
         <th>Title</th>
@@ -176,7 +176,7 @@ permalink: /playing/
 </div>
 
 <div id="backlog" class="tabcontent">
-  <table class="display sortable" style="width: 100%">
+  <table class="display nowrap playingHLTBSort">
     <thead>
       <tr>
         <th>Title</th>
@@ -208,7 +208,7 @@ permalink: /playing/
 </div>
 
 <div id="wishlist" class="tabcontent">
-  <table class="display sortable" style="width: 100%">
+  <table class="display nowrap playingHLTBSort">
     <thead>
       <tr>
         <th>Title</th>
@@ -255,5 +255,5 @@ permalink: /playing/
   }
 
   // Show the first tab by default
-  openTab('playing');
+  openTab('in-progress');
 </script>
