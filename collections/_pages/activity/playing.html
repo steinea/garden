@@ -5,6 +5,12 @@ title: Playing
 permalink: /playing/
 ---
 
+<script>
+  new DataTable ("#playingTable", {
+    responsive: true
+  });
+</script>
+
 <!-- Category Counts -->
 {% assign totalPlaying = 0 %}
   {% for page in site.pages %}
@@ -53,7 +59,7 @@ permalink: /playing/
 <br>
 
 <div id="playing" class="tabcontent">
-  <table class="display sortable5" style="width: 100%">
+  <table id="playingTable" class="display nowrap">
     <thead>
       <tr>
         <th>Title</th>

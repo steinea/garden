@@ -98,15 +98,20 @@
 
     <script>
       $(document).ready( function () {
-        $('.sortable').DataTable();
+        $(".sortable").DataTable();
       } );
 
       $(document).ready(function () {
-        $(".sortable5").DataTable({
-          order: [5, "desc"],
+        $(".sortablePlaying").DataTable({
+          columns: [null, null, { type: "num" }, null, null, null],
           lengthMenu: [50, 75, 100],
-          columns: [null, null, { type: 'num'}, null, null, null],
+          order: [5, "desc"],
+          responsive: true,
         });
+      });
+
+      new DataTable ("#playingTable", {
+        responsive: true
       });
     </script>
 
@@ -119,17 +124,17 @@
           startOnLoad:true,
           theme: "default",
         });
-        window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+        window.mermaid.init(undefined, document.querySelectorAll(".language-mermaid"));
       });
     </script>
 
     <!-- Maxime Vaillancourt's Link Previews -->
-    <div style="opacity: 0; display: none;" id='tooltip-wrapper'>
-      <div id='tooltip-content'>
+    <div style="opacity: 0; display: none;" id="tooltip-wrapper">
+      <div id="tooltip-content">
       </div>
     </div>
 
-    <iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="">
+    <iframe style="display: none; height: 0; width: 0;" id="link-preview-iframe" src="">
     </iframe>
 
     <script src="/files/js/link-previews.js"></script>
