@@ -7,7 +7,7 @@ developer: A Sharp
 publisher: Kitfox Games
 platform: Steam
 releaseDate: 2023-08-21
-howlongtobeat:
+howlongtobeat: 5
 difficulty: --
 trophyGuide: --
 durationHours:
