@@ -101,10 +101,12 @@ a.nav-link:after {
   content: "";
 }
 
+/* Hide this for now because it's ugly on tabs within page
 *:focus {
   background: #ffe8bc !important;
   color: #000 !important;
 }
+*/
 
 nav {
   margin: 1em 0 3em;
