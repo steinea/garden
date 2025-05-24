@@ -18,10 +18,10 @@ plugins:
 # Defaults
 defaults:
   - scope:
-      path: ''
+      path: 'pages'
       type: pages
     values:
-      permalink: /:title/
+      permalink: /page/:basename/
   - scope:
       path: ''
       type: posts
