@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
 title: Posts
 ---
 
-{% for page in site.pages %}
-  {% if page.category contains "posts" %}
-    <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+{% for post in site.pages %}
+  {% if post.category contains "posts" %}
+    {{ post.date }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
   {% endif %}
 {% endfor %}
