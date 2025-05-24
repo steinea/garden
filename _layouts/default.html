@@ -110,8 +110,13 @@
         });
       });
 
-      new DataTable ("#playingTable", {
+      new DataTable (".playingDateSort", {
         order: [5, "desc"],
+        responsive: true,
+      });
+
+      new DataTable (".playingHLTBSort", {
+        order: [2, "asc"],
         responsive: true,
       });
     </script>
