@@ -57,11 +57,11 @@ permalink: /playing/
     <thead>
       <tr>
         <th>Title</th>
-        <th class="collapsible">Platform</th>
-        <th class="collapsible">Hours</th>
-        <th class="collapsible">Trophies</th>
-        <th class="collapsible">Percent</th>
-        <th class="collapsible">Date</th>
+        <th>Platform</th>
+        <th>Hours</th>
+        <th>Trophies</th>
+        <th>Percent</th>
+        <th>Date</th>
       </tr>
     </thead>
 
@@ -70,11 +70,11 @@ permalink: /playing/
         {% if page.category contains "videogame" and page.subcategory contains "now" %}
           <tr>
             <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
-        		<td class="collapsible">{{ page.platform }}</td>
-            <td class="collapsible">{{ page.durationHours }}</td>
-        		<td class="collapsible">{{ page.trophies }}</td>
-            <td class="collapsible">{{ page.percent }}</td>
-            <td class="collapsible">{{ page.date | date: '%Y-%m-%d' }}</td>
+        		<td>{{ page.platform }}</td>
+            <td>{{ page.durationHours }}</td>
+        		<td>{{ page.trophies }}</td>
+            <td>{{ page.percent }}</td>
+            <td>{{ page.date | date: '%Y-%m-%d' }}</td>
       		</tr>
         {% endif %}
     	{% endfor %}
@@ -83,11 +83,11 @@ permalink: /playing/
     <tfoot>
       <tr>
         <th>Title</th>
-        <th class="collapsible">Platform</th>
-        <th class="collapsible">Hours</th>
-        <th class="collapsible">Trophies</th>
-        <th class="collapsible">Percent</th>
-        <th class="collapsible">Date</th>
+        <th>Platform</th>
+        <th>Hours</th>
+        <th>Trophies</th>
+        <th>Percent</th>
+        <th>Date</th>
       </tr>
     </tfoot>
   </table>
