@@ -10,11 +10,11 @@ releaseDate: 2025-04-22
 howlongtobeat: 80
 difficulty: 4/10
 trophyGuide: https://www.xboxachievements.com/game/the-elder-scrolls-4-oblivion-remastered/guide/
-durationHours: 11
-trophies: 9/60
-percent: 15%
+durationHours: 22
+trophies: 20/60
+percent: 33%
 link: https://www.exophase.com/game/the-elder-scrolls-iv-oblivion-remastered-xbox/achievements/#2209141
-date: 2025-05-11
+date: 2025-05-25
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion_Remastered):
