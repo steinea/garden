@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: now
+tags: roleplaying-games
 title: "Dragon Age: Inquisition"
 developer: BioWare
 publisher: Electronic Arts

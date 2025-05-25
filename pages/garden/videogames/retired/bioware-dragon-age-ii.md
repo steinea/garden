@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: retired
+tags: roleplaying-games
 title: Dragon Age II
 developer: BioWare
 publisher: Electronic Arts

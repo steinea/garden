@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: retired
+tags: roleplaying-games
 title: "Dragon Age: Origins"
 developer: BioWare
 publisher: Electronic Arts
