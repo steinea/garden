@@ -1,0 +1,123 @@
+---
+layout: default
+category: ludographies
+title: Roleplaying Games
+date: 2022-09-12
+tags:
+---
+
+<table class="display nowrap ludographyReleaseDate" style="width: 100%">
+  <thead>
+    <tr>
+      <th class="all">Title</th>
+      <th class="desktop">Developer</th>
+      <th class="desktop">Publisher</th>
+      <th class="desktop">Released</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {% for page in site.pages %}
+      {% if page.category contains "videogame" and page.tags contains "roleplaying-games" %}
+        <tr>
+          <td><a href="{{ page.url }}" class="internal-link">{{ page.title }}</a></td>
+          <td>{{ page.developer }}</td>
+          <td>{{ page.publisher }}</td>
+          <td>{{ page.releaseDate }}</td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+
+  <tfoot>
+    <tr>
+      <th class="all">Title</th>
+      <th class="desktop">Developer</th>
+      <th class="desktop">Publisher</th>
+      <th class="desktop">Released</th>
+    </tr>
+  </tfoot>
+</table>
+
+<br><hr>
+
+<h4>Chart</h4>
+
+<div id="mermaid">
+  <p></p>
+
+  <br>
+
+  <pre class="mermaid">
+    flowchart TD;
+
+      BLIZZARD[/"Blizzard Entertainment"/]
+      BIOWARE[/"BioWare"/]
+      BLACKISLE[/"Black Isle Studios"/]
+      INTERPLAY[/"Interplay Entertainment"/]
+      LARIAN[/"Larian Studios"/]
+      OBSIDIAN[/"Obsidian Entertainment"/]
+      INXILE[/"InXile Entertainment"/]
+      OWLCAT[/"Owlcat Games"/]
+      GRINDINGEAR[/"Grinding Gear Games"/]
+
+      DB(["Diablo"])
+      BG(["Baldur's Gate"])
+      PT(["Planescape: Torment"])
+      DB2(["Diablo II"])
+      ID(["Icewind Dale"])
+      BG2(["Baldur's Gate II: Shadows of Amn"])
+      BGDA(["Baldur's Gate: Dark Alliance"])
+      NN(["Neverwinter Nights"])
+      ID2(["Icewind Dale II"])
+      DD(["Divine Divinity"])
+      BGDA2(["Baldur's Gate: Dark Alliance II"])
+      BD(["Beyond Divinity"])
+      NN2(["Neverwinter Nights 2"])
+      DAO(["Dragon Age: Origins"])
+      D2(["Divinity II"])
+      DA2(["Dragon Age II"])
+      DB3(["Diablo III"])
+      POEX(["Path of Exile"])
+      DAI(["Dragon Age: Inquisition"])
+      DOS(["Divinity: Original Sin"])
+      POE(["Pillars of Eternity"])
+      T(["Tyranny"])
+      TTON(["Torment: Tides of Numenara"])
+      DOS2(["Divinity: Original Sin 2"])
+      POE2D(["Pillars of Eternity II: Deadfire"])
+      PK(["Pathfinder: Kingmaker"])
+      PWR(["Pathfinder: Wrath of the Righteous"])
+      DB4(["Diablo IV"])
+      BG3(["Baldur's Gate 3"])
+      W40KRT(["Warhammer 40,000: Rogue Trader"])
+      DATV(["Dragon Age: The Veilguard"])
+      POEX2(["Path of Exile 2"])
+      A(["Avowed"])
+      W40KDH(["Warhammer 40,000: Dark Heresy"])
+
+      BLIZZARD --> DB --> DB2 --> DB3 --> DB4
+
+      BIOWARE --> BG --> BG2 --> NN --> DAO --> DA2 --> DAI --> DATV
+
+      BLACKISLE --> PT --> ID --> ID2 --> BGDA2
+
+      PT -.-> INXILE --> TTON
+
+      BG2 -.-> INTERPLAY --> BGDA -.-> BGDA2
+
+      DB2 -.-> INTERPLAY
+
+      DB2 -.-> GRINDINGEAR --> POEX --> POEX2
+
+      BG2 -.-> BG3
+
+      DB2 -.-> LARIAN --> DD --> BD --> D2 --> DOS --> DOS2 --> BG3
+
+      NN -.-> OBSIDIAN --> NN2 --> POE --> T --> POE2D --> A
+
+      OWLCAT --> PK --> PWR --> W40KRT --> W40KDH
+
+
+  </pre>
+</div>
