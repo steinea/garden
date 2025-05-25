@@ -3,8 +3,10 @@ layout: page
 title: Posts
 ---
 
-{% for post in site.pages %}
+<a href="/2025/05/24/test-post/">Test Post</a>
+
+{% for post in site.posts %}
   {% if post.category contains "posts" %}
-    {{ post.date }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
+    {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
   {% endif %}
 {% endfor %}
