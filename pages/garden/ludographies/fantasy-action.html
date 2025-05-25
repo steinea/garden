@@ -6,9 +6,99 @@ date: 2024-02-21
 tags:
 ---
 
-{% assign sorted = site.pages | sort: 'releaseDate' %}
-  {% for item in sorted %}
-    {% if item.category contains "videogame" and item.tags contains "fantasy-action" %}
-      <a href="{{ item.url }}" class="internal-link">{{ item.title }}</a><br>
-    {% endif %}
-  {% endfor %}
+<table class="display nowrap ludographyReleaseDate" style="width: 100%">
+  <thead>
+    <tr>
+      <th class="all">Title</th>
+      <th class="desktop">Developer</th>
+      <th class="desktop">Released</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {% for page in site.pages %}
+      {% if page.category contains "videogame" and page.tags contains "fantasy-action" %}
+        <tr>
+          <td><a href="{{ page.url }}" class="internal-link">{{ page.title }}</a></td>
+          <td>{{ page.developer }}</td>
+          <td>{{ page.releaseDate }}</td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+
+  <tfoot>
+    <tr>
+      <th class="all">Title</th>
+      <th class="desktop">Developer</th>
+      <th class="desktop">Released</th>
+    </tr>
+  </tfoot>
+</table>
+
+<br><hr>
+
+<h4>Chart</h4>
+
+<div id="mermaid">
+  <p>This is the family tree for the various design lineages represented on this page, which intersect with each other across several developers, publishers, and franchises. The Fabula Nova Crystallis branch of Final Fantasy intersects with Nier, Nioh, and Dragon's Dogma at different points throughout its development history, absorbing influences and generating new ones.</p>
+
+  <br>
+
+  <pre class="mermaid">
+    flowchart TD;
+
+      FFXIII(["Final Fantasy XIII"])
+      FFT0(["Final Fantasy Type-0"])
+      FFXIII2(["Final Fantasy XIII-2"])
+      LRFFXIII(["Lightning Returns: Final Fantasy XIII"])
+
+      FFXIVO(["Final Fantasy XIV Online"])
+      FFXVRE(["Final Fantasy XV Royal Edition"])
+      FRSPKN(["Forspoken"])
+
+      FFVIIRI(["Final Fantasy VII Remake Intergrade"])
+      CCFFVIIR(["Crisis Core: Final Fantasy VII Reunion"])
+      FFVIIEC(["Final Fantasy VII Ever Crisis"])
+      FFVIIR(["Final Fantasy VII Rebirth"])
+
+      NIOH(["Nioh Remastered Complete"])
+      NIOH2(["Nioh 2 Remastered Complete"])
+      SOPFFO(["Stranger of Paradise: Final Fantasy Origin"])
+      WLFD(["Wo Long: Fallen Dynasty"])
+      ROTR(["Rise of the Ronin"])
+
+      DDDA(["Dragon's Dogma: Dark Arisen"])
+      DMC5SE(["Devil May Cry 5: Special Edition"])
+      FFXVI(["Final Fantasy XVI"])
+      DD2(["Dragon's Dogma 2"])
+
+      NIER(["Nier"])
+      DG3(["Drakengard 3"])
+      NIERA(["Nier Automata"])
+      YORHADA(["Final Fantasy XIV Online: YoRHa Dark Apocalypse"])
+      NIERRE(["Nier Reincarnation"])
+      NIERRV(["Nier Replicant ver.1.22474487139…"])
+
+      STELLAR(["Stellar Blade"])
+      OBSCUR(["Clair Obscur: Expedition 33"])
+
+      FFXIII --> FFT0 --> FFXIII2 --> LRFFXIII --> FFXIVO -.-> YORHADA -.-> FFXVRE --> FFVIIRI -.-> SOPFFO -.-> CCFFVIIR --> FFXVI --> FFVIIEC --> FFVIIR
+
+      NIOH --> NIOH2 --> SOPFFO --> WLFD --> ROTR
+
+      DDDA -.-> DMC5SE -.-> FFXVI
+
+      DDDA --> DD2
+
+      NIER --> DG3 --> NIERA --> YORHADA --> NIERRE --> NIERRV
+
+      FFXVRE -.-> FRSPKN
+
+      NIERA -.-> STELLAR
+
+      FFVIIR -.-> OBSCUR
+
+      class FFXIII,FFXIII2,LRFFXIII,FFXVRE,FFVIIRI,CCFFVIIR,NIOH,NIOH2,SOPFFO,WLFD,DDDA,DMC5SE,FFXVI,FFVIIR,ROTR,FFXIVO,DG3,NIERRV,NIERA,YORHADA,DD2,FRSPKN,STELLAR,FFVIIEC,FFT0,NIERRE internal-link;
+  </pre>
+</div>
