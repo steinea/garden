@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: complete
+tags: sony-prestige horror-adventure
 title: The Last of Us Part II
 developer: Naughty Dog
 publisher: Sony Interactive Entertainment

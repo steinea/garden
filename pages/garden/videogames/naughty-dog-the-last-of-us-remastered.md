@@ -2,11 +2,12 @@
 layout: page
 category: videogame
 subcategory: complete
+tags: sony-prestige horror-adventure
 title: The Last of Us Remastered
 developer: Naughty Dog
 publisher: Sony Computer Entertainment
 platform: PS4
-releaseDate: 2013-06-14
+releaseDate: 2014-07-29
 howlongtobeat: 23
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/6004-the-last-of-us-remastered-trophy-guide

@@ -1,0 +1,40 @@
+---
+layout: default
+category: ludographies
+title: Horror Adventure
+date: 2024-02-22
+tags:
+---
+
+<table class="display nowrap ludographyReleaseDate" style="width: 100%">
+  <thead>
+    <tr>
+      <th class="all">Title</th>
+      <th class="desktop">Developer</th>
+      <th class="desktop">Publisher</th>
+      <th class="desktop">Released</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {% for page in site.pages %}
+      {% if page.category contains "videogame" and page.tags contains "horror-adventure" %}
+        <tr>
+          <td><a href="{{ page.url }}" class="internal-link">{{ page.title }}</a></td>
+          <td>{{ page.developer }}</td>
+          <td>{{ page.publisher }}</td>
+          <td>{{ page.releaseDate }}</td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+
+  <tfoot>
+    <tr>
+      <th class="all">Title</th>
+      <th class="desktop">Developer</th>
+      <th class="desktop">Publisher</th>
+      <th class="desktop">Released</th>
+    </tr>
+  </tfoot>
+</table>

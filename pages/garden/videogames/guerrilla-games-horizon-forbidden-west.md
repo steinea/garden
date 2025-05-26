@@ -2,7 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
-tags:
+tags: sony-prestige
 title: Horizon Forbidden West
 developer: Guerrilla Games
 publisher: Sony Interactive Entertainment

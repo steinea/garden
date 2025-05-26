@@ -2,7 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
-tags:
+tags: horror-adventure
 title: Fort Solis
 developer: Fallen Leaf, Black Drakkar Games
 publisher: Dear Villagers

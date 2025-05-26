@@ -2,7 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
-tags:
+tags: horror-adventure
 title: Dead Space Remake
 developer: Motive Studio
 publisher: Electronic Arts

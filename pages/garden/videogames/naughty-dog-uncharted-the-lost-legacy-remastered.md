@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
+tags: sony-prestige
 title: "Uncharted: The Lost Legacy Remastered"
 developer: Naughty Dog
 publisher: Sony Interactive Entertainment

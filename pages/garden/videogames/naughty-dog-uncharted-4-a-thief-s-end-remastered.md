@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
+tags: sony-prestige
 title: "Uncharted 4: A Thief’s End Remastered"
 developer: Naughty Dog
 publisher: Sony Computer Entertainment

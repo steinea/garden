@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: now
+tags: sony-prestige
 title: "Uncharted 2: Among Thieves Remastered"
 developer: Naughty Dog
 publisher: Sony Interactive Entertainment

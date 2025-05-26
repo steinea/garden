@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: retired
+tags: sony-prestige horror-adventure
 title: The Last of Us
 developer: Naughty Dog
 publisher: Sony Interactive Entertainment

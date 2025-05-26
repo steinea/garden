@@ -2,7 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
-tags:
+tags: sony-prestige
 title: Horizon Zero Dawn
 developer: Guerrilla Games
 publisher: Sony Interactive Entertainment

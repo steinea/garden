@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: complete
+tags: sony-prestige
 title: "Uncharted: Drake’s Fortune Remastered"
 developer: Naughty Dog
 publisher: Sony Computer Entertainment

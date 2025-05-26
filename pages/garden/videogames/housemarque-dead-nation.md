@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: retired
+tags: sony-prestige
 title: Dead Nation
 developer: Housemarque
 publisher: Sony Interactive Entertainment

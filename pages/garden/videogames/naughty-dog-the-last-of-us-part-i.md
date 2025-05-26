@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
+tags: sony-prestige horror-adventure
 title: The Last of Us Part I
 developer: Naughty Dog
 publisher: Sony Interactive Entertainment
