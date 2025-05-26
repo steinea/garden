@@ -3,7 +3,7 @@ layout: page
 category: videogame
 subcategory: wishlist
 tags: fantasy-action
-title: Nioh Remastered Complete
+title: Nioh Remastered
 developer: Team Ninja
 publisher: Sony Interactive Entertainment
 platform: PS5

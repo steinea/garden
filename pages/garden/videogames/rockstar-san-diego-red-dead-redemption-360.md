@@ -1,22 +1,22 @@
 ---
 layout: page
 category: videogame
-subcategory: backlog
-tags:
+subcategory: retired
 title: Red Dead Redemption
 developer: Rockstar San Diego
-publisher: Rockstar Games
-platform: PS4
-releaseDate: 2023-08-17
-howlongtobeat: 61
-difficulty: 4/10
-trophyGuide: https://psnprofiles.com/guide/17491-red-dead-redemption-trophy-guide
-durationHours:
-trophies:
-percent:
-link:
-date: 1991-01-01
+publisher: 	Rockstar Games
+platform: Xbox 360
+releaseDate: 2010-05-18
+howlongtobeat: 46
+difficulty: --
+trophyGuide: --
+durationHours: --
+trophies: 34/95
+percent: 36%
+link: --
+date: 2011-07-18
 ---
+
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Red_Dead_Redemption):
 

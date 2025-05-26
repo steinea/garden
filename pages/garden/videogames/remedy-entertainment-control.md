@@ -2,7 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
-title: "Control: Ultimate Edition"
+title: Control
 developer: Remedy Entertainment
 publisher: 505 Games
 platform: PS5
