@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
+tags: horror-adventure
 title: Control
 developer: Remedy Entertainment
 publisher: 505 Games
