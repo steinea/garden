@@ -2,7 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
-tags:
+tags: horror-adventure
 title: Alan Wake II
 developer: Remedy Entertainment
 publisher: Epic Games Publishing
