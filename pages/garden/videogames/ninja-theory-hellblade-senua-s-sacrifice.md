@@ -2,7 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
-tags: horror-adventure
+tags: 
 title: "Hellblade: Senua's Sacrifice"
 developer: Ninja Theory
 publisher: Ninja Theory

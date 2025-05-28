@@ -2,7 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
-tags: horror-adventure
+tags: 
 title: "Senua's Sage: Hellblade II"
 developer: Ninja Theory
 publisher: Xbox Game Studios
