@@ -58,7 +58,15 @@ tags:
 
       UDR(["Until Dawn Remake"])
 
+      RE(["Resident Evil"])
+      RE2(["Resident Evil 2"])
+      RE3(["Resident Evil 3: Nemesis"])
+      RECV(["Resident Evil -- Code: Veronica"])
+      RER(["Resident Evil Remake"])
+      REZ(["Resident Evil Zero"])
       RE4(["Resident Evil 4"])
+      RE5(["Resident Evil 5"])
+      RE6(["Resident Evil 6"])
       RE2R(["Resident Evil 2 Remake"])
       REOC(["Resident Evil Origins Collection"])
       RE3R(["Resident Evil 3 Remake"])
@@ -77,7 +85,9 @@ tags:
       DSR(["Dead Space Remake"])
 
       AITD(["Alone in the Dark"])
-      AITDB(["Alone in the Dark"])
+      AITDNN(["Alone in the Dark: The New Nightmare"])
+      AITD2008(["Alone in the Dark: Inferno"])
+      AITDR(["Alone in the Dark"])
 
       FS(["Fort Solis"])
 
@@ -89,12 +99,10 @@ tags:
 
       SHF(["Silent Hill f"])
 
-      HBSS(["Hellblade: Senua's Sacrifice"])
-      SSHBII(["Senua's Saga: Hellblade II"])
-
       AW(["Alan Wake"])
       C(["Control"])
       AWII(["Alan Wake II"])
+      C2(["Control 2"])
 
       TCP(["The Callisto Protocol"])
 
@@ -110,26 +118,46 @@ tags:
       TEW(["The Evil Within"])
       TEW2(["The Evil Within 2"])
 
+      SH(["Silent Hill"])
+      SH2(["Silent Hill 2"])
+      SH3(["Silent Hill 3"])
+      SHO(["Silent Hill: Origins"])
+      SHH(["Silent Hill: Homecoming"])
+      SHD(["Silent Hill: Downpour"])
+
+      SWH(["Sweet Home"])
+
       APTI --> APTR
       DG --> DGR
       M --> SH2R --> CTND
-      SH2R -.-> SHF
-      RE4 --> RE2R --> REOC --> RE3R --> RE4R
-      DS --> DS2 --> DS3 -.-> DSR
+      RE --> RE2 --> RE3 --> RECV --> RER --> REZ --> RE4 --> RE5 --> RE6 --> REOC --> RE2R --> RE3R --> RE4R
+      DS --> DS2 --> DS3
+      DS -.-> DSR
       DS -.-> FS
       DS3 -.-> TCP
-      AITD -.-> AITDB
-      HBSS --> SSHBII
+      AITD -.-> AITDNN --> AITD2008 --> AITDR
       TLOU --> TLOUR --> TLOUII --> TLOUI --> TLOUIIR
-      AW --> C --> AWII
+      AW --> C --> AWII --> C2
       UD --> DPAMM --> DPALH --> DPAHA --> Q --> DPATDM --> CFS --> D8020
       UD -.-> UDR
       TEW --> TEW2
 
       RE4 -.-> TLOU
+      RE4 -.-> TEW
       TLOU -.-> DG
       TLOU -.-> APTI
-      RE4 -.-> TEW
+
+      SH --> SH2 --> SH3 --> SHO --> SHH --> SHD --> SHF
+      SH2 -.-> AW
+      SH2 -.-> M
+
+      AITD -.-> RE
+      SWH -.-> RE
+      RE2R -.-> AITDR
+      SWH -.-> UD
+      TLOUII -.-> RE4R
+      RE4R -.-> CTND
+      DSR -.-> D8020
 
     </pre>
   </div>
