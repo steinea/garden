@@ -53,25 +53,6 @@ tags:
   <pre class="mermaid">
     flowchart TD;
 
-      ASOBO[/"Asobo Studio"/]
-      BALLISTIC[/"Ballistic Moon"/]
-      BEND[/"Bend Studio"/]
-      BLOOBER[/"Bloober Team"/]
-      CAPCOM[/"Capcom"/]
-      EA[/"EA Redwood Shores"/]
-      EDEN[/"Eden Games"/]
-      FLBDG[/"Fallen Leaf and Black Drakkar Games"/]
-      MOTIVE[/"Motive Studio"/]
-      ND[/"Naughty Dog"/]
-      NBE[/"NeoBards Entertainment"/]
-      NINJA[/"Ninja Theory"/]
-      PIECES[/"Pieces Interactive"/]
-      REMEDY[/"Remedy Entertainment"/]
-      STRIKING[/"Striking Distance Studios"/]
-      SUPER[/"Supermassive Games"/]
-      TANGO[/"Tango Gameworks"/]
-      VISCERAL[/"Visceral Games"/]
-
       APTI(["A Plague Tale: Innocence"])
       APTR(["A Plague Tale: Requiem"])
 
@@ -129,29 +110,26 @@ tags:
       TEW(["The Evil Within"])
       TEW2(["The Evil Within 2"])
 
-      ASOBO --> APTI --> APTR
-      BALLISTIC --> UDR
-      BEND --> DG --> DGR
-      BLOOBER --> M --> SH2R --> CTND
-      CAPCOM --> RE4 --> RE2R --> REOC --> RE3R --> RE4R
-      EA --> DS --> VISCERAL --> DS2 --> DS3 --> MOTIVE --> DSR
-      EDEN --> AITD -.-> PIECES --> AITDB
-      FLBDG --> FS
-      NBE --> SHF
-      NINJA --> HBSS --> SSHBII
-      ND --> TLOU --> TLOUR --> TLOUII --> TLOUI --> TLOUIIR
-      REMEDY --> AW --> C --> AWII
-      STRIKING --> TCP
-      SUPER --> UD --> DPAMM --> DPALH --> DPAHA --> Q --> DPATDM --> CFS --> D8020
-      TANGO --> TEW --> TEW2
+      APTI --> APTR
+      DG --> DGR
+      M --> SH2R --> CTND
+      SH2R -.-> SHF
+      RE4 --> RE2R --> REOC --> RE3R --> RE4R
+      DS --> DS2 --> DS3 -.-> DSR
+      DS -.-> FS
+      DS3 -.-> TCP
+      AITD -.-> AITDB
+      HBSS --> SSHBII
+      TLOU --> TLOUR --> TLOUII --> TLOUI --> TLOUIIR
+      AW --> C --> AWII
+      UD --> DPAMM --> DPALH --> DPAHA --> Q --> DPATDM --> CFS --> D8020
+      UD -.-> UDR
+      TEW --> TEW2
 
-      UD -.-> BALLISTIC
-      DS3 -.-> STRIKING
-      DS -.-> FLBDG
       RE4 -.-> TLOU
-      TLOUII -.-> RE4R
-      TLOU -.-> BEND
-      SH2R -.-> NBE
+      TLOU -.-> DG
+      TLOU -.-> APTI
+      RE4 -.-> TEW
 
     </pre>
   </div>
