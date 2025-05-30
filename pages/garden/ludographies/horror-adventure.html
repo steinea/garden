@@ -124,40 +124,89 @@ tags:
 
       SWH(["Sweet Home"])
 
-      APTI --> APTR
-      DG --> DGR
-      M --> SH2R --> CTND
-      RE -.-> RER --> REZ --> RE4 --> RE5 --> RE6 --> REOC --> RE2R --> RE3R --> RE4R
-      DS --> DS2 --> DS3
-      DS -.-> DSR
-      DS -.-> FS
-      DS3 -.-> TCP
-      AITD -.-> AITDNN --> AITD2008 --> AITDR
-      TLOU --> TLOUR --> TLOUII --> TLOUI --> TLOUIIR
-      AW --> C --> AWII --> C2
-      UD --> DPAMM --> DPALH --> DPAHA --> Q --> DPATDM --> CFS --> D8020
-      UD -.-> UDR
-      TEW --> TEW2
+      subgraph "Sweet Home"
+        SWH
+      end
 
+      subgraph "Alone in the Dark"
+        AITD -.-> AITDNN --> AITD2008 --> AITDR
+      end
+
+      subgraph "Resident Evil"
+        RE -.-> RER --> REZ --> RE4 --> RE5 --> RE6 --> REOC --> RE2R --> RE3R --> RE4R
+      end
+
+      subgraph "Silent Hill"
+        SH --> SH2 --> SH3 --> SHO --> SHH --> SHD --> SHF
+      end
+
+      subgraph Supermassive
+        UD --> DPAMM --> DPALH --> DPAHA --> Q --> DPATDM --> CFS --> D8020
+        UD -.-> UDR
+      end
+
+      SWH -.-> RE
+      SWH -.-> UD
+      AITD -.-> RE
       RE -.-> SH
-      RE4 -.-> TLOU
-      RE4 -.-> TEW
       RE4 -.-> SHH
+      RE4 -.-> TEW
       RE4 -.-> AITD2008
-      TLOU -.-> DG
-      TLOU -.-> APTI
-
-      SH --> SH2 --> SH3 --> SHO --> SHH --> SHD --> SHF
+      RE4 -.-> TLOU
+      RE2R -.-> AITDR
+      RE2R -.-> SH2R
+      RE4R -.-> CTND
       SH2 -.-> AW
       SH2 -.-> M
 
-      AITD -.-> RE
-      SWH -.-> RE
-      RE2R -.-> AITDR
-      SWH -.-> UD
+      subgraph "The Evil Within"
+        TEW --> TEW2
+      end
+
+      subgraph Remedy
+      AW --> C --> AWII --> C2
+      end
+
+      subgraph "Bloober Team"
+      M --> SH2R --> CTND
+      end
+
+      subgraph "Naughty Dog"
+      TLOU --> TLOUR --> TLOUII --> TLOUI --> TLOUIIR
+      end
+
+      TLOU -.-> APTI
+      TLOU -.-> DG
       TLOUII -.-> RE4R
-      RE4R -.-> CTND
+      TLOUII -.-> AWII
+      TLOUII -.-> SH2R
+
+      subgraph "Asobo Studio"
+        APTI --> APTR
+      end
+
+      subgraph "Bend Studio"
+        DG --> DGR
+      end
+
+      subgraph "Visceral Games"
+        DS --> DS2 --> DS3
+        DS -.-> DSR
+      end
+
+      DS3 -.-> FS
+      DS3 -.-> TCP
       DSR -.-> D8020
+
+      subgraph "The Callisto Protocol"
+        TCP
+      end
+
+      subgraph "FortSolis"
+        FS
+      end
+
+
 
     </pre>
   </div>
