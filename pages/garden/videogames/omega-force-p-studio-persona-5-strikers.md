@@ -2,7 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
-tags:
+tags: nintendo-fantasy
 title: Persona 5 Strikers
 developer: Omega Force, P-Studio
 publisher: Sega
