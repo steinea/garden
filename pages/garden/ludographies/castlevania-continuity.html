@@ -1,0 +1,65 @@
+---
+layout: default
+category: ludographies
+title: Castlevania Continuity
+date: 2024-02-26
+tags:
+---
+
+<table class="display nowrap ludographyReleaseDate" style="width: 100%">
+  <thead>
+    <tr>
+      <th class="all">Title</th>
+      <th class="desktop">Developer</th>
+      <th class="desktop">Publisher</th>
+      <th class="desktop">Released</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {% for page in site.pages %}
+      {% if page.category contains "videogame" and page.tags contains "castlevania-continuity" %}
+        <tr>
+          <td><a href="{{ page.url }}" class="internal-link">{{ page.title }}</a></td>
+          <td>{{ page.developer }}</td>
+          <td>{{ page.publisher }}</td>
+          <td>{{ page.releaseDate }}</td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+
+  <tfoot>
+    <tr>
+      <th class="all">Title</th>
+      <th class="desktop">Developer</th>
+      <th class="desktop">Publisher</th>
+      <th class="desktop">Released</th>
+    </tr>
+  </tfoot>
+</table>
+
+<br><hr>
+
+<h4>Chart</h4>
+
+<div id="mermaid">
+  <pre class="mermaid">
+
+    flowchart TD;
+
+      CAC(["Castlevania Anniversary Collection"])
+      CR(["Castlevania Requiem"])
+      BCOTM(["Bloodstained: Curse of the Moon"])
+      DC(["Dead Cells"])
+      BROTN(["Bloodstained: Ritual of the Night"])
+      BCUTM2(["Bloodstained: Curse of the Moon 2"])
+      DCRTC(["Dead Cells: Return to Castlevania"])
+
+      CAC --> CR -.-> BCOTM --> BROTN --> BCUTM2
+      CR -.-> DC
+      DC --> DCRTC
+
+
+  </pre>
+</div>
