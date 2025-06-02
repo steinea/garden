@@ -1,0 +1,91 @@
+---
+layout: default
+category: ludographies
+title: Nintendo Fantasy
+date: 2024-02-26
+tags:
+---
+
+<table class="display nowrap ludographyReleaseDate" style="width: 100%">
+  <thead>
+    <tr>
+      <th class="all">Title</th>
+      <th class="desktop">Developer</th>
+      <th class="desktop">Publisher</th>
+      <th class="desktop">Released</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {% for page in site.pages %}
+      {% if page.category contains "videogame" and page.tags contains "nintendo-fantasy" %}
+        <tr>
+          <td><a href="{{ page.url }}" class="internal-link">{{ page.title }}</a></td>
+          <td>{{ page.developer }}</td>
+          <td>{{ page.publisher }}</td>
+          <td>{{ page.releaseDate }}</td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+
+  <tfoot>
+    <tr>
+      <th class="all">Title</th>
+      <th class="desktop">Developer</th>
+      <th class="desktop">Publisher</th>
+      <th class="desktop">Released</th>
+    </tr>
+  </tfoot>
+</table>
+
+<br><hr>
+
+<h4>Chart</h4>
+
+<div id="mermaid">
+  <pre class="mermaid">
+
+    flowchart TD;
+
+    XCDE(["Xenoblade Chronicles: Definitive Edition"])
+    XCXDE(["Xenoblade Chronicles X: Definitive Edition"])
+    XC2(["Xenoblade Chronicles 2"])
+    XC2TTGC(["Xenoblade Chronicles 2: Torna – The Golden Country"])
+    XC3(["Xenoblade Chronicles 3"])
+
+      XCDE --> XCXDE --> XC2 --> XC2TTGC --> XC3
+
+    DW9(["Dynasty Warriors 9"])
+    DWO(["Dynasty Warriors: Origins"])
+
+      DW9 --> DWO
+      DW9 -.-> HW
+      DW9 -.-> P5S
+      DW9 -.-> FEWTH
+
+    HW(["Hyrule Warriors: Definitive Edition"])
+    COTND(["Crypt of the NecroDancer"])
+    BOTW(["The Legend of Zelda: Breath of the Wild"])
+    COH(["Cadence of Hyrule"])
+    HWAOC(["Hyrule Warriors: Age of Calamity"])
+    TOTK(["The Legend of Zelda: Tears of the Kingdom"])
+    HWAOI(["Hyrule Warriors: Age of Imprisonment"])
+
+      COTND -.-> COH
+      HW -.-> BOTW --> COH --> HWAOC --> TOTK --> HWAOI
+
+    P5R(["Persona 5 Royal"])
+    P5DIS(["Persona 5: Dancing in Starlight"])
+    P5S(["Persona 5 Strikers"])
+    P5T(["Persona 5 Tactica"])
+
+      P5R --> P5DIS --> P5S --> P5T
+
+    FETH(["Fire Emblem: Three Houses"])
+    FEWTH(["Fire Emblem Warriors: Three Hopes"])
+
+      FETH --> FEWTH
+
+  </pre>
+</div>
