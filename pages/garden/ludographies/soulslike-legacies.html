@@ -1,0 +1,206 @@
+---
+layout: default
+category: ludographies
+title: Soulslike Legacies
+date: 2024-01-11
+tags:
+---
+
+<table class="display nowrap ludographyReleaseDate" style="width: 100%">
+  <thead>
+    <tr>
+      <th class="all">Title</th>
+      <th class="desktop">Developer</th>
+      <th class="desktop">Publisher</th>
+      <th class="desktop">Released</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {% for page in site.pages %}
+      {% if page.category contains "videogame" and page.tags contains "soulslike-legacies" %}
+        <tr>
+          <td><a href="{{ page.url }}" class="internal-link">{{ page.title }}</a></td>
+          <td>{{ page.developer }}</td>
+          <td>{{ page.publisher }}</td>
+          <td>{{ page.releaseDate }}</td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+
+  <tfoot>
+    <tr>
+      <th class="all">Title</th>
+      <th class="desktop">Developer</th>
+      <th class="desktop">Publisher</th>
+      <th class="desktop">Released</th>
+    </tr>
+  </tfoot>
+</table>
+
+<br><hr>
+
+<h4>Chart</h4>
+
+<div id="mermaid">
+  <pre class="mermaid">
+    flowchart TD;
+
+      ICO(["Ico"])
+      SOTC(["Shadow of the Colossus"])
+
+        ICO --> SOTC
+        SOTC -.-> DES
+
+      SOTN(["Castlevania: Symphony of the Night"])
+
+        SOTN -.-> DES
+
+      DES(["Demon's Souls"])
+      DS(["Dark Souls"])
+      DS2SOTFS(["Dark Souls II: Scholar of the First Sin"])
+      BB(["Bloodborne"])
+      DS3(["Dark Souls III"])
+      DSR(["Dark Souls: Remastered"])
+      SSDT(["Sekiro: Shadows Die Twice"])
+      ER(["Elden Ring"])
+      ERSOTE(["Elden Ring: Shadow of the Erdtree"])
+
+        DES --> DS --> DS2SOTFS --> BB --> DS3 --> DSR --> SSDT --> ER --> ERSOTE
+        DS -.-> NIOH
+        DS -.-> LOTF
+        DS -.-> ASHEN
+        SSDT -.-> WFD
+        DS -.-> GOW
+        DS -.-> TITAN
+        DS -.-> SALT
+        DS -.-> HOLLOW
+        DS -.-> BLAS
+        DS -.-> DC
+        DS -.-> GRIME
+        DS -.-> TOI
+        DS -.-> LUCAH
+        DS -.-> MORBID7
+        DS -.-> MRUM
+        BB -.-> LOP
+        DS -.-> MISC
+
+      NIOH(["Nioh"])
+      NIOH2(["Nioh 2"])
+      WFD(["Wo Long: Fallen Dynasty"])
+
+        NIOH --> NIOH2 --> WFD
+
+      GOW(["God of War"])
+      GOWR(["God of War Ragnarok"])
+
+        GOW --> GOWR
+
+        GOW -.-> ATLAS
+        GOW -.-> FLINTLOCK
+
+      LOTF(["Lords of the Fallen (2013)"])
+      SURGE(["The Surge"])
+      SURGE2(["The Surge 2"])
+      ATLAS(["Atlas Fallen: Reign of Sand"])
+      LOTFH(["Lords of the Fallen (2023)"])
+
+        LOTF --> SURGE --> SURGE2 --> ATLAS -.-> LOTFH
+
+      ASHEN(["Ashen"])
+      FLINTLOCK(["Flintlock: The Siege of Dawn"])
+
+        ASHEN --> FLINTLOCK
+
+      TITAN(["Titan Souls"])
+      DD(["Death's Door"])
+
+        TITAN --> DD
+
+      SALT(["Salt and Sanctuary"])
+      SALT2(["Salt and Sacrifice"])
+
+        SALT --> SALT2
+
+      HOLLOW(["Hollow Knight"])
+      SILK(["Hollow Knight: Silksong"])
+
+        HOLLOW --> SILK
+
+        HOLLOW -.-> ENDERL
+        HOLLOW -.-> CROW
+
+      DC(["Dead Cells"])
+
+        DC
+
+      ENDERL(["Ender Lilies: Quietus of the Knights"])
+      ENDERM(["Ender Magnolia: Bloom in the Mist"])
+
+        ENDERL --> ENDERM
+
+      MRUM(["Momodora: Reverie Under the Moonlight"])
+      MIN(["Minoria"])
+      MMF(["Momodora: Moonlit Farewell"])
+
+        MRUM --> MIN --> MMF
+
+      BLAS(["Blasphemous"])
+      BLAS2(["Blasphemous 2"])
+
+        BLAS --> BLAS2
+
+      GRIME(["Grime"])
+      GRIME2(["Grime 2"])
+
+        GRIME --> GRIME2
+
+      TOI(["Tails of Iron"])
+      TOI2WW(["Tails of Iron 2: Whiskers of Winter"])
+
+        TOI --> TOI2WW
+
+      LOP(["Lies of P"])
+
+        LOP
+
+      LUCAH(["Lucah: Born of a Dream"])
+      DOAW(["Death of a Wish"])
+
+        LUCAH --> DOAW
+
+      MORBID7(["Morbid: The Seven Acolytes"])
+      MORBIDI(["Morbid: The Lords of Ire"])
+
+        MORBID7 --> MORBIDI
+
+      CROW(["Crowsworn"])
+
+        CROW
+
+      MISC(["Misc List"])
+      HLD(["Hyper Light Drifter"])
+      SUND(["Sundered: Eldritch Edition"])
+      DDEV(["Dark Devotion"])
+      BMSS(["Biomass"])
+      VIGIL(["Vigil: The Longest Night"])
+      EE(["Eastern Exorcist"])
+      DGA(["Death's Gambit Afterlife"])
+      AN(["Aeterna Noctis"])
+      TUNIC(["Tunic"])
+      STEEL(["Steelrising"])
+      MS(["Moonscars"])
+      GS(["Ghost Song"])
+      AI(["Afterimage"])
+      TLF(["The Last Faith"])
+      OO(["Oblivion Override"])
+      ULTROS(["Ultros"])
+      ENOTRIA(["Enotria: The Last Song"])
+      VW(["Voidwrought"])
+      EITR(["Eitr"])
+
+      MISC -.- HLD -.- SUND -.- DDEV -.- BMSS -.- VIGIL -.- EE -.- DGA -.- AN -.- TUNIC -.- STEEL -.- MS -.- GS -.- AI -.- TLF -.- OO -.- ULTROS -.- ENOTRIA -.- VW -.- EITR
+
+  </pre>
+</div>
