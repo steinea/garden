@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: soulslike-legacies castlevania-continuity
 title: Dead Cells
 developer: Motion Twin
 publisher: Motion Twin

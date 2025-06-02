@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
+tags: soulslike-legacies
 title: Tunic
 developer: Isometricorp Games
 publisher: Finji

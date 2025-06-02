@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: castlevania-continuity
 title: "Bloodstained: Curse of the Moon"
 developer: Inti Creates
 publisher: Inti Creates

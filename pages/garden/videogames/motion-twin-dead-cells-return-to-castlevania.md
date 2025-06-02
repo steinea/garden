@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: castlevania-continuity
 title: "Dead Cells: Return to Castlevania"
 developer: Motion Twin
 publisher: Motion Twin

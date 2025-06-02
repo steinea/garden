@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: complete
+tags: soulslike-legacies
 title: Bloodborne
 developer: FromSoftware
 publisher: Sony Computer Entertainment

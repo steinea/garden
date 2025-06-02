@@ -2,8 +2,9 @@
 layout: page
 category: videogame
 subcategory: complete
+tags: soulslike-legacies
 title: Ashen
-developer: A44
+developer: A44 Games
 publisher: Annapurna Interactive
 platform: Steam
 releaseDate: 2018-12-07

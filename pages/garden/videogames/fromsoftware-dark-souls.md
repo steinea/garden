@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: complete
+tags: soulslike-legacies
 title: Dark Souls
 developer: FromSoftware
 publisher: Namco Bandai Games

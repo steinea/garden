@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: complete
+tags: soulslike-legacies
 title: Demon’s Souls
 developer: FromSoftware
 publisher: Sony Computer Entertainment

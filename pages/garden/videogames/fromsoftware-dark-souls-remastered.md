@@ -2,11 +2,12 @@
 layout: page
 category: videogame
 subcategory: complete
+tags: soulslike-legacies
 title: 'Dark Souls: Remastered'
 developer: FromSoftware
 publisher: Namco Bandai Games
 platform: Steam
-releaseDate: 2011-09-22
+releaseDate: 2018-05-23
 howlongtobeat: 69
 difficulty: --
 trophyGuide: --

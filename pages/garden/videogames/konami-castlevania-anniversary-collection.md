@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: castlevania-continuity soulslike-legacies
 title: Castlevania Anniversary Collection
 developer: Konami
 publisher: Konami

@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: complete
+tags: soulslike-legacies
 title: Ico
 developer: Team Ico
 publisher: Sony Computer Entertainment

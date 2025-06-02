@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
+tags: soulslike-legacies
 title: "Momodora: Reverie Under the Moonlight"
 developer: Bombservice
 publisher: Playism

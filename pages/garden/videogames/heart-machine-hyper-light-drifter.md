@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: complete
+tags: soulslike-legacies
 title: Hyper Light Drifter
 developer: Heart Machine
 publisher: Heart Machine

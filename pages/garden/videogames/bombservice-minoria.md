@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
+tags: soulslike-legacies
 title: Minoria
 developer: Bombservice
 publisher: Dangen Entertainment

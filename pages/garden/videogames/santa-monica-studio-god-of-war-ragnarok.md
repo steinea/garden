@@ -2,7 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
-tags: sony-prestige
+tags: sony-prestige soulslike-legacies
 title: "God of War Ragnarok"
 developer: Santa Monica Studio
 publisher: Sony Interactive Entertainment

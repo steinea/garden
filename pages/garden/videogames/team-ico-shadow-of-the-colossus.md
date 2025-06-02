@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: complete
+tags: soulslike-legacies
 title: Shadow of the Colossus
 developer: Team Ico
 publisher: Sony Computer Entertainment

@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
+tags: soulslike-legacies
 title: Blasphemous
 developer: The Game Kitchen
 publisher: Team17

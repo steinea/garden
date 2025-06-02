@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
+tags: soulslike-legacies
 title: Grime
 developer: Clover Bite
 publisher: Akupara Games

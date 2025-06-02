@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
+tags: soulslike-legacies
 title: Death’s Door
 developer: Acid Nerve
 publisher: Devolver Digital

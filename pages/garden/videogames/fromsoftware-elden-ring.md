@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: complete
+tags: soulslike-legacies
 title: Elden Ring
 developer: FromSoftware
 publisher: Bandai Namco Entertainment

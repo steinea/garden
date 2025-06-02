@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: castlevania-continuity
 title: "Bloodstained: Ritual of the Night"
 developer: ArtPlay
 publisher: 505 Games

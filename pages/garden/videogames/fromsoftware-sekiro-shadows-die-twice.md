@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: complete
+tags: soulslike-legacies
 title: 'Sekiro: Shadows Die Twice'
 developer: FromSoftware
 publisher: Activison

@@ -2,6 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
+tags: castlevania-continuity
 title: Castlevania Requiem
 developer: Konami
 publisher: Konami

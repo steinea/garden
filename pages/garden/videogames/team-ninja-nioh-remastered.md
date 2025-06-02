@@ -2,7 +2,7 @@
 layout: page
 category: videogame
 subcategory: wishlist
-tags: fantasy-action
+tags: fantasy-action soulslike-legacies
 title: Nioh Remastered
 developer: Team Ninja
 publisher: Sony Interactive Entertainment
