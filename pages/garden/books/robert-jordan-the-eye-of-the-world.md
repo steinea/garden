@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Robert Jordan
 title: The Eye of the World
 published: 1990

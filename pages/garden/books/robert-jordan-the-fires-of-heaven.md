@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Robert Jordan
 title: The Fires of Heaven
 published: 1993

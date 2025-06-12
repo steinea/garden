@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Werner Heisenberg
 title: Physics and Philosophy
 published: 1958

@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Michel de Certeau
 title: The Practice of Everyday Life
 published: 1974

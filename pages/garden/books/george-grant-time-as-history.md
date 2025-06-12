@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: George Grant
 title: Time as History
 published: 1969

@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Isaac Asimov
 title: Foundation and Empire
 published: 1952

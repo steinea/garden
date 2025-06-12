@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Hans-Georg Gadamer
 title: Truth and Method
 published: 1960

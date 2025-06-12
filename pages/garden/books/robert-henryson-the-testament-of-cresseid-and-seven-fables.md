@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Robert Henryson
 title: The Testament of Cresseid
 published: 2009

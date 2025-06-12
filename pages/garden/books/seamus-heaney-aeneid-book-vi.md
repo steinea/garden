@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Seamus Heaney
 title: Aeneid Book VI
 published: 2016

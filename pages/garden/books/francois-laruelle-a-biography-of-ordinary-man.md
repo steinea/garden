@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: François Laruelle
 title: A Biography of Ordinary Man
 published: 1985

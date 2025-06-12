@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Mary Oliver
 title: Owls and Other Fantasies
 published: 2003

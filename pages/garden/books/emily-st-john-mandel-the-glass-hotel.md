@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Emily St. John Mandel
 title: The Glass Hotel
 published: 2020

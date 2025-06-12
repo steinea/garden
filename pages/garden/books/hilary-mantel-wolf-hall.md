@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Hilary Mantel
 title: Wolf Hall
 published: 2009

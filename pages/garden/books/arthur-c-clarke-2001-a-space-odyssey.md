@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Arthur C. Clarke
 title: "2001: A Space Odyssey"
 published: 1968

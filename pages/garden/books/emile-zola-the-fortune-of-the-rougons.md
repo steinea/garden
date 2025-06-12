@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Émile Zola
 title: The Fortune of the Rougons
 published: 1871

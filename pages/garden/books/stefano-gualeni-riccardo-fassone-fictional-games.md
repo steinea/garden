@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Stefano Gualeni and Riccardo Fassone
 title: Fictional Games
 published: 2022

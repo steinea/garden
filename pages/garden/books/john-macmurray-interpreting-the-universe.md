@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: John Macmurray
 title: Interpreting the Universe
 published: 1933

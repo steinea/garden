@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Tom Nomad
 title: Toward an Army of Ghosts
 published: 2017

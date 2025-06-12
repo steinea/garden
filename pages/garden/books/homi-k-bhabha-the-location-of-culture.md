@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Homi K. Bhabha
 title: The Location of Culture
 published: 1994

@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Gilles Deleuze
 title: Empiricism and Subjectivity
 published: 1953

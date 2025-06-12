@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Mary Oliver
 title: Thirst
 published: 2007

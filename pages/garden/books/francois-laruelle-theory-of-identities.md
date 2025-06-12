@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: François Laruelle
 title: Theory of Identities
 published: 1992

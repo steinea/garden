@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Isaac Asimov
 title: Foundation
 published: 1951

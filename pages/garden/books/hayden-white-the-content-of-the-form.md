@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Hayden White
 title: The Content of the Form
 published: 1987

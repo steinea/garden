@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Emily St. John Mandel
 title: Sea of Tranquility
 published: 2022

@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Roland Barthes
 title: Mythologies
 published: 1957

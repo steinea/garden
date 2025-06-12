@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Cormac McCarthy
 title: Blood Meridian
 published: 1985

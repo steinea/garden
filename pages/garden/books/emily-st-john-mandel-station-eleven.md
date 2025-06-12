@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Emily St. John Mandel
 title: Station Eleven
 published: 2014

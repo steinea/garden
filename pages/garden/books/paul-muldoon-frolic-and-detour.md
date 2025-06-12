@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Paul Muldoon
 title: Frolic and Detour
 published: 2019

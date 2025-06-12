@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Robert Jordan
 title: The Shadow Rising
 published: 1992

@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Benjamin J. Abraham
 title: Digital Games After Climate Change
 published: 2022

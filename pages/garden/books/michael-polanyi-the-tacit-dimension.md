@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Michael Polanyi
 title: The Tacit Dimension
 published: 1966

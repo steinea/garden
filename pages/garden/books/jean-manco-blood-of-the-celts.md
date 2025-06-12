@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Jean Manco
 title: Blood of the Celts
 published: 2015

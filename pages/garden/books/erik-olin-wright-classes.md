@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Erik Olin Wright
 title: Classes
 published: 1985

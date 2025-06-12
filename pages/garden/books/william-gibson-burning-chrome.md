@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: William Gibson
 title: Burning Chrome
 published: 1986

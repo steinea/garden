@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Alfred North Whitehead
 title: Process and Reality
 published: 1927

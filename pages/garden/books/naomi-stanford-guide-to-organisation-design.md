@@ -2,6 +2,7 @@
 layout: page
 category: books
 subcategory: read
+tags: annotations
 author: Naomi Stanford
 title: Guide to Organisation Design
 published: 2015
