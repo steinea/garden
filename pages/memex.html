@@ -1,0 +1,46 @@
+---
+layout: default
+title: Memex
+---
+
+<h3>Activity</h3>
+
+<div id="activity">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "activity" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Garden</h3>
+
+<div id="garden">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "garden" %}
+      <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Inventory</h3>
+
+<div id="inventory">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "inventory" %}
+      <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
