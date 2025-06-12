@@ -34,20 +34,12 @@ permalink: /playing/
     {% endif %}
   {% endfor %}
 
-{% assign totalWishlist = 0 %}
-  {% for page in site.pages %}
-    {% if page.category contains "videogame" and page.subcategory contains "wishlist" %}
-      {% assign totalWishlist = totalWishlist | plus: 1 %}
-    {% endif %}
-  {% endfor %}
-
 <!-- Category Tabs -->
 <div class="tab">
   <button class="tablinks" onclick="openTab('in-progress')">In Progress ({{ totalInProgress }})</button>
   <button class="tablinks" onclick="openTab('complete')">Complete ({{ totalComplete }})</button>
   <button class="tablinks" onclick="openTab('retired')">Retired ({{ totalRetired }})</button>
   <button class="tablinks" onclick="openTab('backlog')">Backlog ({{ totalBacklog }})</button>
-  <button class="tablinks" onclick="openTab('wishlist')">Wishlist ({{ totalWishlist }})</button>
 </div>
 
 <br>
@@ -188,38 +180,6 @@ permalink: /playing/
     <tbody>
       {% for page in site.pages %}
         {% if page.category contains "videogame" and page.subcategory contains "backlog" %}
-          <tr>
-            <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
-            <td>{{ page.platform }}</td>
-            <td>{{ page.howlongtobeat }}</td>
-          </tr>
-        {% endif %}
-      {% endfor %}
-    </tbody>
-
-    <tfoot>
-      <tr>
-        <th class="all">Title</th>
-        <th class="desktop">Platform</th>
-        <th class="desktop">HowLongToBeat</th>
-      </tr>
-    </tfoot>
-  </table>
-</div>
-
-<div id="wishlist" class="tabcontent">
-  <table class="display nowrap playingHLTBSort">
-    <thead>
-      <tr>
-        <th class="all">Title</th>
-        <th class="desktop">Platform</th>
-        <th class="desktop">HowLongToBeat</th>
-      </tr>
-    </thead>
-
-    <tbody>
-      {% for page in site.pages %}
-        {% if page.category contains "videogame" and page.subcategory contains "wishlist" %}
           <tr>
             <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
             <td>{{ page.platform }}</td>
