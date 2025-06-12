@@ -5,10 +5,10 @@ title: Video Games
 ---
 
 <!-- Category Counts -->
-{% assign totalLibrary = 0 %}
+{% assign totalCollection = 0 %}
   {% for page in site.pages %}
     {% if page.category contains "videogame" and page.subcategory != "wishlist" %}
-      {% assign totalLibrary = totalLibrary | plus: 1 %}
+      {% assign totalCollection = totalCollection | plus: 1 %}
     {% endif %}
   {% endfor %}
 
@@ -21,13 +21,13 @@ title: Video Games
 
 <!-- Category Tabs -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab('library')">Library ({{ totalLibrary }})</button>
+  <button class="tablinks" onclick="openTab('collection')">Collection ({{ totalCollection }})</button>
   <button class="tablinks" onclick="openTab('wishlist')">Wishlist ({{ totalWishlist }})</button>
 </div>
 
 <br>
 
-<div id="library" class="tabcontent">
+<div id="collection" class="tabcontent">
   <table class="display nowrap videoGamesSort">
     <thead>
       <tr>
@@ -113,5 +113,5 @@ title: Video Games
   }
 
   // Show the first tab by default
-  openTab('library');
+  openTab('collection');
 </script>
