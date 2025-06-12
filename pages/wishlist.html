@@ -1,0 +1,36 @@
+---
+layout: default
+title: Wishlist
+---
+
+<div id="library">
+  <table class="display nowrap wishlistSort">
+    <thead>
+      <tr>
+        <th class="all">Title</th>
+        <th class="desktop">Category</th>
+        <th class="desktop">Price</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for page in site.pages %}
+        {% if page.subcategory contains "wishlist" %}
+          <tr>
+            <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
+        		<td>{{ page.category }}</td>
+            <td>{{ page.price }}</td>
+      		</tr>
+        {% endif %}
+    	{% endfor %}
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th class="all">Title</th>
+        <th class="desktop">Category</th>
+        <th class="desktop">Price</th>
+      </tr>
+    </tfoot>
+  </table>
+</div>
