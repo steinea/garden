@@ -10,6 +10,7 @@ started: 2025-01-06
 finished: 2025-03-02
 date: 2025-03-02
 rating: exclude
+toc: true
 ---
 
 ### Citation
@@ -26,9 +27,7 @@ Stanford, Naomi. *Guide to Organisation Design.* Second Edition. New York, NY: P
 
 ### Annotations
 
-#### Section
-
-##### Preface
+#### Preface
 
 "about the constant 'reorganisations' and 'restructurings' that they willingly or unwillingly participate in during the course of their working life" (xiv)
 
@@ -49,7 +48,7 @@ Stanford, Naomi. *Guide to Organisation Design.* Second Edition. New York, NY: P
 <br>
 
 
-##### 1 Introducing organisation design
+#### 1 Introducing organisation design
 
 
 "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose. ---Charles Eames, 1969" (1)
@@ -177,7 +176,7 @@ Senge: "Those who aspire to lead out of a desire to control, or gain fame, or si
 <br>
 
 
-##### 2 Models, approaches and designs
+#### 2 Models, approaches and designs
 
 "*All models are wrong but some are useful.* ---George Box" (26)
 
@@ -281,7 +280,7 @@ New models: **"Nadler's Updated Congruence Model"** (32)
 <br>
 
 
-##### 3 Organisational structures
+#### 3 Organisational structures
 
 "*Structures are fine as long as they are controlled by the people who actually work within the structures, but they're dicey even there.* ---George Woodcock, Canadian poet and literary critic" (53)
 
@@ -431,7 +430,7 @@ For each issue or opportunity, assess and, using the four rules of thumb, decide
 <br>
 
 
-##### 4 Planning and sequencing the organisation design
+#### 4 Planning and sequencing the organisation design
 
 "Designs that are simple, sustainable and deliver business results do not just happen but are the outcome of careful planning and careful implementation" (82)
 
@@ -596,7 +595,7 @@ Anthony, W.P., Perrewe, PD. and Kacmar, K.M., *Strategic Human Resource Manageme
 <br>
 
 
-##### 5 Measurement
+#### 5 Measurement
 
 "Measurement of organisation design is a thorny topic. At different stages of the process, people want to know with a high degree of certainty the answers to four questions:
 
@@ -667,7 +666,7 @@ Bad: "Line management is not communicating results or action plans to staff and 
 <br>
 
 
-##### 6 Stakeholder engagement
+#### 6 Stakeholder engagement
 
 "an intentional process ... financial, social responsibility and environmental performance (known as the triple bottom line) ... alignment of mutual interests, reduced risks to the organisation and improved results in the triple bottom line" (152)
 
@@ -733,7 +732,7 @@ Bad: "Line management is not communicating results or action plans to staff and 
 <br>
 
 
-##### 7 Leadership and organisation design
+#### 7 Leadership and organisation design
 
 "*Power shows the man.* ---Sophocles, Antigone" (187)
 
@@ -822,7 +821,7 @@ Simmons, A., Territorial Games: Understanding and Ending Turf Wars at Work, Amac
 <br>
 
 
-##### 8 Culture and group processes
+#### 8 Culture and group processes
 
 
 "*Organisation doesn't really accomplish anything. Plans don't accomplish anything, either. Theories of management don't much matter. Endeavors succeed or fail because of the people involved. Only by attracting the best people will you accomplish great deeds.* ---Colin Powell, former US Secretary of State" (220)
@@ -931,7 +930,7 @@ The Institute of Risk Managers, The Risk Management Standard, 2002 (www.theirm.o
 <br>
 
 
-##### 9 Continuous design
+#### 9 Continuous design
 
 "*every stage in the evolutionary sequence must be capable of holding its own in a competitive world.* ---R. McNeil Alexander, *Bones*" (256)
 
