@@ -44,3 +44,18 @@ title: Memex
     {% endfor %}
   </p>
 </div>
+
+<br>
+
+
+<h3>Marginalia</h3>
+
+<div id="marginalia">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "marginalia" %}
+      <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
