@@ -192,7 +192,7 @@ Senge: "Those who aspire to lead out of a desire to control, or gain fame, or si
 
 "an organisation might comprise a portfolio of companies that operate differently one from another, may be simultaneously competing and collaborating with each other, and have to predict and respond in a chameleon-like way to a changing business environment" (29)
 
-New models: **"Nadler's Updated Congruence Model"** (32)
+New models: "[Nadler's Updated Congruence Model](https://www.researchgate.net/figure/Congruence-model-by-Nadler-and-Tushman_fig3_365038765)" (32)
 
 "Dieter Rams ... good design:
 
@@ -319,9 +319,7 @@ New models: **"Nadler's Updated Congruence Model"** (32)
 
 "Alongside contingency theory, organisation systems theorists suggest that change in one part of the organisational system will produce different effects in the system as a whole, and because the operating environment changes frequently, if not continuously, interactions within a system are inherently complex. This results in structures that emphasise horizontal tasks, collaboration across units, a focus on process and a commitment model of worker productivity" (55)
 
-**Organisational theory Model Scientific management Systems theory (closed McKinsey's 7-S model and open) Galbraith's Star Model Nadler's Congruence Model Weisbord's Six Box Model Burke-Litwin's Model Structure Functional Divisional Matrix/project EA Complexity theory Nadler's Updated Congruence Model Network**
-
-**Note:** TABLE
+![Models and Structures](/assets/fig/stanford-2015/organisational-theory-models-structures.png/)
 
 "managers as 'integrators'" (56)
 
@@ -382,13 +380,9 @@ New models: **"Nadler's Updated Congruence Model"** (32)
 
 "wide spans of management are typical of organisations that have few layers" (68)
 
-**TABLE 3.2 Comparing structures Functional Divisional Matrix Network Cluster Division of labour By inputs By outputs By inputs and outputs By knowledge By skills and knowledge Co-ordination mechanisms Hierarchical supervision, plans and procedures Division general manager and Dual reporting relationships teams Cross-functional Centralised hub corporate staff Decision rights Highly centralised Separation of strategy and execution Shared Boundaries Core/periphery Internal/external Multiple markets Modest interfaces Considerable High Highly decentralised Porous and changing organisations Within each contributing organisation Multiple changing interfaces High (hub to partner organisations) Depends on co-ordinating across partner Importance Low of informal structure Politics Interfunctional Corporate division and interdivisional Along matrix dimensions Shifting coalitions contact between members Basis of authority Positional and functional expertise General management responsibility and resources Negotiating skills Knowledge and Expertise, and resources resources resources, position in marketplace Resource Excellent Poor Moderate Good Excellent efficiency Time efficiency Poor Good Responsiveness Poor Moderate Moderate Good Excellent Excellent Excellent Excellent Adaptability Poor Good Moderate Good Good Accountability Good Excellent Poor Moderate Good Environment Stable for which best Heterogeneous Complex Volatile Fast-paced suited with multiple Strategy for demands which best Focused/low Diversified Cost suited Responsive Innovative Competitive** (68)
+![Advantages and Limitations of Structures](/assets/fig/stanford-2015/advantages-limitations-structures-1.png/)
 
-**Note:** TABLE
-
-**TABLE 3.3 Advantages and limitations of structures Structure Advantages Functional Small size, single product line Undifferentiated market Scale or expertise within the function Long product development or life cycles Common standards Divisional Product focus product Multiple products for separate customers Short product development and life cycle Minimum efficient scale for functions or outsourcing Divisional/ Low value-to-cost transport ratio geographic Service delivery on site Closeness to customer for delivery or support Perception of the organisation as local Divisional/ Important market segments market Divisional/ process Matrix Network Cluster Product or service unique to segment Buyer strength Customer knowledge advantage Rapid customer service and product cycles Minimum efficient scale in functions or outsourcing Geographic market segments needed Best seen as an alternative to the functional structure Potential for new processes and a radical change to processes Reduced working capital Need for reducing process cycle times Flexible: teams may dissolve after task completion Specialist skills brought to bear where needed Attention paid to product/geography Quick response to markets High autonomy, ownership and accountability Less duplication of resources Partners focused on particular aspects of the value chain leading to:greater economies of scale superior skills developed reduced redundancy of operations lowering of barriers to entry ability to create "a series of short-term advantages" a Galbraith, J.R., Designing a Reconfigurable Organicati pdf/G991360 Limitations Slow decision-making Hard to determine accountability and judge performance Functional loyalty rather than company loyalty makes co-operation difficult Does not respond well to rapid change situations High cost, loss of economies of scale Difficulty of co-ordinating geographic areas Lack responsiveness to local conditions New product development falls between the gaps Conflict between regions and HQ Implementing new product lines or changes slow and difficult Difficult to apply global strategy Difficult to develop consistency and transfer learning High costs, loss of economies of scale Difficulty co-ordinating geographical areas Less functional specialisation May lack responsiveness to local conditions Challenge to implement: need to redefine the operating culture of the business Clashes occur between HQ and divisions Increased likelihood of process overlap and duplication Difficult to apply Supervisor power struggles/overlapping responsibilities Need for a lot of co-ordination Greater transaction costs Lack of deep functional expertise Difficulty with co-ordination between groups Accountability needs to be carefully thought through and made clear Clear central direction required Selection of capable partners an issue Keeping partners synchronised problematic ganizations (http://ceo.usc.edu/** (69)
-
-**Note:** TABLE
+![Advantages and Limitations of Structures](/assets/fig/stanford-2015/advantages-limitations-structures-2.png/)
 
 "Galbraith, J.R., *Designing a Reconfigurable Organisation*" (69)
 
@@ -403,21 +397,15 @@ New models: **"Nadler's Updated Congruence Model"** (32)
 
 "If these four attributes are working well, it is likely that the layer is adding value to the organisation, in that it is facilitating speed of operation, innovation, integration, flexibility and control" (71)
 
-**3.1 The four spans Managers can adjust the spans of job design to create positions that are tuned for optimum performance SPAN TO NARROW THE SPAN TO WIDEN THE SPAN Narrow Wide Span of control Span of accountability Span of influence Span of support Reduce resources allocated to specific Allocate more people, assets, and positions or units infrastructure Standardise work by using measures (either financial, such as line-item budget expenses, or non-financial, such as head count) that allow few trade-offs Require people to pay attention only to their own jobs; do not allocate costs across units; use single reporting lines; and reward individual performance Use leveraged, highly individualised rewards, and clearly single out winners and losers Use nonfinancial measures (such as customer satisfaction) or broad financial measures (such as profit) that allow many trade-offs Inject creative tension through structures, systems, and goals-for example, cross-unit teams, dotted lines, matrix structures, stretch goals cross-unit cost allocations, and transfer prices." Build shared responsibilities through purpose and mission, group identification, trust, and equitybased incentive plans** (72)
-
-**Note:** TABLE
+![The Four Spans](/assets/fig/stanford-2015/the-four-spans.png/)
 
 Simons, R., "Designing High Performance Jobs", *Harvard Business Review*, July-August 2005 (72)
 
 "Thus the five elements of speed, integration, flexibility and innovation, with adequate control, which the CEO and president said they were aiming to achieve, were compromised by a design process that began (and ended) with a restructuring" (78)
 
-**Structural evaluation tool and t said Ocess A 1 Do you consciously and periodically structure the organisation to reflect the changing priorities of your organisation? at was d any mme 2 If so, have you consciously determined your current organisational structure? Organisational structures 79 3 Do you have a set of measures that enable you to assess the effectiveness of your current structure? 4 Do you evaluate your organisational structure on its ability to nourish entrepreneurialism, reduce bureaucracy and maintain control? 5 Does your organisation currently have different structures in it? Yes 6 If so, have you identified factors that make these work well and less well? 7 Do you know the advantages and limitations of the structures you could move to? 8 Have you assessed the importance of the structural element in relation to the other elements in the overall organisation design process (eg, business processes, technology, systems, capabilities)? 9 Have you considered the costs and benefits of changing the current structure? 10 Do your staff members currently have the skills knowledge and experience to work in a different structural form? 11 Have you considered the effect that changing your structure will have on internal and external interfaces and boundaries? 12 Have you considered the unintended consequences of changing your structure? 13 Have you considered the risks inherent in changing your whole obably m. The eration as par T structure? 14 Are you able to say what you have learned from past efforts to change your structure? 15 If so, do you have the** (79)
+![Structural Evaluation Tool](/assets/fig/stanford-2015/structural-evaluation-tool.png/)
 
-**Note:** TABLE
-
-"Structural flexibility
-
-Invite a mixed group of managers (who represent each level of management) and staff (who represent each level of staff) to a workshop. Select participants not just for the organisation level that they come from but also for their depth of knowledge about the business (its internal and external operating environment) and their ability to discuss future business possibilities. Ask them to suggest at least ten issues or opportunities that are in the pipeline or that might arise within two years (or present them with some).
+"Structural flexibility: Invite a mixed group of managers (who represent each level of management) and staff (who represent each level of staff) to a workshop. Select participants not just for the organisation level that they come from but also for their depth of knowledge about the business (its internal and external operating environment) and their ability to discuss future business possibilities. Ask them to suggest at least ten issues or opportunities that are in the pipeline or that might arise within two years (or present them with some).
 
 Now look at the current or planned structure and ask the group members to assess how they would flex and adapt to meet the new situation if it arose. They should focus particularly on aspects of planning, controlling, co-ordinating and allocating for each issue or opportunity, and should check that enough structural flexibility is in place to ensure that there is continued contribution to the mission, that the work is motivating, and that the social impacts and responsibilities of the organisation are not compromised
 
@@ -445,16 +433,13 @@ For each issue or opportunity, assess and, using the four rules of thumb, decide
 
 "taking a programme management approach provides a robust framework for planning and sequencing organisation design work at whatever scale is required" (84)
 
-**FIG 4.1 Overview of organisation design plan and sequence pr U m se P Business case for change Organisation design programme Assess (prepare for new design) Design (develop and plan the design) Implement(transition to the new design) Organisation design enablers Optimise (review and sustain the new design) Leadership support Stakeholder engagement Change readiness Communication and involvement Training** (84)
-
-**Note:** TABLE
+![Organisation Design Plan](/assets/fig/stanford-2015/organisation-design-plan.png/)
 
 "in practice the process is much more iterative and messy" (85)
 
 "following the map will often involve getting lost, doing U-turns, backtracking and going along dead-end streets" (85)
 
 "following a systematic process for planning and sequencing the design provides the basis for a high degree of transparency and control and helps get things back on track as necessary, but it may not be an easy and sequential journey from start to finish" (85)
-
 
 "The business case for change ... Organisations usually have some kind of template for the making of a business case" (85)
 
@@ -571,10 +556,7 @@ For each issue or opportunity, assess and, using the four rules of thumb, decide
 
 "Flexibility to make refinements" (116)
 
-
-**TABLE 4.3 Checklist of the steps in the strategic planning process Environmental scan Environmental forecast Customer/market/ competitor analysis Strategic planning premises Internal assessment Mission/vision development Strategic thrusts Plan operationalisation Examine the outside environment surrounding theorganisation (societal/task environments) Predict how the environment is changing in order to determine implications for the future of the organisation Establish a stronger understanding of why the organisation exists by determining how the market is changing, understanding who the future customers are, and analysing organisation competition Develop strategic planning premises that reflect the assumptions about the future (based on the environmental forecast) Management determines the strengths and weaknesses of the organisation as it currently exists to establish a planning base using a SWOT analysis (strengths, weaknesses, opportunities and threats). By maximising strengths and minimising weaknesses an organisation exploits opportunities and avoids threats The mission and vision of the organisation are outlined. The mission is the basic purpose of the organisation. The vision describes what the organisation will look like in the future The three or four key goals on which the organisation focuses its efforts over the next five years It is best to follow these steps in this order. However, sometimes it may be necessary to revisit various steps as the organisation moves along through the strategic planning process**
-
-**Note:** TABLE
+![Phase Blueprint](/assets/fig/stanford-2015/phase-blueprint.png/)
 
 Anthony, W.P., Perrewe, PD. and Kacmar, K.M., *Strategic Human Resource Management*, Harcourt Brace 1996 (117)
 
@@ -768,9 +750,7 @@ Bad: "Line management is not communicating results or action plans to staff and 
 
 *With Columbia, as with Challenger, the board found, decisionmakers were overly influenced by pressures to launch on time. In blind adherence to safety rules, they ignored hunches and intuition about faulty equipment. They valued organisational charts over good communication. The report chastised the agency for habitually turning a deaf ear to outside critics, and for clinging to the belief that NASA alone knew best how to safely send people into space. Signals were overlooked, people were silenced. Communication did not flow effectively up and down the formal chain of command*" (199)
 
-**Hersey and Blanchard's situational leadership model Supporting behaviour Supporting Leaders facilitate and take part in decisions. But control is with the follower. Coaching Leaders define roles and tasks, but work closely with the follower. Decisions remain the leader's prerogative, but communication is two-way. Delegating Leaders are involved in decisions, but control is with the follower. The follower decides when and how the leader will be involved. Directing Leaders define the roles and tasks of the "follower", and supervise them closely. Decisions are made by the leader and announced. Directive behaviour** (200)
-
-**Note:** TABLE
+![Hersey-Blanchard](/assets/fig/stanford-2015/hersey-blanchard.png/)
 
 "leaders flex their style depending on the needs of the follower. This responsiveness creates a culture of openness where followers feel respected and valued" (200-201)
 
@@ -786,9 +766,7 @@ Bad: "Line management is not communicating results or action plans to staff and 
 
 "This is often tricky in difficult situations where, for example, there is no opportunity for a second chance, or there is a lot of resistance from another person or group" (205)
 
-**FIG 7.2 Summary of the Cohen-Bradford model of influence without authority Identify relevant currencies, theirs, yours Dealing with relationships Influence through give and take Assume all are potential allies Clarify your goals and priorities**
-
-**Note:** TABLE
+![Cohen-Bradford](/assets/fig/stanford-2015/cohen-bradford.png/)
 
 "Collaborative working, where people feel good about their interactions and the results they produce, is hard to achieve" (206)
 
@@ -796,9 +774,7 @@ Bad: "Line management is not communicating results or action plans to staff and 
 
 "Territorial games interfere with getting work done effectively. They cause bad feeling, poor-quality decisions and defensive behaviour. Yet there is great reluctance to expose and discuss game playing openly. Overcoming this reluctance is the first step to understanding territorial instincts and choosing to work in more productive ways The more people learn about the games they play the less effective destructive gamesmanship is" (208)
 
-**The DESC process Describe how you feel Explain what you think are the causes Suggest various options on ways forward Come to an agreement on how to proceed I want to talk to you about the project. I know we all, including myself, have been going along with it so far, but I don't think it's going to work, and I am anxious about it. I am concerned that I may end misleading you and we may end up misleading one another up I think I've felt pressured to pursue a course of action because I'm fearful of reporting what our sponsor may not want to hear. I'm conscious that the reputation of the organisation is riding on this new design and we're in the public eye to deliver on it. e can continue to go along a path that I think is likely to end in disaster. We can discuss options and see if there are ways we can make it work We can recommend pulling the plug on it now if that makes the best sense. I'd like to know where the rest of you stand and I would appreciate any thoughts about the project.**
-
-**Note:** TABLE
+![DESC Process](/assets/fig/stanford-2015/desc-process.png/)
 
 "During the 1990s many companies spent time and effort in trying to become learning organisations, but there is little evidence that any achieved this (or consensus on what it would look like if they did)" (210)
 
@@ -808,9 +784,7 @@ Bad: "Line management is not communicating results or action plans to staff and 
 
 "Putting together a smaller leadership team to drive the design work (bearing certain considerations in mind). In most cases it is difficult to get agreed actions initiated and followed through if the team is bigger than six people. However, the six people have to form a balance of capability to work successfully. A group of six 'shapers' and no 'evaluators', for example, will struggle to carry through the design" (215)
 
-**TABLE 7.5 Understanding your territorial drive Used on you Used by your peers Used by your boss Used by you Territorial game Occupation: Marking territory; maintaining an imposing physical presence; acting as a gatekeeper for vital information; monopolising relationships, resources or information Information manipulation: Withholding information, putting a spin on information, covering up, or giving false information Intimidation: Growling, yelling, staring someone down, scaring off, or making threats (veiled or overt) Powerful alliances: Using relationships with powerful people to intimidate, impress, or threaten others; using name dropping; making strategic displays of influence over important decisionmakers Invisible wall: Actively instigating circumstances or creating counterproductive perceptions so that an agreed-upon concept is, if not impossible to implement, very, very difficult to implement Strategic non-compliance: Agreeing upfront to take action and having no intention of taking that action, or agreeing just to buy time to find a way to avoid taking that action Discredit: Using personal attacks or unrelated criticisms as a way of creating doubt about another person's competence or credibility Shunning: Subtly (or not so subtly) excluding an individual in a way that punishes him or her; orchestrating a group's behaviour so that another is treated like an outsider Camouflage: Creating a distraction, emphasising the inconsequential, or deliberately triggering someone's anxiety buttons just to distract him or her Filibuster: Using excessive verbiage to prevent action, out-talking any objectors at a meeting, talking until the time for discussion is exhausted or simply wearing others down by out-talking them**
-
-**Note:** TABLE
+![Territorial Drive](/assets/fig/stanford-2015/territorial-drive.png/)
 
 Simmons, A., Territorial Games: Understanding and Ending Turf Wars at Work, Amacom, 1998 (216)
 
@@ -848,9 +822,7 @@ Simmons, A., Territorial Games: Understanding and Ending Turf Wars at Work, Amac
 
 "much about culture is implicit and difficult to describe because it is socially construed and manifested in norms, behaviours, expectations and 'the way we do things round here'" )223
 
-**Three levels of culture behaviours Espoused values Artefacts and This is the observable level of culture, which consists of behaviour pattems and outward manifestations of culture: perks provided to executives; dress codes; who gets the latest technology device; and the physical layout of work spaces. All may be visible indicators of culture but difficult to interpret Values underlie and to a large extent determine behaviour, but they are not as directly observable, as behaviours are. There may be a difference between value statements that organisations make and the values people use from day to day. People attribute their behaviour to underpinning values. Assumptions Assumptions derive from values, which are difficult to identify as they are taken for granted and drop out of awareness. People may be unaware of or unable to articulate the beliefs and assumptions forming their deepest level of culture.** (223)
-
-**Note:** TABLE
+![Three Levels of Culture](/assets/fig/stanford-2015/three-levels-culture.png/)
 
 "Cultures that are misaligned ... must be changed as part of the organisation design process if there is to be any chance of success" (224)
 
@@ -858,13 +830,9 @@ Simmons, A., Territorial Games: Understanding and Ending Turf Wars at Work, Amac
 
 *Her simple methods stress consistency, communication and reasonable consequences for poor behaviour, all delivered with loving firmness. She emphasises the importance of spelling out the new rules of the household to children in advance, as well as explaining the consequences for infractions. She also candidly points out to parents where they need to be more decisive, more flexible or even how they may need to adjust their expectations of a child's readiness for certain behaviours*" (225)
 
-**Three levels of blame culture Artefacts and CYA (cover your arse) behaviour behaviours Espoused values "If at first you don't succeed, remove all evidence you ever tried" "Eagles may soar high, but weasels don't get sucked into jet engines" The secret of success is knowing who to blame for your failures No single raindrop believes it is to blame for the flood Assumptions People are out to get you Someone will stab you in the back if you're not careful The harder you try the dumber you look** (227)
+![Three Levels of Blame Culture](/assets/fig/stanford-2015/three-levels-blame-culture.png/)
 
-**Note:** TABLE
-
-**Three levels of denial culture Artefacts and behaviours Espoused values Assumptions Culture and group processes 229 Present data selectively to show only the good news Push bad news under the carpet Dismiss negative findings or make them more palatable You aren't being paid to do what you believe is right Avoid candour Remain cocooned You'll be punished for being the bearer of bad news It is a career limiter to discuss difficulties openly There's no support for admitting errors or mistakes** (229)
-
-**Note:** TABLE
+![Three Levels of Denial Culture](/assets/fig/stanford-2015/three-levels-denial-culture.png/)
 
 "One of the things I learnt through ten-plus years of dealing with people who didn't like what we were telling them about their heart surgery results is their first response is to say, 'the data's wrong'. The second response is to say, 'okay, the data's right but your analysis is wrong'" (229)
 
@@ -872,9 +840,7 @@ Simmons, A., Territorial Games: Understanding and Ending Turf Wars at Work, Amac
 
 "characterising the shadow side in terms of three levels of culture is not helpful as it does not exhibit in that way" (231)
 
-**TABLE 8.4 Rational and shadow sides of an organisation Rational elements (left hemisphere) Non-rational shadow-side elements (right hemisphere) Trust Friendships Directives Strategic plans Organisation charts Job titles Policies Training courses Budgets Jealousy Fear and insecurity Power struggles Ambition Grapevine Source: "An Introduction to the Shadow Side", www.organisational-leadership.com** (231)
-
-**Note:** TABLE
+![Three Levels of Denial Culture](/assets/fig/stanford-2015/shadow-side.png/)
 
 "survive best by working with both parts of the brain ... organisation design projects are often initiated and planned using predominantly the rational (left side) of the cultural brain" (231)
 
@@ -901,9 +867,7 @@ Simmons, A., Territorial Games: Understanding and Ending Turf Wars at Work, Amac
 
 "*Decisions are the essence of management*" (234)
 
-**Advanced team decision-making model How good are the team members? Team competencies Does everyone know who does what? Is anyone "out of it"? Team identity Are they still struggling with basic procedures? Do people help each other out? Is anyone micromanaging? turalistic Who's taking Do they spot and responsibility? correct problems? Team metacognition Do they get crunched for time? Are they headed for the same goals? Does everyone have the same picture? Team cognition in eac team's In has: hi CO a O Are they behind the power curve? Do they get paralysed**
-
-**Note:** TABLE
+![Advanced Team Decision-Making Model](/assets/fig/stanford-2015/advanced-team-decision-making-model.png/)
 
 "Generally, managers are taught to make organisational decisions using the first---a structured way of getting to a situational decision. A common method is the Vroom-Yetton-Jago model of decision-making. The naturalistic method suggests that decisions are made in a much less analytical way drawing on a range of sources" (236)
 
@@ -913,15 +877,15 @@ Simmons, A., Territorial Games: Understanding and Ending Turf Wars at Work, Amac
 
 "Problem life cycle" (242)
 
+![Problem Life Cycle](/assets/fig/stanford-2015/problem-life-cycle.png/)
+
 The Institute of Risk Managers, The Risk Management Standard, 2002 (www.theirm.org) (242)
 
 "Managing conflict: Those involved in organisation design projects frequently find themselves in conflict with others. Recognising that conflict is inevitable and learning to manage it constructively rather than trying to avoid it is critically important" (243)
 
 "Conflicts are most likely to occur when a person or a group feels that their social, psychological, emotional, physical or other space is threatened, and only some form of dialogue will resolve the conflict" (245)
 
-**Conflict style model Competing (dominating) Collaborating (integrating) Unassertive Concern for self Assertive Avoiding (neglecting) Unco-operative m Sharing (compromising) Accommodating (appeasing) Cooperative Concern for others** (246)
-
-**Note:** TABLE
+![Conflict Style Model](/assets/fig/stanford-2015/conflict-style-model.png/)
 
 "Belbin's team-roles" (246)
 
@@ -1002,13 +966,9 @@ The Institute of Risk Managers, The Risk Management Standard, 2002 (www.theirm.o
 
 "it is difficult to judge when an organisation is at the midpoint; and when things appear to be going well, as they typically do in the first half of the maturity phase, there is usually little incentive to change" (279)
 
-**9.4 The sigmoid curve and organisational life cycle Growth Decline Maturity Growth Inception Time Source: Kerwin W. Steffen Associates** (280)
+![Sigmoid Curve](/assets/fig/stanford-2015/sigmoid-curve.png/)
 
-**Note:** TABLE
-
-**Leaping the sigmoid curve 8 A** (281)
-
-**Note:** TABLE
+![Leaping the Sigmoid Curve](/assets/fig/stanford-2015/leaping-sigmoid-curve.png/)
 
 "Data analysis is critically important if organisations are to be capable of adapting" (282)
 
@@ -1022,9 +982,7 @@ The Institute of Risk Managers, The Risk Management Standard, 2002 (www.theirm.o
 
 "These three rules are sufficient to generate flocking behaviour" (283)
 
-**The flocking behaviour of birds SEPARATION ALIGNMENT COHESION Source: www.red3d.com/cwr/boids/** (283)
-
-**Note:** TABLE
+![Flocking](/assets/fig/stanford-2015/flocking.png/)
 
 "flocking behaviour ...
 
@@ -1050,6 +1008,6 @@ The Institute of Risk Managers, The Risk Management Standard, 2002 (www.theirm.o
 * Disciplined Action
 * Building Greatness to Last" (289-290)
 
-**The diffusion of innovation and appropriate education methods respectable people open to change imaginative seeking new ideas private visionary thoughtful people pragmatic accept new ideas but need proof not risk-takers respond to carrots sceptical people conservative, pragmatic hate risk but follow mainstream understand the laggard respond to sticks brave people lead the way think outside square committed ideologue global visionary Early Early Late Innovators adopters majority, majority, Laggards traditional people recalcitrant loyal, traditionalists cynical, stubbom and committed actively block change EDUCATION Participatory Two-way One-way Legislative METHODS Workshops Awards Grants Brochures Communicate Displays regulations & Planning Peer education Local case studies penalties Launches Leadership/facilitation training Media, print& electronic internet Committee meetings One-to-one advice Small group learning Field days Neighbourhood meetings Demonstrations Public**
+"This tool provides a snapshot of the type of activity needed to keep an organisation's constituents moving along the adoption and adaptation curve" (290)
 
-**Note:** TABLE
+![Diffusion of Innovations](/assets/fig/stanford-2015/diffusion-of-innovation.png/)
