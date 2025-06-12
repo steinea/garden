@@ -84,7 +84,7 @@ a:after {
   color: #aaa;
 }
 
-a.internal-link:after,a.footnote:after,a.reversefootnote:after {
+a.internal-link:after,a.footnote:after,a.reversefootnote:after,a.anchor:after,a.nav-link:after {
   content: "";
 }
 
@@ -97,7 +97,21 @@ a.internal-link {
   background-color: #efefff;
 }
 
-a.nav-link:after {
+a.anchor {
+  background: none;
+  border-bottom: none;
+}
+
+a.anchor:hover {
+  cursor: text;
+}
+
+#table-of-contents a {
+  border-color: #8b88e6;
+  background-color: #efefff;
+}
+
+#table-of-contents a:after {
   content: "";
 }
 
