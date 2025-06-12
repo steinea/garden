@@ -4,32 +4,108 @@ category: garden
 title: Books
 ---
 
-<table class="display nowrap booksSort" style="width: 100%">
-  <thead>
-    <tr>
-      <th class="all">Title</th>
-      <th class="desktop">Author</th>
-      <th class="desktop">Published</th>
-    </tr>
-  </thead>
+<!-- Category Counts -->
+{% assign totalLibrary = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "books" and page.subcategory != "wishlist" %}
+      {% assign totalLibrary = totalLibrary | plus: 1 %}
+    {% endif %}
+  {% endfor %}
 
-  <tbody>
-    {% for page in site.pages %}
-      {% if page.category contains "books" %}
-        <tr>
-          <td><a href="{{ page.url }}" class="internal-link">{{ page.title }}</a></td>
-          <td>{{ page.author }}</td>
-          <td>{{ page.published }}</td>
-        </tr>
-      {% endif %}
-    {% endfor %}
-  </tbody>
+{% assign totalWishlist = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "books" and page.subcategory contains "wishlist" %}
+      {% assign totalWishlist = totalWishlist | plus: 1 %}
+    {% endif %}
+  {% endfor %}
 
-  <tfoot>
-    <tr>
-      <th class="all">Title</th>
-      <th class="desktop">Author</th>
-      <th class="desktop">Published</th>
-    </tr>
-  </tfoot>
-</table>
+<!-- Category Tabs -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('library')">Library ({{ totalLibrary }})</button>
+  <button class="tablinks" onclick="openTab('wishlist')">Wishlist ({{ totalWishlist }})</button>
+</div>
+
+<br>
+
+<div id="library" class="tabcontent">
+  <table class="display nowrap booksSort">
+    <thead>
+      <tr>
+        <th class="all">Title</th>
+        <th class="desktop">Author</th>
+        <th class="desktop">Published</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for page in site.pages %}
+        {% if page.category contains "books" and page.subcategory != "wishlist" %}
+          <tr>
+            <td><a href="{{ page.url }}" class="internal-link">{{ page.title }}</a></td>
+            <td>{{ page.author }}</td>
+            <td>{{ page.published }}</td>
+          </tr>
+        {% endif %}
+      {% endfor %}
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th class="all">Title</th>
+        <th class="desktop">Author</th>
+        <th class="desktop">Published</th>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+
+<div id="wishlist" class="tabcontent">
+  <table class="display nowrap booksSort">
+    <thead>
+      <tr>
+        <th class="all">Title</th>
+        <th class="desktop">Author</th>
+        <th class="desktop">Published</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for page in site.pages %}
+        {% if page.category contains "books" and page.subcategory contains "wishlist" %}
+          <tr>
+            <td><a href="{{ page.url }}" class="internal-link">{{ page.title }}</a></td>
+            <td>{{ page.author }}</td>
+            <td>{{ page.published }}</td>
+          </tr>
+        {% endif %}
+      {% endfor %}
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th class="all">Title</th>
+        <th class="desktop">Author</th>
+        <th class="desktop">Published</th>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('library');
+</script>
