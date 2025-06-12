@@ -190,9 +190,13 @@ Senge: "Those who aspire to lead out of a desire to control, or gain fame, or si
 
 "six models ... each was developed in an era of relative stability when organisations tended to have a single overarching business design" (29)
 
+![Nadler Tushman](/assets/fig/stanford-2015/nadler-tushman.png/)
+
 "an organisation might comprise a portfolio of companies that operate differently one from another, may be simultaneously competing and collaborating with each other, and have to predict and respond in a chameleon-like way to a changing business environment" (29)
 
-New models: "[Nadler's Updated Congruence Model](https://www.researchgate.net/figure/Congruence-model-by-Nadler-and-Tushman_fig3_365038765)" (32)
+New models: "Nadler's Updated Congruence Model" (32)
+
+![Nadler Updated](/assets/fig/stanford-2015/nadler-updated.png/)
 
 "Dieter Rams ... good design:
 
