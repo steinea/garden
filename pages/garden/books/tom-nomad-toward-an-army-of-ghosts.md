@@ -8,6 +8,7 @@ title: Toward an Army of Ghosts
 published: 2017
 date: 2023-07-02
 rating: exclude
+toc: true
 ---
 
 ### Citation

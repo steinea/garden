@@ -8,6 +8,7 @@ title: Red Bird
 published: 2009
 date: 2023-03-14
 rating: exclude
+toc: true
 ---
 
 ### Citation

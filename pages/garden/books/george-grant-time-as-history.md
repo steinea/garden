@@ -8,6 +8,7 @@ title: Time as History
 published: 1969
 date: 2016-09-19
 rating: exclude
+toc: true
 ---
 
 ### Citation

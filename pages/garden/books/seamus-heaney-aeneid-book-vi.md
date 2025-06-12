@@ -8,6 +8,7 @@ title: Aeneid Book VI
 published: 2016
 date: 2023-03-20
 rating: exclude
+toc: true
 ---
 
 ### Citation

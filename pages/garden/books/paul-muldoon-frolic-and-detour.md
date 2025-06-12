@@ -8,6 +8,7 @@ title: Frolic and Detour
 published: 2019
 date: 2023-03-19
 rating: exclude
+toc: true
 ---
 
 ### Citation

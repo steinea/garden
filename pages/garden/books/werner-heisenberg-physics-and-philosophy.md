@@ -8,6 +8,7 @@ title: Physics and Philosophy
 published: 1958
 date: 2022-08-07
 rating: exclude
+toc: true
 ---
 
 ### Citation
@@ -24,7 +25,7 @@ Heisenberg, Werner. *Physics and Philosophy: The Revolution in Modern Science.* 
 
 ### Annotations
 
-*Introduction by Paul Davies, 1989*
+#### Introduction by Paul Davies, 1989
 
 "True revolutions in science ... change the concepts on which the subject is based" (vii)
 
@@ -63,7 +64,7 @@ Heisenberg, Werner. *Physics and Philosophy: The Revolution in Modern Science.* 
 <br>
 
 
-*Chapter 1: An Old and a New Tradition*
+#### Chapter 1: An Old and a New Tradition
 
 Of atomic weapons: "every tool carries with it the spirit by which it has been created" (1)
 
@@ -76,7 +77,7 @@ Of modern science: "its complete internationality" (2)
 <br>
 
 
-*Chapter 2: The History of Quantum Theory*
+#### Chapter 2: The History of Quantum Theory
 
 "the application of the known laws did not lead to sensible results" (3)
 
@@ -133,7 +134,7 @@ Bohr in 1913: "If the atom can change its energy only by discrete energy quanta,
 <br>
 
 
-*Chapter 3: The Copenhagen Interpretation of Quantum Theory*
+#### Chapter 3: The Copenhagen Interpretation of Quantum Theory
 
 "The Copenhagen interpretation of quantum theory starts from a paradox" (14)
 
@@ -186,7 +187,7 @@ Bohr in 1913: "If the atom can change its energy only by discrete energy quanta,
 <br>
 
 
-*Chapter 4: Quantum Theory and the Roots of Atomic Science*
+#### Chapter 4: Quantum Theory and the Roots of Atomic Science
 
 "one may say that atomic physics has turned science away from the materialistic trend it had during the nineteenth century" (26)
 
@@ -241,7 +242,7 @@ Atomists > "Being is not only One, it can be repeated an infinite number of time
 <br>
 
 
-*Chapter 5: The Development of Philosophical Ideas Since Descartes in Comparison with the New Situation in Quantum Theory*
+#### Chapter 5: The Development of Philosophical Ideas Since Descartes in Comparison with the New Situation in Quantum Theory
 
 "the strongest impulse had come from the immediate reality of the world in which we live and which we perceive by our senses" (39)
 
@@ -328,7 +329,7 @@ But Kant "was convinced that his concepts would be 'the basis of any future meta
 <br>
 
 
-*Chapter 6: The Relation of Quantum Theory to Other Parts of Natural Science*
+#### Chapter 6: The Relation of Quantum Theory to Other Parts of Natural Science
 
 "The mathematical image of the system ensures that contradictions cannot occur in the system" (53)
 
@@ -370,7 +371,7 @@ The first set "is contained in the fourth as the limiting case where Planck's co
 <br>
 
 
-*Chapter 7: The Theory of Relativity*
+#### Chapter 7: The Theory of Relativity
 
 "Einstein in 1905 ... established the 'apparent' time of the Lorentz transformation as the 'real' time and abolished what had been called 'real' time by Lorentz" (70)
 
@@ -397,7 +398,7 @@ The first set "is contained in the fourth as the limiting case where Planck's co
 <br>
 
 
-*Chapter 8: Criticism and Counterproposals to the Copenhagen Interpretation of Quantum Theory*
+#### Chapter 8: Criticism and Counterproposals to the Copenhagen Interpretation of Quantum Theory
 
 "The first ... tries to change the philosophy without changing the physics" (82)
 
@@ -424,7 +425,7 @@ The first set "is contained in the fourth as the limiting case where Planck's co
 <br>
 
 
-*Chapter 9: Quantum Theory and the Structure of Matter*
+#### Chapter 9: Quantum Theory and the Structure of Matter
 
 "early Greek philosophy": "the concept of cosmic matter, a world substance" (97)
 
@@ -463,7 +464,7 @@ But "the concept of the chemical element had not yet reached the point where one
 <br>
 
 
-*Chapter 10: Language and Reality in Modern Physics*
+#### Chapter 10: Language and Reality in Modern Physics
 
 "scientific problems have finally become connected with political issues" (113)
 
@@ -482,7 +483,7 @@ But "the concept of the chemical element had not yet reached the point where one
 <br>
 
 
-*Chapter 11: The Role of Modern Physics in the Present Development of Human Thinking*
+#### Chapter 11: The Role of Modern Physics in the Present Development of Human Thinking
 
 "Modern physics is just one link in a long chain of events that started form the work of Bacon, Galileo and Kepler and from the practical application of natural science in the seventeenth and eighteenth centuries" (130)
 

@@ -8,6 +8,7 @@ title: Mythologies
 published: 1957
 date: 2016-10-03
 rating: exclude
+toc: true
 ---
 
 ### Citation

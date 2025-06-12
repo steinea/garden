@@ -8,6 +8,7 @@ title: Owls and Other Fantasies
 published: 2003
 date: 2018-08-01
 rating: exclude
+toc: true
 ---
 
 ### Citation

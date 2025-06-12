@@ -8,6 +8,7 @@ title: Truth and Method
 published: 1960
 date: 2016-09-04
 rating: exclude
+toc: true
 ---
 
 ### Citation

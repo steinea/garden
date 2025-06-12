@@ -8,6 +8,7 @@ title: A Biography of Ordinary Man
 published: 1985
 date: 2020-08-17
 rating: exclude
+toc: true
 ---
 
 ### Citation

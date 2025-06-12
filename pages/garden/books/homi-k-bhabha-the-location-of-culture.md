@@ -8,6 +8,7 @@ title: The Location of Culture
 published: 1994
 date: 2016-11-21
 rating: exclude
+toc: true
 ---
 
 ### Citation

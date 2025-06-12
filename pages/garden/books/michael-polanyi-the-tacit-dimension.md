@@ -8,6 +8,7 @@ title: The Tacit Dimension
 published: 1966
 date: 2016-10-26
 rating: exclude
+toc: true
 ---
 
 ### Citation

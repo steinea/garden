@@ -8,6 +8,7 @@ title: Philosophies of Difference
 published: 1986
 date: 2020-07-21
 rating: exclude
+toc: true
 ---
 
 ### Citation

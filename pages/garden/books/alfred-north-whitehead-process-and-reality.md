@@ -8,6 +8,7 @@ title: Process and Reality
 published: 1927
 date: 2020-07-21
 rating: exclude
+toc: true
 ---
 
 ### Citation

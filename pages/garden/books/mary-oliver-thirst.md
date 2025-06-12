@@ -8,6 +8,7 @@ title: Thirst
 published: 2007
 date: 2023-03-13
 rating: exclude
+toc: true
 ---
 
 ### Citation

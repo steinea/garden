@@ -8,6 +8,7 @@ title: Interpreting the Universe
 published: 1933
 date: 2016-09-28
 rating: exclude
+toc: true
 ---
 
 ### Citation

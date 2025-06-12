@@ -8,6 +8,7 @@ title: The Testament of Cresseid
 published: 2009
 date: 2023-03-20
 rating: exclude
+toc: true
 ---
 
 ### Citation

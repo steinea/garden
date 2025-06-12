@@ -8,6 +8,7 @@ title: Fictional Games
 published: 2022
 date: 2023-01-29
 rating: exclude
+toc: true
 ---
 
 ### Citation

@@ -8,6 +8,7 @@ title: Blood of the Celts
 published: 2015
 date: 2022-11-09
 rating: exclude
+toc: true
 ---
 
 ### Citation

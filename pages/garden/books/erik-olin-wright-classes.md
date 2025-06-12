@@ -8,6 +8,7 @@ title: Classes
 published: 1985
 date: 2023-09-09
 rating: exclude
+toc: true
 ---
 
 ### Citation

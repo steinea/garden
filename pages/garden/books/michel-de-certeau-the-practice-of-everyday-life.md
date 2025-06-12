@@ -8,6 +8,7 @@ title: The Practice of Everyday Life
 published: 1974
 date: 2016-10-31
 rating: exclude
+toc: true
 ---
 
 ### Citation

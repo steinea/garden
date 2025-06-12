@@ -8,6 +8,7 @@ title: Empiricism and Subjectivity
 published: 1953
 date: 2023-03-29
 rating: exclude
+toc: true
 ---
 
 ### Citation

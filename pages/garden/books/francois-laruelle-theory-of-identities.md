@@ -8,6 +8,7 @@ title: Theory of Identities
 published: 1992
 date: 2020-12-15
 rating: exclude
+toc: true
 ---
 
 ### Citation
