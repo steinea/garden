@@ -1,0 +1,13 @@
+---
+layout: default
+category: marginalia
+title: Annotations
+---
+
+{% assign sorted = site.pages | sort: 'date' | reverse %}
+	{% for item in sorted %}
+		{% if item.tags contains "annotations" %}
+			{{ item.date | date: "%Y-%m-%d" }} <a href="{{ item.url }}" title="{{ item.title }}" class="internal-link">{{ item.title }}</a>
+			<br>
+		{% endif %}
+	{% endfor %}
