@@ -1,0 +1,42 @@
+---
+layout: default
+category: activity
+title: Reading
+permalink: /reading/
+---
+
+<table class="display nowrap booksRating" style="width: 100%">
+  <thead>
+    <tr>
+      <th class="all">Title</th>
+      <th class="desktop">Author</th>
+      <th class="desktop">Started</th>
+      <th class="desktop">Finished</th>
+      <th class="desktop">Rating</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {% for page in site.pages %}
+      {% if page.category contains "books" and page.rating != "exclude" %}
+        <tr>
+          <td><a href="{{ page.url }}" class="internal-link">{{ page.title }}</a></td>
+          <td>{{ page.author }}</td>
+          <td>{{ page.started }}</td>
+          <td>{{ page.finished }}</td>
+          <td>{{ page.rating }}</td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+
+  <tfoot>
+    <tr>
+      <th class="all">Title</th>
+      <th class="desktop">Author</th>
+      <th class="desktop">Started</th>
+      <th class="desktop">Finished</th>
+      <th class="desktop">Rating</th>
+    </tr>
+  </tfoot>
+</table>
