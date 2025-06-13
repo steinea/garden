@@ -8,11 +8,23 @@ date: 2024-06-15
 toc: true
 ---
 
+#### Citation
+
+Stein, Eric. “Dreams of Extraction: The Techno-Ecological Imaginary of Bethesda Game Studios’ *Starfield*.” Canadian Game Studies Association Annual Conference, TAG Lab, Concordia University, Montreal, QC, and Online, 2024. <https://doi.org/10.5281/zenodo.12594275>.
+
+*Mirrors: [Academia](https://www.academia.edu/121628753/), [Knowledge Commons](https://hcommons.org/deposits/item/hc:67531/), [PhilPapers](https://philpapers.org/rec/STEDOE-4), [ResearchGate](https://www.researchgate.net/publication/381829528), [Zotero](https://www.zotero.org/steinea#JZ8UYM9U).*
+
+<br>
+
+
 #### Abstract
 
 This paper takes up Bethesda Game Studios' *Starfield* (2023) as an aesthetic artefact, carefully attending to the thematics of the game's narrative in their operation as structuring 'thought patterns' for the player's experience of the game, thought patterns that give form to the 'sensible fabric' of the game and so constitute an imaginary or 'distribution of the sensible' that requires critique (Rancière, 2013). Utilizing the aesthetic and material-economic theories of Nicolas Bourriaud, Jacques Rancière, Jussi Parikka, and David Graeber, this paper examines the aesthetics of the techno-ecological imaginary that *Starfield* institutes, close reading the play of perspectives into which the game invites the player-character, and analysing this play in its problematic orientation to the key dramatic revelation of planetary catastrophe that occurs late in the game's main campaign. If, as climate and games scholar Benjamin Abraham writes (2022), '[b]ringing the climate crisis 'home' to all of our lives, all of our workplaces, all of our hobbies, is the necessary first step in acting to reverse climate action,' then illuminating and critiquing *Starfield*'s deployment of such a crisis will help players, scholars, and developers alike take the first step in learning to pay attention to the very 'modes of perception' that prevent us from effecting real change in the global technological systems that have brought us to the brink of planetary collapse.
 
+*Keywords: Game Studies, Science Fiction, Climate, Ecology, Technology*
+
 <br>
+
 
 #### I
 
@@ -274,11 +286,6 @@ The aesthetic logic of *Starfield* has built to this precise point over its many
 
 <br>
 
-#### [Citation](https://www.zotero.org/steinea#JZ8UYM9U)
-
-Stein, Eric. “Dreams of Extraction: The Techno-Ecological Imaginary of Bethesda Game Studios’ *Starfield*.” Canadian Game Studies Association Annual Conference, TAG Lab, Concordia University, Montreal, QC, and Online, 2024. <https://doi.org/10.5281/zenodo.12594275>. Mirrors: [Academia](https://www.academia.edu/121628753/), [Knowledge Commons](https://hcommons.org/deposits/item/hc:67531/), [PhilPapers](https://philpapers.org/rec/STEDOE-4), [ResearchGate](https://www.researchgate.net/publication/381829528).
-
-<br>
 
 #### References
 
