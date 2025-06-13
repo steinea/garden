@@ -8,9 +8,11 @@ date: 2017-03-23
 toc: true
 ---
 
-#### [Citation](https://www.zotero.org/steinea#WFGG2DIQ)
+#### Citation
 
-Stein, Eric. “Narratives of Blood: Justice, Empire, and Billy Budd, Sailor.” International Society for the Study of Narrative Conference, Lexington, KY, March 23, 2017. <https://zenodo.org/record/4603305>. Mirrors: [Academia](https://www.academia.edu/38515325/), [ResearchGate](https://www.researchgate.net/publication/350043059).
+Stein, Eric. “Narratives of Blood: Justice, Empire, and Billy Budd, Sailor.” International Society for the Study of Narrative Conference, Lexington, KY, March 23, 2017. <https://zenodo.org/record/4603305>.
+
+*Mirrors: [Academia](https://www.academia.edu/38515325/), [ResearchGate](https://www.researchgate.net/publication/350043059), [Zotero](https://www.zotero.org/steinea#WFGG2DIQ)*
 
 <br>
 
@@ -18,6 +20,8 @@ Stein, Eric. “Narratives of Blood: Justice, Empire, and Billy Budd, Sailor.”
 #### Abstract
 
 Herman Melville’s posthumously published novella, *Billy Budd, Sailor (An Inside Narrative)*, is the tragic tale of a naïve young sailor impressed into the British Navy who, after being falsely accused of mutiny by a commanding officer, lashes out at his accuser and inadvertently kills him. The captain of the ship, though fully aware of Billy’s essential innocence in the matter, convicts him anyway, choosing to perform his duty as an officer and servant of the king. Billy is hanged. Order is restored. *Billy Budd, Sailor*, is not, however, an apology for the law. Melville’s novella is remarkable in that its conclusion only complicates the issue, tangling the narrative in contradiction and ambiguity. As legal theorist Robert Cover would say, the law is a text, a narrative like any other, and as such the law is a cultural object, which is to say, a human object. The law does not exist eternally, nor does it exist outside of the humans that execute it. Melville recognizes this, and in concluding his tale in the way he does he consciously exposes the messiness, complexity, and contingency of the law as a human institution, challenging the rule and the letter that seek to order human beings as computable units. Law as ideology, as eternal myth, takes on a character diametrically opposed to the fluidity and changeableness of human beings. Such a form of law cannot account for growth or transformation, nor difference for that matter, and so must expunge the incalculable from its midst. Blood is shed. Thus the law, supposed arbiter of justice, becomes a petty banker, servile to an economy that views humans only as uses and values, as capital-producing subjects. Today, as blood continues to be spilt in the name of empire and economy, Melville’s narrative could not be more pressing.
+
+*Keywords: American Literature, Law, Violence, Justice, Herman Melville*
 
 <br>
 

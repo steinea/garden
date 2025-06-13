@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “Production and Pedagogy: Teaching Game Development in the University Classroom.” Presented at the TWU CREATE Conference, August 26, 2022. <https://zenodo.org/record/7036777>.
 
-Mirrors: [Academia](https://www.academia.edu/85918199/), [ResearchGate](https://www.researchgate.net/publication/363134502), [Zotero](https://www.zotero.org/steinea#LC2UHMPL).
+*Mirrors: [Academia](https://www.academia.edu/85918199/), [ResearchGate](https://www.researchgate.net/publication/363134502), [Zotero](https://www.zotero.org/steinea#LC2UHMPL)*
 
 <br>
 
@@ -20,6 +20,8 @@ Mirrors: [Academia](https://www.academia.edu/85918199/), [ResearchGate](https://
 #### Abstract
 
 What might university instructors learn of pedagogy when their work is approached from the perspective of production? More specifically, how might the university classroom be transformed when instructors actively shift their focus as educators away from pedagogy and toward production? Drawing on two academic years of hands on video game production work with students in their second, third, and fourth years at Trinity Western University, and informed by Jacques Rancière's critical project first articulated in *The Ignorant Schoolmaster* (1987), and more recently elaborated upon in the *The Emancipated Spectator* (2008), this paper argues that an educational paradigm of 'production,' counterposed to an educational paradigm that we can loosely and imprecisely describe as traditional 'pedagogy,' makes possible a transformation of the university classroom from a domain of stultifying explication into a domain of emancipatory exploration. With further theoretical support from Michel de Certeau's *The Practice of Everyday Life* (1984), and Stefano Harney and Fred Moten's *The Undercommmons* (2013), this paper proposes tactics whereby teachers might short circuit the professionalization of academic instruction and the commodification and alienation of its students, so fostering emancipatory and egalitarian learning environments that encourage students to take hold of the means of production themselves.
+
+*Keywords: Game Development, Game Production, Pedagogy, Jacques Rancière, Michel de Certeau, Stefano Harney, Fred Moten*
 
 <br>
 

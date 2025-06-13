@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “Play to Lose: Animation, Failure, and the Milieu in *Trophy Dark*.” Presented at the GENeration Analog: The Tabletop Games and Education Virtual Conference, July 28, 2022. <https://zenodo.org/record/6932651>.
 
-Mirrors: [Academia](https://www.academia.edu/83890168/), [ResearchGate](https://www.researchgate.net/publication/362324865), [Zotero](https://www.zotero.org/steinea#VFP74IWE).
+*Mirrors: [Academia](https://www.academia.edu/83890168/), [ResearchGate](https://www.researchgate.net/publication/362324865), [Zotero](https://www.zotero.org/steinea#VFP74IWE)*
 
 <br>
 
@@ -21,6 +21,7 @@ Mirrors: [Academia](https://www.academia.edu/83890168/), [ResearchGate](https://
 
 In her essay "Reclaiming Animism" (2012), Isabelle Stengers writes that reclaiming "means recovering, and, in this case, recovering the capacity to honor experience, any experience we care for, as 'not ours' but rather as 'animating' us, making us witness to what is not us." It is this notion of animation that mobilizes this paper on Jesse Ross's tabletop roleplaying game *Trophy Dark* (2021), and which informed my own experience as simultaneous game facilitator and game design instructor for a class of fifteen undergraduate students. With a group split roughly in half between students with varying levels of experience with *Dungeons & Dragons* (and solely *Dungeons & Dragons*) and students with no tabletop roleplaying experience whatsoever, *Trophy Dark*, and specifically Ross's incursion "Witchwood," made for a group exercise in this animative witness to the "not ours" and "not us" of which Stengers writes. Rather than adopting a rationalist, critical separation from the play experience, or a romantic, reflective immersion in the play experience, this particular group of students discovered in *Trophy Dark* a vehicle for the "active," "transformative," and indeed "metamorphic" experience that Stengers describes, using the chosen incursion as an instrument for the shared dramatic failure that is "playing to lose," as advocated in *Trophy Dark*'s player's guide. Stengers awakens her readers to a "rhizomatic" materialism, or a materialism of the "milieu," and together in the Witchwood we encountered the same. This paper charts the contours of our adventure.
 
+*Keywords: Game Studies, Game Design, Tabletop Roleplaying, Analog Games, Story Games, Storytelling, Trophy Dark, Jesse Ross, Isabelle Stengers, Pedagogy*
 
 <br>
 
