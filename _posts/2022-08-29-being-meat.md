@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “Being Meat: Review of Tom Tyler’s *Game: Animals, Video Games, and Humanity*.” Ancillary Review of Books, August 29, 2022. <https://ancillaryreviewofbooks.org/2022/08/29/being-meat-review-of-tom-tylers-game-animals-video-games-and-humanity/>.
 
-*Mirrors: [Zotero](https://www.zotero.org/steinea#R79R7QQV).*
+*Mirrors: [Zotero](https://www.zotero.org/steinea#R79R7QQV)*
 
 <br>
 

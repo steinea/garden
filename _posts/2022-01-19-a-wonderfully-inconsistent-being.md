@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “A Wonderfully Inconsistent Being: A Review of Timothy Morton’s Spacecraft.” *Ancillary Review of Books*, January 19, 2022. <https://ancillaryreviewofbooks.org/2022/01/19/a-wonderfully-inconsistent-being-a-review-of-timothy-mortons-spacecraft/>.
 
-*Mirrors: [Zotero](https://www.zotero.org/steinea#LCFIW2EW).*
+*Mirrors: [Zotero](https://www.zotero.org/steinea#LCFIW2EW)*
 
 <br>
 

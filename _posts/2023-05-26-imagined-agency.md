@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “Imagined Agency: Review of Stefano Gualeni and Riccardo Fassone’s *Fictional Games*.” *Ancillary Review of Books*, May 26, 2023. <https://ancillaryreviewofbooks.org/2023/05/26/imagined-agency-review-of-stefano-gualeni-and-riccardo-fassones-fictional-games/>.
 
-*Mirrors: [Zotero](https://www.zotero.org/steinea#7IXN3DGW).*
+*Mirrors: [Zotero](https://www.zotero.org/steinea#7IXN3DGW)*
 
 <br>
 

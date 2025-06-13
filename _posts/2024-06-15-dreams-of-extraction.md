@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “Dreams of Extraction: The Techno-Ecological Imaginary of Bethesda Game Studios’ *Starfield*.” Canadian Game Studies Association Annual Conference, TAG Lab, Concordia University, Montreal, QC, and Online, 2024. <https://doi.org/10.5281/zenodo.12594275>.
 
-*Mirrors: [Academia](https://www.academia.edu/121628753/), [Knowledge Commons](https://hcommons.org/deposits/item/hc:67531/), [PhilPapers](https://philpapers.org/rec/STEDOE-4), [ResearchGate](https://www.researchgate.net/publication/381829528), [Zotero](https://www.zotero.org/steinea#JZ8UYM9U).*
+*Mirrors: [Academia](https://www.academia.edu/121628753/), [Knowledge Commons](https://hcommons.org/deposits/item/hc:67531/), [PhilPapers](https://philpapers.org/rec/STEDOE-4), [ResearchGate](https://www.researchgate.net/publication/381829528), [Zotero](https://www.zotero.org/steinea#JZ8UYM9U)*
 
 <br>
 

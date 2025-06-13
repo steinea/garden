@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. "Joyful Study: Review of *Experimental Games: Critique, Play, and Design in the Age of Gamification* by Patrick Jagoda." *Ancillary Review of Books*, March 11, 2021. <https://ancillaryreviewofbooks.org/2021/03/11/joyful-study-review-of-experimental-games-critique-play-and-design-in-the-age-of-gamification-by-patrick-jagoda/>.
 
-*Mirrors: [Zotero](https://www.zotero.org/steinea#MYMBCYUA).*
+*Mirrors: [Zotero](https://www.zotero.org/steinea#MYMBCYUA)*
 
 <br>
 

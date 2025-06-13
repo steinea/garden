@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “Mechanics of Speculation: Review of Cameron Kunzelman’s *The World Is Born From Zero*.” Ancillary Review of Books, September 9, 2022. <https://ancillaryreviewofbooks.org/2022/09/21/mechanics-of-speculation-review-of-cameron-kunzelmans-the-world-is-born-from-zero/>.
 
-*Mirrors: [Zotero](https://www.zotero.org/steinea#MHV82WKF).*
+*Mirrors: [Zotero](https://www.zotero.org/steinea#MHV82WKF)*
 
 <br>
 

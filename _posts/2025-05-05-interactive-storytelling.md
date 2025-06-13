@@ -11,7 +11,7 @@ toc: true
 
 Stein, Eric. "Interactive Storytelling." In *An Educator's Guide to Interactive Digital Narrative: Syllabi and Resources From Around the World*, edited by Joshua A. Fisher, María Cecilia Reyes, and Jonathan Barbara, 27-33. Pittsburgh, PA: Carnegie Mellon University Press, 2025. [Open Access](https://kilthub.cmu.edu/articles/book/An_Educator_s_Guide_to_Interactive_Digital_Narrative_Syllabi_and_Resources_From_Around_the_World/28923917?file=54194957) and [Print-on-Demand](https://www.lulu.com/shop/barbara-jonathan-and-reyes-maría-cecilia-and-fisher-joshua-a/an-educators-guide-to-digital-narrative/paperback/product-nv788w6.html).
 
-*Mirrors: [Zotero](https://www.zotero.org/steinea#6VER5BPU).*
+*Mirrors: [Zotero](https://www.zotero.org/steinea#6VER5BPU)*
 
 <br>
 
