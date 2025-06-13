@@ -1,0 +1,11 @@
+---
+layout: default
+category: marginalia
+title: Dialogues
+---
+
+{% for post in site.posts %}
+  {% if post.category contains "post" and post.subcategory contains "dialogues" %}
+    {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
+  {% endif %}
+{% endfor %}
