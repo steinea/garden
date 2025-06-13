@@ -7,6 +7,9 @@ title: Posts
 
 <div id="intermezzo">
   <p>
+    <em>Forthcoming</em> A Big Room with the Lights Turned Out
+    <br><em>Forthcoming</em> To Become Capable of Response
+    <br>
     {% for post in site.posts %}
       {% if post.category contains "post" and post.subcategory contains "intermezzo" %}
         {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
