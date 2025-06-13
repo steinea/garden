@@ -5,7 +5,7 @@ layout: default
 <article class="h-entry">
 
   <div id="notes-entry-container">
-    <div>
+    <div id="markdown-content">
       <content>
         {{ content }}
       </content>
@@ -13,6 +13,12 @@ layout: default
 
     <!-- Backlinks Aside -->
     <side style="font-size: 0.9em">
+
+      <h4>Contents</h4>
+        <div id="table-of-contents">
+          {% toc %}
+        </div>
+      <br>
 
       <h4 style="margin-bottom: 1em">Backlinks</h4>
       {% if post.backlinks.size > 0 %}
