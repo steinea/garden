@@ -3,8 +3,149 @@ layout: default
 title: Posts
 ---
 
-{% for post in site.posts %}
-  {% if post.category contains "post" %}
-    {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
-  {% endif %}
-{% endfor %}
+<h3>Intermezzo</h3>
+
+<div id="intermezzo">
+  <p>
+    {% for post in site.posts %}
+      {% if post.category contains "post" and post.subcategory contains "intermezzo" %}
+        {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Juvenilia, 3</h3>
+
+<div id="juvenilia-3">
+  <p>
+    {% for post in site.posts %}
+      {% if post.category contains "post" and post.subcategory contains "juvenilia-3" %}
+        {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Field Notes, 2</h3>
+
+<div id="field-notes-2">
+  <p>
+    {% for post in site.posts %}
+      {% if post.category contains "post" and post.subcategory contains "field-notes-2" %}
+        {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Excurses, 3</h3>
+
+<div id="excurses-3">
+  <p>
+    {% for post in site.posts %}
+      {% if post.category contains "post" and post.subcategory contains "excurses-3" %}
+        {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Dialogues</h3>
+
+<div id="dialogues">
+  <p>
+    {% for post in site.posts %}
+      {% if post.category contains "post" and post.subcategory contains "dialogues" %}
+        {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Excurses, 2</h3>
+
+<div id="excurses-2">
+  <p>
+    {% for post in site.posts %}
+      {% if post.category contains "post" and post.subcategory contains "excurses-2" %}
+        {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Juvenilia, 2</h3>
+
+<div id="juvenilia-2">
+  <p>
+    {% for post in site.posts %}
+      {% if post.category contains "post" and post.subcategory contains "juvenilia-2" %}
+        {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Excurses</h3>
+
+<div id="excurses-1">
+  <p>
+    {% for post in site.posts %}
+      {% if post.category contains "post" and post.subcategory contains "excurses-1" %}
+        {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Juvenilia</h3>
+
+<div id="juvenilia-1">
+  <p>
+    {% for post in site.posts %}
+      {% if post.category contains "post" and post.subcategory contains "juvenilia-1" %}
+        {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Field Notes</h3>
+
+<div id="field-notes-1">
+  <p>
+    {% for post in site.posts %}
+      {% if post.category contains "post" and post.subcategory contains "field-notes-1" %}
+        {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
