@@ -131,6 +131,75 @@ The universe to come, the universe that was always here, is *unknowable* in the 
 <br>
 
 
+#### References
+
+“Aldia, Scholar of the First Sin.” Dark Souls Wiki. *Fandom*. Accessed June 1, 2020. <https://darksouls.fandom.com/wiki/Aldia,_Scholar_of_the_First_Sin>.
+
+Axelos, Kostas, and Stuart Elden. “Mondialisation Without the World.” *Radical Philosophy* , no. 139 (April 2005). <https://www.radicalphilosophyarchive.com/issue-files/rp130_interview_axelos.pdf>.
+
+Butler, Judith. *Frames of War: When Is Life Grievable?* London, UK: Verso Books, 2016.
+
+Cavell, Stanley. “Must We Mean What We Say?” In *Must We Mean What We Say? A Book of Essays*, 1–43. Cambridge, UK: Cambridge University Press, 1976.
+
+Certeau, Michel de. *The Practice of Everyday Life*. Translated by Steven F. Rendall. Berkeley, CA: University of California Press, 1988.
+
+“Darkstalker Kaathe.” Dark Souls Wiki. *Wikidot*. Accessed March 9, 2020. <http://darksouls.wikidot.com/darkstalker-kaathe>.
+
+Derrida, Jacques. *Of Spirit: Heidegger and the Question*. Translated by Geoffrey Bennington and Rachel Bowlby. Chicago, IL: University of Chicago Press, 1989.
+
+———. “Violence and Metaphysics.” In *Writing and Difference*, translated by Alan Bass, 97–192. London, UK: Routledge, 1987.
+
+Faye, Emmanuel. *Heidegger: The Introduction of Nazism into Philosophy in Light of the Unpublished Seminars of 1933-1935*. Translated by Michael B. Smith. New Haven, CT: Yale University Press, 2009.
+
+“Fire Keeper.” Dark Souls III Wiki. *Fextralife*. Accessed June 1, 2020. <https://darksouls3.wiki.fextralife.com/Fire+Keeper>.
+
+Fried, Gregory, ed. *Confronting Heidegger: A Critical Dialogue on Politics and Philosophy*. London, UK: Rowman; Littlefield, 2019.
+
+Gadamer, Hans-Georg. *Truth and Method*. Translated by Joel Weinsheimer and Donald G. Marshall. London, UK: Bloomsbury Academic, 2013.
+
+Heidegger, Martin. *Basic Questions of Philosophy: Selected "Problems" of "Logic"*. Translated by Richard Rojcewicz and André Schuwer. Bloomington, IN: Indiana University Press, 1994.
+
+———. *Being and Time*. Translated by Joan Stambaugh. Albany, NY: State University of New York Press, 2010.
+
+———. *Introduction to Metaphysics*. Translated by Gregory Fried and Richard Polt. New Haven, CT: Yale Nota Bene, 2000.
+
+Laruelle, François. “On the Black Universe: In the Human Foundations of Color.” In *Dark Nights of the Universe*. Name Publications, 2013. <https://www.recessart.org/wp-content/uploads/Laruelle-Black-Universe1.pdf>.
+
+———. *Philosophies of Difference: A Critical Introduction to Non-Philosophy*. Translated by Rocco Gangle. London, UK: Continuum, 2010.
+
+Le Guin, Ursula K. “The Carrier Bag Theory of Fiction.” In *Dancing at the Edge of the World: Thoughts on Words, Women, Places*, 165–70. New York, NY: Grove Press, 1989.
+
+Meillassoux, Quentin. *After Finitude: An Essay on the Necessity of Contingency*. Translated by Ray Brassier. London, UK: Continuum, 2009.
+
+Miyazaki, Hidetaka. *Dark Souls*. PS3; Xbox 360: FromSoftware, 2011.
+
+———. “Game No Shokutaku Interview,” December 2011. <http://soulslore.wikidot.com/das1-game-no-shokutaku>.
+
+Miyazaki, Hidetaka, Isamu Okano, and Yui Tanimura. *Dark Souls III*. PS4; Xbox One; Microsoft Windows: FromSoftware, 2016.
+
+“Nashandra.” Dark Souls II Wiki. *Wikidot*. Accessed May 27, 2020. <http://darksouls2.wikidot.com/nashandra>.
+
+“Opening (Dark Souls).” Dark Souls Wiki. *Fandom*. Accessed May 12, 2020. <https://darksouls.fandom.com/wiki/Opening_(Dark_Souls)>.
+
+Plato. “Allegory of the Cave.” In *Republic*, translated by Robin Waterfield, 240–49. Oxford, UK: Oxford University Press, 2008.
+
+———. “Simile of the Sun.” In *Republic*, translated by Robin Waterfield, 232–37. Oxford, UK: Oxford University Press, 2008.
+
+Serres, Michel. *Eyes*. Translated by Anne-Marie Feenberg-Dibon. London, UK: Bloomsbury, 2015.
+
+Shibuyo, Tomohiro, and Yui Tanimura. *Dark Souls II*. PS3; Xbox 360: FromSoftware, 2014.
+
+———. *Dark Souls II: Scholar of the First Sin*. PS4; Xbox One; Microsoft Windows: FromSoftware, 2015.
+
+“Solaire of Astora.” Dark Souls Wiki. *Wikidot*. Accessed March 30, 2020. <http://darksouls.wikidot.com/solaire-of-astora>.
+
+Wah, Fred. “Re-Mixed: The Compound Composition of Diamond Grill.” In *Diamond Grill*, 10th Anniversary. Edmonton, AB: NeWest Press, 2006.
+
+Whitehead, Alfred North. *Process and Reality: An Essay in Cosmology*. Edited by David Ray Griffin and Donald W. Sherburne. Corrected Edition. New York, NY: Free Press, 1978.
+
+<br>
+
+
 #### Notes
 
 [^1]: Hidetaka Miyazaki, *Dark Souls* (PS3; Xbox 360: FromSoftware, 2011); Tomohiro Shibuyo and Yui Tanimura, *Dark Souls II* (PS3; Xbox 360: FromSoftware, 2014); Hidetaka Miyazaki, Isamu Okano, and Yui Tanimura, *Dark Souls III* (PS4; Xbox One; Microsoft Windows: FromSoftware, 2016).
