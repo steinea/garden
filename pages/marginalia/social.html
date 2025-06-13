@@ -1,0 +1,11 @@
+---
+layout: default
+category: marginalia
+title: Social
+---
+
+{% for post in site.posts %}
+  {% if post.category contains "social" %}
+    {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
+  {% endif %}
+{% endfor %}
