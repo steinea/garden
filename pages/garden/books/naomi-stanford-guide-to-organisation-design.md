@@ -384,6 +384,8 @@ New models: "Nadler's Updated Congruence Model" (32)
 
 "wide spans of management are typical of organisations that have few layers" (68)
 
+![Comparing Structures](/assets/fig/stanford-2015/comparing-structures.png/)
+
 ![Advantages and Limitations of Structures](/assets/fig/stanford-2015/advantages-limitations-structures-1.png/)
 
 ![Advantages and Limitations of Structures](/assets/fig/stanford-2015/advantages-limitations-structures-2.png/)
