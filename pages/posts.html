@@ -3,10 +3,8 @@ layout: default
 title: Posts
 ---
 
-<a href="/2025/05/24/test-post/">Test Post</a>
-
 {% for post in site.posts %}
-  {% if post.category contains "posts" %}
+  {% if post.category contains "post" %}
     {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
   {% endif %}
 {% endfor %}
