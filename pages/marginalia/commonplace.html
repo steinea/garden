@@ -1,0 +1,38 @@
+---
+layout: default
+category: marginalia
+title: Commonplace
+---
+
+<table class="display nowrap commonplaceSort" style="width: 100%">
+  <thead>
+    <tr>
+      <th class="desktop">Title</th>
+      <th class="desktop">Author</th>
+      <th class="desktop">Publication</th>
+      <th class="all">Date</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {% for post in site.posts %}
+      {% if post.category contains "commonplace" %}
+        <tr>
+          <td><a href="{{ post.url }}" class="internal-link">{{ post.title }}</a></td>
+          <td>{{ post.author }}</td>
+          <td><a href="{{ post.link }}">{{ post.publication }}</td>
+          <td>{{ post.date | date: "%Y-%m-%d" }}
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+
+  <tfoot>
+    <tr>
+      <th class="desktop">Title</th>
+      <th class="desktop">Author</th>
+      <th class="desktop">Publication</th>
+      <th class="all">Date</th>
+    </tr>
+  </tfoot>
+</table>
