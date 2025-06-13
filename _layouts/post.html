@@ -29,11 +29,13 @@ layout: default
       <br>
 
       {% if page.subcategory != "excurses-3" %}
+      {% if page.subcategory != "excurses-2" %}
         <h4>Contents</h4>
           <div id="table-of-contents">
             {% toc %}
           </div>
         <br>
+      {% endif %}
       {% endif %}
 
       <h4 style="margin-bottom: 1em">Backlinks</h4>
