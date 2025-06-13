@@ -117,7 +117,7 @@ title: Posts
   <p>
     {% for post in site.posts %}
       {% if post.category contains "post" and post.subcategory contains "juvenilia-1" %}
-        {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link" style="overflow: hidden; text-overflow: ellipses; white-space: nowrap;">{{ post.title }}</a><br>
+        {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link" style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">{{ post.title }}</a><br>
       {% endif %}
     {% endfor %}
   </p>
