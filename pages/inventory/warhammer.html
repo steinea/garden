@@ -1,20 +1,20 @@
 ---
 layout: default
-category: garden
-title: Video Games
+category: inventory
+title: Warhammer
 ---
 
 <!-- Category Counts -->
 {% assign totalCollection = 0 %}
   {% for page in site.pages %}
-    {% if page.category contains "videogame" and page.subcategory != "wishlist" %}
+    {% if page.category contains "warhammer" and page.subcategory != "wishlist" %}
       {% assign totalCollection = totalCollection | plus: 1 %}
     {% endif %}
   {% endfor %}
 
 {% assign totalWishlist = 0 %}
   {% for page in site.pages %}
-    {% if page.category contains "videogame" and page.subcategory contains "wishlist" %}
+    {% if page.category contains "warhammer" and page.subcategory contains "wishlist" %}
       {% assign totalWishlist = totalWishlist | plus: 1 %}
     {% endif %}
   {% endfor %}
@@ -32,20 +32,20 @@ title: Video Games
     <thead>
       <tr>
         <th class="all">Title</th>
-        <th class="desktop">Developer</th>
-        <th class="desktop">Publisher</th>
-        <th class="desktop">Released</th>
+        <th class="desktop">Faction</th>
+        <th class="desktop">Item</th>
+        <th class="desktop">Components</th>
       </tr>
     </thead>
 
     <tbody>
       {% for page in site.pages %}
-        {% if page.category contains "videogame" and page.subcategory != "wishlist" %}
+        {% if page.category contains "warhammer" and page.subcategory != "wishlist" %}
           <tr>
             <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
-        		<td>{{ page.developer }}</td>
-            <td>{{ page.publisher }}</td>
-        		<td>{{ page.releaseDate }}</td>
+        		<td>{{ page.faction }}</td>
+            <td><a href="{{ page.link }}" title="{{ page.title }}" class="internal-link">{{ page.item }}</a></td>
+            <td>{{ page.components }}</td>
       		</tr>
         {% endif %}
     	{% endfor %}
@@ -54,9 +54,9 @@ title: Video Games
     <tfoot>
       <tr>
         <th class="all">Title</th>
-        <th class="desktop">Developer</th>
-        <th class="desktop">Publisher</th>
-        <th class="desktop">Released</th>
+        <th class="desktop">Faction</th>
+        <th class="desktop">Item</th>
+        <th class="desktop">Components</th>
       </tr>
     </tfoot>
   </table>
@@ -67,20 +67,20 @@ title: Video Games
     <thead>
       <tr>
         <th class="all">Title</th>
-        <th class="desktop">Developer</th>
-        <th class="desktop">Publisher</th>
-        <th class="desktop">Released</th>
+        <th class="desktop">Faction</th>
+        <th class="desktop">Item</th>
+        <th class="desktop">Components</th>
       </tr>
     </thead>
 
     <tbody>
       {% for page in site.pages %}
-        {% if page.category contains "videogame" and page.subcategory contains "wishlist" %}
+        {% if page.category contains "warhammer" and page.subcategory contains "wishlist" %}
           <tr>
             <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
-        		<td>{{ page.developer }}</td>
-            <td>{{ page.publisher }}</td>
-        		<td>{{ page.releaseDate }}</td>
+        		<td>{{ page.faction }}</td>
+            <td><a href="{{ page.link }}" title="{{ page.title }}" class="internal-link">{{ page.item }}</a></td>
+            <td>{{ page.components }}</td>
       		</tr>
         {% endif %}
     	{% endfor %}
@@ -89,9 +89,9 @@ title: Video Games
     <tfoot>
       <tr>
         <th class="all">Title</th>
-        <th class="desktop">Developer</th>
-        <th class="desktop">Publisher</th>
-        <th class="desktop">Released</th>
+        <th class="desktop">Faction</th>
+        <th class="desktop">Item</th>
+        <th class="desktop">Components</th>
       </tr>
     </tfoot>
   </table>
