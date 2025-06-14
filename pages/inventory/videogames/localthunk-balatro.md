@@ -2,7 +2,7 @@
 layout: page
 category: videogame
 subcategory: backlog
-tags:
+tags: combinatorial-play
 title: Balatro
 developer: LocalThunk
 publisher: Playstack
