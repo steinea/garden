@@ -98,6 +98,34 @@
 
     <script>
       // Use Javascript 'new' instead of old dom '$' initialize
+
+      new DataTable (".bibliographySort", {
+        order: [2, "desc"],
+        pageLength: 100,
+        responsive: true,
+      });
+
+      new DataTable (".booksSort", {
+        order: [0, "asc"],
+        responsive: true,
+      });
+
+      new DataTable (".commonplaceSort", {
+        order: [3, "desc"],
+        responsive: true,
+      });
+
+      new DataTable (".cardsSort", {
+        order: [0, "asc"],
+        responsive: true,
+      });
+
+      new DataTable (".discSort", {
+        order: [0, "asc"],
+        responsive: true,
+      });
+
+
       new DataTable (".playingDateSort", {
         order: [5, "desc"],
         responsive: true,
@@ -119,22 +147,6 @@
         responsive: true,
       });
 
-      new DataTable (".discSort", {
-        order: [0, "asc"],
-        responsive: true,
-      });
-
-      new DataTable (".booksSort", {
-        order: [0, "asc"],
-        responsive: true,
-      });
-
-      new DataTable (".bibliographySort", {
-        order: [2, "desc"],
-        pageLength: 100,
-        responsive: true,
-      });
-
       new DataTable (".booksDateSort", {
         order: [3, "desc"],
         pageLength: 50,
@@ -147,10 +159,6 @@
         responsive: true,
       });
 
-      new DataTable (".commonplaceSort", {
-        order: [3, "desc"],
-        responsive: true,
-      });
     </script>
 
     <!-- Mermaid Javascript -->
