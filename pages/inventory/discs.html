@@ -7,7 +7,7 @@ title: Discs
 <!-- Category Counts -->
 {% assign totalPlaystation = 0 %}
   {% for disc in site.data.discs %}
-    {% if disc.Type contains "game" %}
+    {% if disc.Type contains "playstation" %}
       {% assign totalPlaystation = totalPlaystation | plus: 1 %}
     {% endif %}
   {% endfor %}
