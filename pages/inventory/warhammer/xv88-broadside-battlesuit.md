@@ -8,7 +8,7 @@ item: 56-15
 components: 91
 link: https://www.warhammer.com/en-CA/shop/Tau-Empire-XV88-Broadside-Battlesuit-2017
 date: 1999-01-01
-cost: 75
+price: 75
 ---
 
 "Designed to offer long-range support, the XV88 Broadside Battlesuit has exceeded expectations, becoming a mainstay of the Hunter Cadres and tank-killers of legendary proportions. Powered by a particle accelerator, a Broadside's heavy rail rifle shot can penetrate the thickest plasteel bunkers.
