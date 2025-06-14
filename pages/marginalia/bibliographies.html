@@ -1,0 +1,11 @@
+---
+layout: default
+category: marginalia
+title: Bibliographies
+---
+
+{% for page in site.pages %}
+  {% if page.category contains "bibliographies" %}
+    <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+  {% endif %}
+{% endfor %}
