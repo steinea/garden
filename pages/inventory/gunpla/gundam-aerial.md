@@ -2,7 +2,7 @@
 layout: page
 category: gunpla
 subcategory: wishlist
-title: "HG Gundam Aerial (03)"
+title: Gundam Aerial
 series: The Witch From Mercury
 item: 5063030
 scale: 1/144
