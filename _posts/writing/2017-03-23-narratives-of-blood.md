@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “Narratives of Blood: Justice, Empire, and Billy Budd, Sailor.” International Society for the Study of Narrative Conference, Lexington, KY, March 23, 2017. <https://zenodo.org/record/4603305>.
 
-*Mirrors: [Academia](https://www.academia.edu/38515325/), [ResearchGate](https://www.researchgate.net/publication/350043059), [Zotero](https://www.zotero.org/steinea#WFGG2DIQ)*
+*Mirrors: [Academia](https://www.academia.edu/38515325/), [Knowledge Commons](https://works.hcommons.org/records/j9s35-za296), [PhilPapers](https://philpapers.org/rec/STENOB-3), [ResearchGate](https://www.researchgate.net/publication/350043059), [Zotero](https://www.zotero.org/steinea#WFGG2DIQ)*
 
 <br>
 

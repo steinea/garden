@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “Thoreau’s Cabin: An Economy of Space, Sociality, and the Commons.” Free-Exchange: Community Building as Resistance, University of Calgary, Calgary, AB, March 9, 2019. <https://zenodo.org/record/4603398>.
 
-*Mirrors: [Academia](https://www.academia.edu/38515349/), [ResearchGate](https://www.researchgate.net/publication/350043156), [Zotero](https://www.zotero.org/steinea#5VERJJHS)*
+*Mirrors: [Academia](https://www.academia.edu/38515349/), [Knowledge Commons](https://works.hcommons.org/records/vxzht-tyn07), [PhilPapers](https://philpapers.org/rec/STETCA-18), [ResearchGate](https://www.researchgate.net/publication/350043156), [Zotero](https://www.zotero.org/steinea#5VERJJHS)*
 
 <br>
 

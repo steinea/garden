@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “The Torqued Horizon: Preliminary Notes on the Hypersurface of the Real.” Radical Resistance: Dissent and Boundary Crossing in the Humanities, Duquesne University, Pittsburgh, PA, April 6, 2019. <https://zenodo.org/record/4603406>.
 
-*Mirrors: [Academia](https://www.academia.edu/38756106/), [ResearchGate](https://www.researchgate.net/publication/350043065), [Zotero](https://www.zotero.org/steinea#YER2NLDL)*
+*Mirrors: [Academia](https://www.academia.edu/38756106/), [Knowledge Commons](https://works.hcommons.org/records/s72md-1kr78), [PhilPapers](https://philpapers.org/rec/STETTH-6), [ResearchGate](https://www.researchgate.net/publication/350043065), [Zotero](https://www.zotero.org/steinea#YER2NLDL)*
 
 <br>
 
