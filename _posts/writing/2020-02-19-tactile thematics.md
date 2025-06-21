@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “Tactile Thematics: From Power to Skill in FromSoftware’s Souls Games.” Southwest Popular/American Culture Association Annual Conference, Albuequerque, NM, February 19, 2020. <https://zenodo.org/record/4603488>.
 
-*Mirrors: [Academia](https://www.academia.edu/42026629/), [ResearchGate](https://www.researchgate.net/publication/350043264), [Zotero](https://www.zotero.org/steinea#Z7B68Y9E)*
+*Mirrors: [Academia](https://www.academia.edu/42026629/), [Knowledge Commons](https://works.hcommons.org/records/qm7ty-3n576), [PhilPapers](https://philpapers.org/rec/STETTF-4), [ResearchGate](https://www.researchgate.net/publication/350043264), [Zotero](https://www.zotero.org/steinea#Z7B68Y9E)*
 
 <br>
 

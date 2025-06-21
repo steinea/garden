@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “Praise the Sun: The Metaphysics of Dark Souls from the First Flame to the End of Fire.” Canadian Game Studies Association Conference, Western University, London, ON, June 3, 2020. <https://zenodo.org/record/4603500>.
 
-*Mirrors: [Academia](https://www.academia.edu/43267406/), [ResearchGate](https://www.researchgate.net/publication/350043268), [Zotero](https://www.zotero.org/steinea#76JQ8SYT)*
+*Mirrors: [Academia](https://www.academia.edu/43267406/), [Knowledge Commons](https://works.hcommons.org/records/qc2kz-9s453), [PhilPapers](https://philpapers.org/rec/STEPTS-3), [ResearchGate](https://www.researchgate.net/publication/350043268), [Zotero](https://www.zotero.org/steinea#76JQ8SYT)*
 
 <br>
 

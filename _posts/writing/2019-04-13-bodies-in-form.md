@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “Bodies in Form: Motricity Across Mediums in The Last of Us and The Last of Us: American Dreams.” ImageText in Motion: Animation and Comics, University of Florida, Gainesville, FL, April 13, 2019. <https://zenodo.org/record/4603470>.
 
-*Mirrors: [Academia](https://www.academia.edu/38800196/), [ResearchGate](https://www.researchgate.net/publication/350043260), [Zotero](https://www.zotero.org/steinea#9CI5DLGS)*
+*Mirrors: [Academia](https://www.academia.edu/38800196/), [Knowledge Commons](https://works.hcommons.org/records/q68k6-j7391), [PhilPapers](https://philpapers.org/rec/STEBIF), [ResearchGate](https://www.researchgate.net/publication/350043260), [Zotero](https://www.zotero.org/steinea#9CI5DLGS)*
 
 <br>
 

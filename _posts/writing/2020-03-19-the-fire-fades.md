@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “The Fire Fades: Navigating the End of the World in FromSoftware’s Dark Souls.” International Conference on the Fantastic in the Arts, Orlando, FL, March 19, 2020. <https://zenodo.org/record/4603492>.
 
-*Mirrors: [Academia](https://www.academia.edu/42195654/), [ResearchGate](https://www.researchgate.net/publication/350043164), [Zotero](https://www.zotero.org/steinea#NWK6STEX)*
+*Mirrors: [Academia](https://www.academia.edu/42195654/), [Knowledge Commons](https://works.hcommons.org/records/bh0dc-4ya96), [PhilPapers](https://philpapers.org/rec/STETFF-5), [ResearchGate](https://www.researchgate.net/publication/350043164), [Zotero](https://www.zotero.org/steinea#NWK6STEX)*
 
 <br>
 
