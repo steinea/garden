@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “It Can’t Be For Nothing: Communicating Intentions for Play Through Trophy Design in *The Last of Us* and *The Last of Us Part II*.” TWU Research and Creativity Symposium, Trinity Western University, Langley, BC, August 28, 2020. <https://zenodo.org/record/4603514>.
 
-*Mirrors: [Academia](https://www.academia.edu/43997801/), [Knowledge Commons](https://works.hcommons.org/records/yw6hv-dfj75), [PhilPapers](https://philpapers.org/rec/STEICB-2), [ResearchGate](https://www.researchgate.net/publication/350042997), [Zotero](https://www.zotero.org/steinea#J86FLM42)*
+*Mirrors: [Academia](https://www.academia.edu/43997801/), [KCWorks](https://works.hcommons.org/records/yw6hv-dfj75), [PhilPapers](https://philpapers.org/rec/STEICB-2), [ResearchGate](https://www.researchgate.net/publication/350042997), [Zotero](https://www.zotero.org/steinea#J86FLM42)*
 
 <br>
 

@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “Pure Vessels: The Insect and the Other in Dark Souls and Hollow Knight.” Insect Entanglements, Centre for Environmental Humanities, University of Bristol, Online, June 19, 2020. <https://zenodo.org/record/4603508>.
 
-*Mirrors: [Academia](https://www.academia.edu/43386564/), [Knowledge Commons](https://works.hcommons.org/records/g1zam-bh430), [PhilPapers](https://philpapers.org/rec/STEPVT), [ResearchGate](https://www.researchgate.net/publication/350042994), [Zotero](https://www.zotero.org/steinea#M68Y6IAU)*
+*Mirrors: [Academia](https://www.academia.edu/43386564/), [KCWorks](https://works.hcommons.org/records/g1zam-bh430), [PhilPapers](https://philpapers.org/rec/STEPVT), [ResearchGate](https://www.researchgate.net/publication/350042994), [Zotero](https://www.zotero.org/steinea#M68Y6IAU)*
 
 <br>
 
