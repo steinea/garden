@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “Beasts and Sovereigns: The Zoopolitical Imagination of FromSoftware’s Demon’s Souls, Bloodborne, and Elden Ring.” Canadian Game Studies Association Annual Conference, Online, 2023. <https://zenodo.org/record/8051188>.
 
-*Mirrors: [Academia](https://www.academia.edu/103484382/), [ResearchGate](https://www.researchgate.net/publication/371666935), [Zotero](https://www.zotero.org/steinea#PV7FAGAE)*
+*Mirrors: [Academia](https://www.academia.edu/103484382/), [KCWorks](https://works.hcommons.org/records/hyc14-neh49/latest), [PhilPapers](https://philpapers.org/rec/STEBAS-6), [ResearchGate](https://www.researchgate.net/publication/371666935), [Zotero](https://www.zotero.org/steinea#PV7FAGAE)*
 
 <br>
 

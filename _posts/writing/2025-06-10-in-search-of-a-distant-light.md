@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “In Search of a Distant Light: Metaphysical Speculation and the Horror of Decision in *Elden Ring* and *Elden Ring: Shadow of the Erdtree*.” Canadian Game Studies Association Annual Conference, TAG Lab, Concordia University, Montreal, QC, and Online, 2025. <https://doi.org/10.5281/zenodo.15653329>.
 
-*Mirrors: [Academia](https://www.academia.edu/129922973/), [ResearchGate](https://www.researchgate.net/publication/392628053), [Zotero](https://www.zotero.org/steinea#D78T4LID)*
+*Mirrors: [Academia](https://www.academia.edu/129922973/), [KCWorks](https://works.hcommons.org/records/ja9rq-85730), [PhilPapers](https://philpapers.org/rec/STEISO-7), [ResearchGate](https://www.researchgate.net/publication/392628053), [Zotero](https://www.zotero.org/steinea#D78T4LID)*
 
 <br>
 

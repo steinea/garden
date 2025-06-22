@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “Production and Pedagogy: Teaching Game Development in the University Classroom.” Presented at the TWU CREATE Conference, August 26, 2022. <https://zenodo.org/record/7036777>.
 
-*Mirrors: [Academia](https://www.academia.edu/85918199/), [ResearchGate](https://www.researchgate.net/publication/363134502), [Zotero](https://www.zotero.org/steinea#LC2UHMPL)*
+*Mirrors: [Academia](https://www.academia.edu/85918199/), [KCWorks](https://works.hcommons.org/records/mahd4-0q651), [PhilPapers](https://philpapers.org/rec/STEPAP-26), [ResearchGate](https://www.researchgate.net/publication/363134502), [Zotero](https://www.zotero.org/steinea#LC2UHMPL)*
 
 <br>
 

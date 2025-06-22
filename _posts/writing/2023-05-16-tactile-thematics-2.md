@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “Tactile Thematics, 2: Passages of Plurality in FromSoftware’s *Elden Ring*.” Presented at the International Conference on Games and Narrative, The Games Institute, University of Waterloo, May 16, 2023. <https://zenodo.org/record/7948775>.
 
-*Mirrors: [Academia](https://www.academia.edu/101996597/), [ResearchGate](https://www.researchgate.net/publication/370865926), [Zotero](https://www.zotero.org/steinea#DUS72PFX)*
+*Mirrors: [Academia](https://www.academia.edu/101996597/), [KCWorks](https://works.hcommons.org/records/cb4jw-ney49), [PhilPapers](https://philpapers.org/rec/STETTR-6), [ResearchGate](https://www.researchgate.net/publication/370865926), [Zotero](https://www.zotero.org/steinea#DUS72PFX)*
 
 <br>
 
