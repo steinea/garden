@@ -13,7 +13,7 @@ toc: true
 
 Stein, Eric. “No Dice, No Masters: Procedures for Emancipation in Dream Askew / Dream Apart.” Presented at the GENeration Analog: The Tabletop Games and Education Virtual Conference, August 5, 2021. <https://zenodo.org/record/5156494>.
 
-*Mirrors: [Academia](https://www.academia.edu/50673541/), [ResearchGate](https://www.researchgate.net/publication/353669709), [Zotero](https://www.zotero.org/steinea#9AGMHL84)*
+*Mirrors: [Academia](https://www.academia.edu/50673541/), [KCWorks](https://works.hcommons.org/records/05fq1-08h66), [PhilPapers](https://philpapers.org/rec/STENDN-4), [ResearchGate](https://www.researchgate.net/publication/353669709), [Zotero](https://www.zotero.org/steinea#9AGMHL84)*
 
 <br>
 

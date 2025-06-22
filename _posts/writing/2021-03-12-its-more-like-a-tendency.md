@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “It’s More Like a Tendency: Trajectories of the Literary in *Kentucky Route Zero*.” Northeast Modern Language Association Annual Convention, Online, March 12, 2021. <https://zenodo.org/record/4603525>.
 
-*Mirrors: [Academia](https://www.academia.edu/45493604/), [ResearchGate](https://www.researchgate.net/publication/350043171), [Zotero](https://www.zotero.org/steinea#7LV86752)*
+*Mirrors: [Academia](https://www.academia.edu/45493604/), [KCWorks](https://works.hcommons.org/records/p3vqz-13t63), [PhilPapers](https://philpapers.org/rec/STEIML-3), [ResearchGate](https://www.researchgate.net/publication/350043171), [Zotero](https://www.zotero.org/steinea#7LV86752)*
 
 <br>
 

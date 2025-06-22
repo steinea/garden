@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “Bodies in Form, 2: Tabletop Roleplaying as Cosmic Poetics.” Presented at the Bio and Psyche: Reading the Symptomatic Body, May 28, 2021. <https://zenodo.org/record/4824078>.
 
-*Mirrors: [Academia](https://www.academia.edu/49056343/), [ResearchGate](https://www.researchgate.net/publication/351918869), [Zotero](https://www.zotero.org/steinea#LYQKGN22)*
+*Mirrors: [Academia](https://www.academia.edu/49056343/), [KCWorks](https://works.hcommons.org/records/kemvc-4re22), [PhilPapers](https://philpapers.org/rec/STEBIF-2), [ResearchGate](https://www.researchgate.net/publication/351918869), [Zotero](https://www.zotero.org/steinea#LYQKGN22)*
 
 <br>
 
@@ -21,7 +21,7 @@ Stein, Eric. “Bodies in Form, 2: Tabletop Roleplaying as Cosmic Poetics.” Pr
 
 Using Maurice Merleau-Ponty's concept of "motricity" and Alva Noë's concept of "organization," this paper offers a phenomenological and enactive approach to tabletop roleplaying games (ttrpgs) as a form of *poiesis*, making---both *auto*-poetic, as defined by Humberto Maturana and Francisco Varela, and *sym*-poietic, as defined by Donna Haraway. This self-making and making-with is not understood in the sense of either *self-possession* or *self-realization*, but as a mode of what Stefano Harney and Fred Moten call "fugitive planning," a planning with the potential for direct action at the *cosmic* scale. This *cosmic poetics* is a poetics that rejects "the assignation of traits," as Legacy Russell beckons us to do, delighting in the glitched becomings of "generic difference." Bringing this theoretical constellation to ground, this paper examines select examples from the recent boom in independent "lyric" games, situating them in their experimental aesthetic context in order to derive a *praxis* for the elaboration of the poetics here described.
 
-*Keywords: Motricity, Organization, Autopoiesis, Sympoiesis, Planning, Poetics, Cosmic, Tabletop Roleplaying, TTRPG*
+*Keywords: Motricity, Organization, Autopoiesis, Sympoiesis, Planning, Poetics, Cosmic, Tabletop Roleplaying, TTRPG, Maurice Merleau-Ponty, Alva Noë, Humberto Maturana, Francisco Varela, Donna Haraway, Stefano Harney, Fred Moten, Legacy Russell*
 
 <br>
 

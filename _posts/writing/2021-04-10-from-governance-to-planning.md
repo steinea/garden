@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “From Governance to Planning: Nuclearity, Ludology, Anarchy.” Response to New World Order: For Planetary Governance, April 10, 2021. <https://zenodo.org/record/4685025>.
 
-*Mirrors: [Academia](https://www.academia.edu/46833875/), [ResearchGate](https://www.researchgate.net/publication/350849937), [Zotero](https://www.zotero.org/steinea#ZJMMTWMD)*
+*Mirrors: [Academia](https://www.academia.edu/46833875/), [KCWorks](https://works.hcommons.org/records/m2kfn-zr226), [PhilPapers](https://philpapers.org/rec/STEFGT), [ResearchGate](https://www.researchgate.net/publication/350849937), [Zotero](https://www.zotero.org/steinea#ZJMMTWMD)*
 
 <br>
 
@@ -21,7 +21,7 @@ Stein, Eric. “From Governance to Planning: Nuclearity, Ludology, Anarchy.” R
 
 This paper responds to the call "For Planetary Governance" written by Benjamin Bratton and issued by The Terraforming and Strelka Mag. Through a hermeneutics of the nuclear facilitated by Martin Heidegger, Jean Baudrillard, and Patrick Jagoda, it examines the atomic bomb as the final symbol of a nationalist, metaphysical age of spirit, and the initial structure of a postnational, antimetaphysical age of control. Progressing from Baudrillard's nihilism through Jagoda's ludology, this paper then deploys David Graeber's critique of bureaucracy to interpret the generalization of control in the intermediate international age, a generalization that prevents passage to the ethical planetary governance Bratton solicits. Finally, Jagoda's theory of experimental games is placed into conversation with Legacy Russell's glitch feminism and Fred Moten and Stefano Harney's critique of governance in an attempt articulate a combinatorial science of play and planning suited to a properly antimetaphysical and ethical planetarity.
 
-*Keywords: Governance, Planning, Nuclearity, Ludology, Anarchy, Jean Baudrillard*
+*Keywords: Governance, Planning, Nuclearity, Ludology, Anarchy, Jean Baudrillard, Martin Heidegger, Jacques Derrida, Jean-Paul Sartre, Patrick Jagoda, David Graeber, Benjamin Bratton, Stefano Harney, Fred Moten, Legacy Russell*
 
 <br>
 

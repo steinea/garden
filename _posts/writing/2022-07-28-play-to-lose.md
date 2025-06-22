@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “Play to Lose: Animation, Failure, and the Milieu in *Trophy Dark*.” Presented at the GENeration Analog: The Tabletop Games and Education Virtual Conference, July 28, 2022. <https://zenodo.org/record/6932651>.
 
-*Mirrors: [Academia](https://www.academia.edu/83890168/), [ResearchGate](https://www.researchgate.net/publication/362324865), [Zotero](https://www.zotero.org/steinea#VFP74IWE)*
+*Mirrors: [Academia](https://www.academia.edu/83890168/), [KCWorks](https://works.hcommons.org/records/9n96x-97q54), [PhilPapers](https://philpapers.org/rec/STEPTL), [ResearchGate](https://www.researchgate.net/publication/362324865), [Zotero](https://www.zotero.org/steinea#VFP74IWE)*
 
 <br>
 

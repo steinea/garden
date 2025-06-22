@@ -12,7 +12,7 @@ toc: true
 
 Stein, Eric. “The Dark Sigil Will Guide Thee: The Hollowing Mechanic in FromSoftware’s Souls Games.” Northeast Popular Culture Association Annual Conference, Online, October 23, 2020. <https://zenodo.org/record/4603519>.
 
-*Mirrors: [Academia](https://www.academia.edu/44365595/), [ResearchGate](https://www.researchgate.net/publication/350043272), [Zotero](https://www.zotero.org/steinea#GD5N5QYM)*
+*Mirrors: [Academia](https://www.academia.edu/44365595/), [KCWorks](https://works.hcommons.org/records/stkwb-p8g90), [PhilPapers](https://philpapers.org/rec/STETDS-9), [ResearchGate](https://www.researchgate.net/publication/350043272), [Zotero](https://www.zotero.org/steinea#GD5N5QYM)*
 
 <br>
 
