@@ -1,7 +1,7 @@
 ---
 layout: page
 category: videogame
-subcategory: wishlist
+subcategory: backlog
 tags: fantasy-action
 title: "Clair Obscur: Expedition 33"
 developer: Sandfall Interactive
