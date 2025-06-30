@@ -1,0 +1,126 @@
+---
+layout: default
+category: inventory
+title: Vinyl
+---
+
+<!-- Category Counts -->
+{% assign totalCollection = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "vinyl" and page.subcategory != "wishlist" %}
+      {% assign totalCollection = totalCollection | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalWishlist = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "vinyl" and page.subcategory contains "wishlist" %}
+      {% assign totalWishlist = totalWishlist | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+<!-- Category Tabs -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('collection')">Collection ({{ totalCollection }})</button>
+  <button class="tablinks" onclick="openTab('wishlist')">Wishlist ({{ totalWishlist }})</button>
+</div>
+
+<br>
+
+<div id="collection" class="tabcontent">
+  <table class="display nowrap vinylSort">
+    <thead>
+      <tr>
+        <th class="all">Artist</th>
+        <th class="all">Title</th>
+        <th class="desktop">Label</th>
+        <th class="desktop">Format</th>
+        <th class="desktop">Released</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for page in site.pages %}
+        {% if page.category contains "vinyl" and page.subcategory != "wishlist" %}
+          <tr>
+            <td>{{ page.author }}</td>
+            <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
+            <td>{{ page.publisher }}</td>
+            <td><a href="{{ page.link }}" title="{{ page.upc }}">{{ page.format }}</a></td>
+            <td>{{ page.releaseDate }}</td>
+          </tr>
+        {% endif %}
+    	{% endfor %}
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th class="all">Artist</th>
+        <th class="all">Title</th>
+        <th class="desktop">Label</th>
+        <th class="desktop">Format</th>
+        <th class="desktop">Released</th>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+
+<div id="wishlist" class="tabcontent">
+  <table class="display nowrap vinylSort">
+    <thead>
+      <tr>
+        <th class="all">Artist</th>
+        <th class="all">Title</th>
+        <th class="desktop">Label</th>
+        <th class="desktop">Format</th>
+        <th class="desktop">Released</th>
+        <th class="desktop">Price</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for page in site.pages %}
+        {% if page.category contains "vinyl" and page.subcategory contains "wishlist" %}
+          <tr>
+            <td>{{ page.author }}</td>
+            <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
+            <td>{{ page.publisher }}</td>
+            <td><a href="{{ page.link }}" title="{{ page.upc }}">{{ page.format }}</a></td>
+            <td>{{ page.releaseDate }}</td>
+            <td>{{ page.price }}</td>
+      		</tr>
+        {% endif %}
+    	{% endfor %}
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th class="all">Artist</th>
+        <th class="all">Title</th>
+        <th class="desktop">Label</th>
+        <th class="desktop">Format</th>
+        <th class="desktop">Released</th>
+        <th class="desktop">Price</th>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('collection');
+</script>
