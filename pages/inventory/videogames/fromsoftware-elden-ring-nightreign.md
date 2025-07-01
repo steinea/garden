@@ -11,11 +11,11 @@ releaseDate: 2025-05-30
 howlongtobeat: 37
 difficulty: 9/10
 trophyGuide: https://www.powerpyx.com/elden-ring-nightreign-trophy-guide-roadmap/
-durationHours: 2
-trophies: 1/37
-percent: 3%
+durationHours: 24
+trophies: 20/37
+percent: 54%
 link: https://steamcommunity.com/id/steinea/stats/2622380/achievements/
-date: 2025-06-15
+date: 2025-06-29
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Elden_Ring_Nightreign):
