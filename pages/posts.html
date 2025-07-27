@@ -3,6 +3,40 @@ layout: default
 title: Posts
 ---
 
+<h3>Questions</h3>
+
+<div id="questions-1">
+  <p>
+    <em>Forthcoming</em>
+    <br>
+    {% for post in site.posts %}
+      {% if post.category contains "post" and post.subcategory contains "questions-1" %}
+        {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Field Notes, 3</h3>
+
+<div id="field-notes-3">
+  <p>
+    <em>Forthcoming</em>
+    <br>
+    {% for post in site.posts %}
+      {% if post.category contains "post" and post.subcategory contains "field-notes-3" %}
+        {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}" class="internal-link">{{ post.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
 <h3>Intermezzo</h3>
 
 <div id="intermezzo">
