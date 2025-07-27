@@ -10,7 +10,7 @@ published: 2016
 started:
 finished:
 date: 1111-11-11
-rating:
+rating: exclude
 ---
 
 #### Citation

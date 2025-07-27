@@ -10,8 +10,8 @@ published: 2022
 started:
 finished:
 date: 1111-11-11
-rating:
-price: 118
+rating: exclude
+price: $118
 ---
 
 #### Citation

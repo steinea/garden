@@ -10,7 +10,7 @@ published: 2019
 started:
 finished:
 date: 1111-11-11
-rating:
+rating: exclude
 price: 82
 ---
 

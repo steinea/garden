@@ -9,7 +9,7 @@ published: 2021
 started:
 finished:
 date: 1111-11-11
-rating:
+rating: exclude
 ---
 
 #### Citation
