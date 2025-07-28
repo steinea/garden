@@ -4,8 +4,35 @@ category: garden
 title: Stream
 ---
 
-{% for page in site.pages %}
-  {% if page.category contains "wiki" %}
-    <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
-  {% endif %}
-{% endfor %}
+<table class="display nowrap gardenSort" style="width: 100%">
+  <thead>
+    <tr>
+      <th class="all">Title</th>
+      <th class="desktop">Publication</th>
+      <th class="desktop">Planter</th>
+      <th class="desktop">Date</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {% for page in site.pages %}
+      {% if page.category contains "wiki" %}
+        <tr>
+          <td><a href="{{ page.url }}" class="internal-link">{{ page.title }}</a></td>
+          <td><a href="{{ page.link }}">{{ page.publication }}</td>
+          <td>{{ page.subcategory | capitalize }}</td>
+          <td>{{ page.date | date: "%Y-%m-%d" }}
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+
+  <tfoot>
+    <tr>
+      <th class="all">Title</th>
+      <th class="desktop">Publication</th>
+      <th class="desktop">Planter</th>
+      <th class="desktop">Date</th>
+    </tr>
+  </tfoot>
+</table>
