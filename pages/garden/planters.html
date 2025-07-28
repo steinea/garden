@@ -4,8 +4,31 @@ category: garden
 title: Planters
 ---
 
-{% for page in site.pages %}
-  {% if page.category contains "wiki" %}
-    <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
-  {% endif %}
-{% endfor %}
+<h3>Art</h3>
+
+<div id="art">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "wiki" and page.subcategory contains "art" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Associations</h3>
+
+<div id="associations">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "wiki" and page.subcategory contains "associations" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
