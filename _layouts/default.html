@@ -19,7 +19,7 @@
     <meta property="og:image" content="{{ site.baseurl }}/assets/img/og-1200x360.png" />
 
     <!-- Tab Bar Title -->
-    <title>{{ page.title }}</title>
+    <title>{{ page.title | strip_html }}</title>
 
     <!-- Links -->
     <link rel="alternate" type="application/rss+xml" href="{{ site.baseurl }}/feed.xml" title="steinea.work">
