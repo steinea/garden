@@ -2,7 +2,7 @@
 layout: page
 category: wiki
 subcategory: conferences
-title: Cinema and Media Studies
+title: Society for Cinema and Media Studies Annual Conference
 publication: Web
 link: https://www.cmstudies.org/page/conference
 date: 2022-11-20
