@@ -32,3 +32,18 @@ title: Planters
 </div>
 
 <br>
+
+
+<h3>Athletics</h3>
+
+<div id="athletics">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "wiki" and page.subcategory contains "athletics" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
