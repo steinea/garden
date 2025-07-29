@@ -62,3 +62,18 @@ title: Planters
 </div>
 
 <br>
+
+
+<h3>Book Series</h3>
+
+<div id="book-series">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "wiki" and page.subcategory contains "book-series" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
