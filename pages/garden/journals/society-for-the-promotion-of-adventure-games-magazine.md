@@ -2,7 +2,7 @@
 layout: page
 category: wiki
 subcategory: journals
-title: Adventure Games
+title: Society for the Promotion of Adventure Games Magazine
 publication: Web
 link: http://www.spagmag.org/
 date: 2022-11-20
