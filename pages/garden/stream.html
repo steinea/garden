@@ -18,7 +18,11 @@ title: Stream
       {% if page.category contains "wiki" %}
         <tr>
           <td><a href="{{ page.url }}" class="internal-link">{{ page.title }}</a></td>
-          <td>{{ page.subcategory | capitalize }}</td>
+          <td>{% assign words = page.subcategory | split: '-' %}
+              {% for word in words %}
+                {{ word | capitalize }}
+              {% endfor %}
+          </td>
           <td>{{ page.date | date: "%Y-%m-%d" }}
         </tr>
       {% endif %}
