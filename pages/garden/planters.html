@@ -92,3 +92,18 @@ title: Planters
 </div>
 
 <br>
+
+
+<h3>Collectives</h3>
+
+<div id="collectives">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "wiki" and page.subcategory contains "collectives" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
