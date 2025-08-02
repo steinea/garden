@@ -229,6 +229,21 @@ title: Planters
 <br>
 
 
+<h3>Industry</h3>
+
+<div id="industry">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "wiki" and page.subcategory contains "industry" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
 <h3>Institutes</h3>
 
 <div id="institutes">
@@ -490,6 +505,21 @@ title: Planters
   <p>
     {% for page in site.pages %}
       {% if page.category contains "wiki" and page.subcategory contains "workshops" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Worldbuilding</h3>
+
+<div id="worldbuilding">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "wiki" and page.subcategory contains "worldbuilding" %}
         <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
       {% endif %}
     {% endfor %}
