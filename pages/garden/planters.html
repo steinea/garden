@@ -122,3 +122,18 @@ title: Planters
 </div>
 
 <br>
+
+
+<h3>Conferences</h3>
+
+<div id="conferences">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "wiki" and page.subcategory contains "conferences" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
