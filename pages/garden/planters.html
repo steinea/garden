@@ -362,3 +362,18 @@ title: Planters
 </div>
 
 <br>
+
+
+<h3>Politics</h3>
+
+<div id="politics">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "wiki" and page.subcategory contains "politics" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
