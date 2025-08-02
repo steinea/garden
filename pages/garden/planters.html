@@ -422,3 +422,18 @@ title: Planters
 </div>
 
 <br>
+
+
+<h3>Schools of Thought</h3>
+
+<div id="schools-of-thought">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "wiki" and page.subcategory contains "schools-of-thought" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
