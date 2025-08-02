@@ -467,3 +467,33 @@ title: Planters
 </div>
 
 <br>
+
+
+<h3>Standards</h3>
+
+<div id="standards">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "wiki" and page.subcategory contains "standards" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Workshops</h3>
+
+<div id="workshops">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "wiki" and page.subcategory contains "workshops" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
