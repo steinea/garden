@@ -184,12 +184,27 @@ title: Planters
 <br>
 
 
-<h3>Game Jobs</h3>
+<h3>Game Studios</h3>
 
-<div id="game-jobs">
+<div id="game-studios">
   <p>
     {% for page in site.pages %}
-      {% if page.category contains "wiki" and page.subcategory contains "game-jobs" %}
+      {% if page.category contains "wiki" and page.subcategory contains "game-studios" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Games Jobs</h3>
+
+<div id="games-jobs">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "wiki" and page.subcategory contains "games-jobs" %}
         <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
       {% endif %}
     {% endfor %}
