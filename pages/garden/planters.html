@@ -287,3 +287,18 @@ title: Planters
 </div>
 
 <br>
+
+
+<h3>Literary Reviews</h3>
+
+<div id="literary-reviews">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "wiki" and page.subcategory contains "literary-reviews" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
