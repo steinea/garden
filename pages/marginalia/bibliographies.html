@@ -4,6 +4,21 @@ category: marginalia
 title: Bibliographies
 ---
 
+<h3>Art</h3>
+
+<div id="art">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "bibliographies" and page.tags contains "art" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
 <h3>Fiction</h3>
 
 <div id="fiction">
