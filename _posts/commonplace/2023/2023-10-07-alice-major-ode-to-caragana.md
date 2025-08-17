@@ -3,7 +3,7 @@ layout: entry
 category: commonplace
 author: Alice Major
 title: Ode to Caragana
-publication:
+publication: Literary Review of Canada
 link: https://reviewcanada.ca/magazine/2023/09/ode-to-caragana/
 date: 2023-10-07
 ---
