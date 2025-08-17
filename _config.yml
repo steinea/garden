@@ -30,4 +30,14 @@ defaults:
       permalink: /:year/:month/:day/:title/
 
 # Exclusions
-exclude:             ['_includes/notes_graph.json', '/pages/inventory/videogames/template.md', '/pages/garden/template.md']
+exclude:	['_includes/notes_graph.json', 
+		'/_posts/commonplace/template.md', 
+		'/_posts/social/template.md', 
+		'/pages/inventory/template-boardgame.md', 
+		'/pages/inventory/template-book.md', 
+		'/pages/inventory/template-gunpla.md', 
+		'/pages/inventory/template-jersey.md', 
+		'/pages/inventory/template-videogame.md', 
+		'/pages/inventory/template-vinyl.md', 
+		'/pages/inventory/template-warhammer.md', 
+		'/pages/garden/template.md']
