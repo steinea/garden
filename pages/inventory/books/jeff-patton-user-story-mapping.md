@@ -2,7 +2,9 @@
 layout: page
 category: books
 subcategory: wishlist
-tags: requirements-engineering product-management
+tags:
+  - requirements-engineering
+  - product-management
 author: Jeff Patton
 title: User Story Mapping
 published: 2014

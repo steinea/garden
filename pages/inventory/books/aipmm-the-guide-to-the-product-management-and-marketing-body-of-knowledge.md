@@ -2,7 +2,9 @@
 layout: page
 category: books
 subcategory: wishlist
-tags: program-management product-management
+tags:
+  - program-management
+  - product-management
 author: AIPMM
 title: The Guide to the Product Management and Marketing Body of Knowledge
 published: 2013
