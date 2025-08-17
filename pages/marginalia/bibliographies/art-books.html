@@ -1,0 +1,41 @@
+---
+layout: default
+category: bibliographies
+tags: art
+title: Art Books
+---
+
+<table class="display nowrap bibliographySort" style="width: 100%">
+  <thead>
+    <tr>
+      <th class="all">Title</th>
+      <th class="desktop">Author</th>
+      <th class="desktop">Published</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {% for page in site.pages %}
+      {% if page.category contains "books" and page.tags contains "art-books" %}
+        <tr>
+          <td><a href="{{ page.url }}" class="internal-link">{{ page.title }}</a></td>
+          <td>
+            {% for author in page.author %}
+              {{ author }}
+              {% unless forloop.last %}, {% endunless %}
+            {% endfor %}
+          </td>
+          <td>{{ page.published }}</td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+
+  <tfoot>
+    <tr>
+      <th class="all">Title</th>
+      <th class="desktop">Author</th>
+      <th class="desktop">Published</th>
+    </tr>
+  </tfoot>
+</table>
