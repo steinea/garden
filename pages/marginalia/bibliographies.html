@@ -4,8 +4,74 @@ category: marginalia
 title: Bibliographies
 ---
 
-{% for page in site.pages %}
-  {% if page.category contains "bibliographies" %}
-    <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
-  {% endif %}
-{% endfor %}
+<h3>Fiction</h3>
+
+<div id="fiction">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "bibliographies" and page.tags contains "fiction" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Game Studies</h3>
+
+<div id="gamestudies">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "bibliographies" and page.tags contains "gamestudies" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Management</h3>
+
+<div id="management">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "bibliographies" and page.tags contains "management" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Philosophy</h3>
+
+<div id="philosophy">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "bibliographies" and page.tags contains "philosophy" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Software</h3>
+
+<div id="software">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "bibliographies" and page.tags contains "software" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
