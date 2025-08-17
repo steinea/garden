@@ -30,4 +30,4 @@ defaults:
       permalink: /:year/:month/:day/:title/
 
 # Exclusions
-exclude:             ['_includes/notes_graph.json', '/pages/inventory/videogames/template.md']
+exclude:             ['_includes/notes_graph.json', '/pages/inventory/videogames/template.md', '/pages/garden/template.md']
