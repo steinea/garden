@@ -2,12 +2,14 @@
 layout: page
 category: books
 subcategory: wishlist
-author: Tariq Ali and Ernest Mandel
+author:
+  - Tariq Ali
+  - Ernest Mandel
 title: A Conversation with Ernest Mandel
 published: 2023
 date: 1111-11-11
 rating: exclude
-price: $2.00
+price: $2
 ---
 
 ### Citation
