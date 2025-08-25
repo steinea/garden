@@ -1,7 +1,7 @@
 ---
 layout: page
 category: videogame
-subcategory: now
+subcategory: complete
 title: Astro Bot
 developer: Team Asobi
 publisher: Sony Interactive Entertainment
@@ -10,11 +10,11 @@ releaseDate: 2024-09-06
 howlongtobeat: 18
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/20437-astro-bot-trophy-guide
-durationHours: 19
-trophies: 58/63
-percent: 92%
+durationHours: 23
+trophies: 63/63
+percent: 100%
 link: https://psnprofiles.com/trophies/29085-astro-bot/barrelofjuice
-date: 2025-03-20
+date: 2025-08-25
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Astro_Bot):
