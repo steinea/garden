@@ -1,0 +1,18 @@
+---
+layout: default
+category: marginalia
+title: Screenshots
+---
+
+{% assign sorted_files = site.static_files | sort: "name" | reverse %}
+  {% for file in sorted_files %}
+    {% if file.path contains "/screenshots/" %}
+      <a href="{{ file.path }}" class="internal-link">{{ file.name }}</a><br>
+    {% endif %}
+  {% endfor %}
+
+<br>
+
+<p><em>Based on Everest Pipkin's <a href="https://screenshot-garden.neocities.org/build-your-own" target="_blank" rel="noreferrer noopener">screenshot garden</a>.
+<br>This implementation built with <a href="https://jekyllrb.com/docs/static-files/" target="_blank" rel="noreferrer noopener">static files</a> in Jekyll.
+<br>To build your own, see the <a href="https://github.com/steinea/garden/blob/main/pages/marginalia/screenshots.html" target="_blank" rel="noreferrer noopener">source</a>.</em></p>
