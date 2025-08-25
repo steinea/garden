@@ -49,6 +49,36 @@ title: Bibliographies
 <br>
 
 
+<h3>History</h3>
+
+<div id="history">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "bibliographies" and page.tags contains "history" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
+<h3>Knowledge</h3>
+
+<div id="knowledge">
+  <p>
+    {% for page in site.pages %}
+      {% if page.category contains "wiki" and page.tags contains "knowledge" %}
+        <a href="{{ page.url }}" class="internal-link">{{ page.title }}</a><br>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
+
+<br>
+
+
 <h3>Management</h3>
 
 <div id="management">
