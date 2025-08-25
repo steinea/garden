@@ -1,5 +1,5 @@
 ---
-layout: wiki
+layout: page
 category: wiki
 subcategory:
 title:
