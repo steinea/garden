@@ -62,7 +62,12 @@ permalink: /playing/
         {% if page.category contains "videogame" and page.subcategory contains "now" %}
           <tr>
             <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
-        		<td>{{ page.platform }}</td>
+        		<td>
+              {% for platform in page.platform %}
+                {{ platform }}
+                {% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </td>
             <td>{{ page.durationHours }}</td>
         		<td>{{ page.trophies }}</td>
             <td>{{ page.percent }}</td>
@@ -103,7 +108,12 @@ permalink: /playing/
         {% if page.category contains "videogame" and page.subcategory contains "complete" %}
           <tr>
             <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
-        		<td>{{ page.platform }}</td>
+            <td>
+              {% for platform in page.platform %}
+                {{ platform }}
+                {% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </td>
             <td>{{ page.durationHours }}</td>
         		<td>{{ page.trophies }}</td>
             <td>{{ page.percent }}</td>
@@ -144,7 +154,12 @@ permalink: /playing/
         {% if page.category contains "videogame" and page.subcategory contains "retired" %}
           <tr>
             <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
-            <td>{{ page.platform }}</td>
+            <td>
+              {% for platform in page.platform %}
+                {{ platform }}
+                {% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </td>
             <td>{{ page.durationHours }}</td>
             <td>{{ page.trophies }}</td>
             <td>{{ page.percent }}</td>
@@ -182,7 +197,12 @@ permalink: /playing/
         {% if page.category contains "videogame" and page.subcategory contains "backlog" %}
           <tr>
             <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
-            <td>{{ page.platform }}</td>
+            <td>
+              {% for platform in page.platform %}
+                {{ platform }}
+                {% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </td>
             <td>{{ page.howlongtobeat }}</td>
           </tr>
         {% endif %}

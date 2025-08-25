@@ -5,7 +5,9 @@ subcategory: retired
 title: Star Wars Squadrons
 developer: Motive Studio
 publisher: Electronic Arts
-platform: Steam
+platform:
+  - Steam
+  - PS4
 releaseDate: 2020-10-02
 howlongtobeat: 29
 difficulty: --
