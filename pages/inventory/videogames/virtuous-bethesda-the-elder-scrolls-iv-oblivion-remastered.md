@@ -3,7 +3,9 @@ layout: page
 category: videogame
 subcategory: now
 title: "The Elder Scrolls IV: Oblivion Remastered"
-developer: Virtuos and Bethesda Game Studios
+developer:
+  - Virtuos
+  - Bethesda Game Studios
 publisher: Bethesda Softworks
 platform: Xbox
 releaseDate: 2025-04-22
