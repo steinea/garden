@@ -70,6 +70,16 @@
         <h3>👤 {{ page.author }} 🌐 <a href="{{ page.link }}" target="_blank" rel="noopener noreferrer">{{ page.publication }}</a></h3>
       {% endif %}
 
+      {% if page.category contains "videogame" %}
+        <h3>🛠️ {% for developer in page.developer %}{{ developer }}{% unless forloop.last %}, {% endunless %}{% endfor %} 🏢 {{ page.publisher }} 
+
+          {% if page.trophies != null %}
+            🏆 <a href="{{ page.link }}" target="_blank" rel="noopener noreferrer">{{ page.trophies }}</a> 🕙 {{ page.durationHours }}h
+          {% endif %}
+
+        </h3>
+      {% endif %}
+
       {% if page.category contains "wiki" %}
         <h3>🌐 <a href="{{ page.link }}" target="_blank" rel="noopener noreferrer">{{ page.publication }}</a></h3>
       {% endif %}
