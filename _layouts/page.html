@@ -22,6 +22,42 @@ layout: default
         <br>
       {% endif %}
 
+      {% if page.subcategory contains "now" or page.subcategory contains "complete" or page.subcategory contains "retired" %}
+      <h4>POSSE</h4>
+        <div id="posse">
+
+          <ul>
+            {% if page.backloggd %}
+              <li><a href="{{ page.backloggd }}" target="_blank" rel="noopener noreferrer">Backloggd</a></li>
+            {% endif %}
+
+            {% if page.exophase %}
+              <li><a href="{{ page.exophase }}" target="_blank" rel="noopener noreferrer">Exophase</a></li>
+            {% endif %}
+
+            {% if page.hltb %}
+              <li><a href="{{ page.hltb }}" target="_blank" rel="noopener noreferrer">HowLongToBeat</a></li>
+            {% endif %}
+
+            {% if page.psnprofiles %}
+              <li><a href="{{ page.psnprofiles }}" target="_blank" rel="noopener noreferrer">PSNProfiles</a></li>
+            {% endif %}
+
+            {% if page.steam %}
+              <li><a href="{{ page.hltb }}" target="_blank" rel="noopener noreferrer">Steam</a></li>
+            {% endif %}
+          </ul>
+
+          {% if page.backloggd == null and page.exophase == null and page.hltb == null and page.psnprofiles == null and page.steam == null %}
+            <div style="font-size: 0.9em">
+              <p>There are no POSSE links for this page.</p>
+            </div>
+          {% endif %}
+
+        </div>
+      <br>
+      {% endif %}
+
       <h4 style="margin-bottom: 1em">Backlinks</h4>
       {% if page.backlinks.size > 0 %}
 
