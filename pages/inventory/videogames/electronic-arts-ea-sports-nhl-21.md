@@ -8,7 +8,7 @@ developer: Electronic Arts
 publisher: Electronic Arts
 platform: PS4
 releaseDate: 2020-10-16
-howlongtobeat:
+howlongtobeat: 72
 difficulty:
 trophyGuide:
 durationHours:
