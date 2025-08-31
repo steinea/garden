@@ -15,6 +15,11 @@ durationHours: 62
 trophies: 35/37
 percent: 95%
 link: https://steamcommunity.com/id/steinea/stats/2622380/achievements/
+backloggd: https://backloggd.com/u/steinea/logs/elden-ring-nightreign/
+exophase: https://www.exophase.com/game/elden-ring-nightreign-steam/achievements/#1624301
+hltb: https://howlongtobeat.com/user/steinea
+psnprofiles:
+steam: https://steamcommunity.com/id/steinea/stats/2622380/achievements/
 date: 2025-08-08
 ---
 
