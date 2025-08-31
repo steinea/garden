@@ -1,0 +1,117 @@
+---
+layout: default
+category: inventory
+title: "Video Games (Discs)"
+---
+
+<!-- Category Counts -->
+{% assign totalPlaystation = 0 %}
+  {% for disc in site.data.discs %}
+    {% if disc.Type contains "playstation" %}
+      {% assign totalPlaystation = totalPlaystation | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalXbox = 0 %}
+  {% for disc in site.data.discs %}
+    {% if disc.Type contains "xbox" %}
+      {% assign totalXbox = totalXbox | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+<!-- Category Tabs -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('playstation')">PlayStation ({{ totalPlaystation }})</button>
+  <button class="tablinks" onclick="openTab('xbox')">Xbox ({{ totalXbox }})</button>
+</div>
+
+<br>
+
+<div id="playstation" class="tabcontent">
+  <table class="display nowrap discSort" style="width: 100%">
+    <thead>
+      <tr>
+        <th class="all">Game</th>
+        <th class="desktop">Edition</th>
+        <th class="desktop">Platform</th>
+        <th class="desktop">UPC</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for disc in site.data.discs %}
+      {% if disc.Type contains "playstation" %}
+      <tr>
+  		  <td><a href="{{ site.baseurl }}/{{ disc.Developer | slugify: 'latin'}}-{{ disc.Title | slugify: 'latin'}}/" class="internal-link">{{ disc.Title }}</a></td>
+        <td>{{ disc.Edition }}</td>
+        <td>{{ disc.Platform }}</td>
+        <td><a href="https://www.barcodelookup.com/{{ disc.UPC }}" title="{{ disc.Title }}"  target="_blank" rel="noopener noreferrer">{{ disc.UPC }}</td>
+  		</tr>
+      {% endif %}
+    	{% endfor %}
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th class="all">Game</th>
+        <th class="desktop">Edition</th>
+        <th class="desktop">Platform</th>
+        <th class="desktop">UPC</th>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+
+<div id="xbox" class="tabcontent">
+  <table class="display nowrap discSort" style="width: 100%">
+    <thead>
+      <tr>
+        <th class="all">Game</th>
+        <th class="desktop">Edition</th>
+        <th class="desktop">Platform</th>
+        <th class="desktop">UPC</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for disc in site.data.discs %}
+      {% if disc.Type contains "xbox" %}
+      <tr>
+  		  <td><a href="{{ site.baseurl }}/{{ disc.Developer | slugify: 'latin'}}-{{ disc.Title | slugify: 'latin'}}/" class="internal-link">{{ disc.Title }}</a></td>
+        <td>{{ disc.Edition }}</td>
+        <td>{{ disc.Platform }}</td>
+        <td><a href="https://www.barcodelookup.com/{{ disc.UPC }}" title="{{ disc.Title }}"  target="_blank" rel="noopener noreferrer">{{ disc.UPC }}</td>
+  		</tr>
+      {% endif %}
+    	{% endfor %}
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th class="all">Game</th>
+        <th class="desktop">Edition</th>
+        <th class="desktop">Platform</th>
+        <th class="desktop">UPC</th>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('playstation');
+</script>
