@@ -43,7 +43,12 @@ title: Video Games
         {% if page.category contains "videogame" and page.subcategory != "wishlist" %}
           <tr>
             <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
-        		<td>{{ page.developer }}</td>
+            <td>
+              {% for developer in page.developer %}
+                {{ developer }}
+                {% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </td>
             <td>{{ page.publisher }}</td>
         		<td>{{ page.releaseDate }}</td>
       		</tr>
@@ -78,7 +83,12 @@ title: Video Games
         {% if page.category contains "videogame" and page.subcategory contains "wishlist" %}
           <tr>
             <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
-        		<td>{{ page.developer }}</td>
+            <td>
+              {% for developer in page.developer %}
+                {{ developer }}
+                {% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </td>
             <td>{{ page.publisher }}</td>
         		<td>{{ page.releaseDate }}</td>
       		</tr>
