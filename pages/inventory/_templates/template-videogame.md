@@ -15,6 +15,11 @@ durationHours:
 trophies:
 percent:
 link:
+backloggd:
+exophase:
+hltb:
+psnprofiles:
+steam:
 date:
 ---
 
