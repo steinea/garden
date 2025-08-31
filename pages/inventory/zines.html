@@ -1,0 +1,67 @@
+---
+layout: default
+category: inventory
+title: Zines
+---
+
+<!-- Category Counts -->
+{% assign totalCollection = 0 %}
+  {% for zine in site.data.zines %}
+      {% assign totalCollection = totalCollection | plus: 1 %}
+  {% endfor %}
+
+<!-- Category Tabs -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('collection')">Collection ({{ totalCollection }})</button>
+</div>
+
+<br>
+
+<div id="collection" class="tabcontent">
+  <table class="display nowrap discSort" style="width: 100%">
+    <thead>
+      <tr>
+        <th class="all">Title</th>
+        <th class="desktop">Author</th>
+        <th class="desktop">System</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for zine in site.data.zines %}
+      <tr>
+        <td><a href="{{ zine.Link }}" target="_blank" rel="noopener noreferrer">{{ zine.Title }}</a></td>
+        <td>{{ zine.Author }}</td>
+        <td>{{ zine.System }}</td>
+      </tr>
+    	{% endfor %}
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th class="all">Title</th>
+        <th class="desktop">Author</th>
+        <th class="desktop">System</th>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('collection');
+</script>
