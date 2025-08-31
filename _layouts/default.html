@@ -74,7 +74,7 @@
         <h3>🛠️ {% for developer in page.developer %}{{ developer }}{% unless forloop.last %}, {% endunless %}{% endfor %} 🏢 {{ page.publisher }} 
 
           {% if page.trophies != null %}
-            🏆 <a href="{{ page.link }}" target="_blank" rel="noopener noreferrer">{{ page.trophies }}</a> 🕙 {{ page.durationHours }}h
+            🏆 {{ page.trophies }} 🕙 {{ page.durationHours }}h
           {% endif %}
 
         </h3>
