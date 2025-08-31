@@ -1,7 +1,7 @@
 ---
 layout: page
 category: videogame
-subcategory: wishlist
+subcategory: backlog
 tags: horror-adventure
 title: "A Plague Tale: Innocence"
 developer: Asobo Studio

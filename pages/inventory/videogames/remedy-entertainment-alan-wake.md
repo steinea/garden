@@ -1,16 +1,16 @@
 ---
 layout: page
 category: videogame
-subcategory: wishlist
+subcategory: backlog
 tags: horror-adventure
 title: Alan Wake
 developer: Remedy Entertainment
 publisher: Microsoft Game Studios
-platform: PS5
+platform: Steam
 releaseDate: 2010-05-14
 howlongtobeat: 25
 difficulty: 4/10
-trophyGuide: https://psnprofiles.com/guide/13042-alan-wake-trophy-guide
+trophyGuide: https://steamcommunity.com/sharedfiles/filedetails/?id=381121751
 durationHours:
 trophies:
 percent:

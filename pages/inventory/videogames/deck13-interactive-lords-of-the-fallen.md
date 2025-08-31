@@ -1,12 +1,14 @@
 ---
 layout: page
 category: videogame
-subcategory: wishlist
+subcategory: backlog
 tags: soulslike-legacies
 title: Lords of the Fallen
-developer: Deck13 Interactive, CI Games
+developer:
+  - Deck13 Interactive
+  - CI Games
 publisher: CI Games
-platform: Steam
+platform: PS4
 releaseDate: 2014-10-28
 howlongtobeat: 46
 difficulty:
