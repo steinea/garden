@@ -15,6 +15,11 @@ durationHours: 11
 trophies: 48/48
 percent: 100%
 link: https://psnprofiles.com/trophies/35895-sword-of-the-sea/barrelofjuice
+backloggd:
+exophase:
+hltb:
+psnprofiles: https://psnprofiles.com/trophies/35895-sword-of-the-sea/barrelofjuice
+steam:
 date: 2025-08-24
 ---
 
