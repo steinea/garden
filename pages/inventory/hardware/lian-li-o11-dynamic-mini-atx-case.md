@@ -4,7 +4,7 @@ category: hardware
 subcategory: own
 tags:
   - computer
-title: O11 Dynamic Mini
+title: O11 Dynamic Mini Case
 manufacturer: Lian Li
 format: ATX
 date: 2020-11-01
