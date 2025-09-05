@@ -32,8 +32,8 @@ title: Hardware
     <thead>
       <tr>
         <th class="all">Title</th>
-        <th class="desktop">Manufacturer</th>
         <th class="desktop">Category</th>
+        <th class="desktop">Manufacturer</th>
         <th class="desktop">Format</th>
         <th class="desktop">Released</th>
       </tr>
@@ -44,16 +44,16 @@ title: Hardware
         {% if page.category contains "hardware" and page.subcategory != "wishlist" %}
           <tr>
             <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
-        		<td>{{ page.manufacturer }}</td>
             <td>
               {% for tag in page.tags %}
-                {% assign words = tag | split: '-' %}
-                  {% for word in words %}
-                    {{ word | capitalize }}
-                  {% endfor %}
-                {% unless forloop.last %}, {% endunless %}
+              {% assign words = tag | split: '-' %}
+              {% for word in words %}
+              {{ word | capitalize }}
+              {% endfor %}
+              {% unless forloop.last %}, {% endunless %}
               {% endfor %}
             </td>
+        		<td>{{ page.manufacturer }}</td>
             <td>{{ page.format }}</td>
         		<td>{{ page.date }}</td>
       		</tr>
@@ -64,8 +64,8 @@ title: Hardware
     <tfoot>
       <tr>
         <th class="all">Title</th>
-        <th class="desktop">Manufacturer</th>
         <th class="desktop">Category</th>
+        <th class="desktop">Manufacturer</th>
         <th class="desktop">Format</th>
         <th class="desktop">Released</th>
       </tr>
@@ -78,8 +78,8 @@ title: Hardware
     <thead>
       <tr>
         <th class="all">Title</th>
-        <th class="desktop">Manufacturer</th>
         <th class="desktop">Category</th>
+        <th class="desktop">Manufacturer</th>
         <th class="desktop">Format</th>
         <th class="desktop">Released</th>
         <th class="desktop">Price</th>
@@ -91,16 +91,16 @@ title: Hardware
         {% if page.category contains "hardware" and page.subcategory contains "wishlist" %}
           <tr>
             <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
-        		<td>{{ page.manufacturer }}</td>
             <td>
               {% for tag in page.tags %}
-                {% assign words = tag | split: '-' %}
-                  {% for word in words %}
-                    {{ word | capitalize }}
-                  {% endfor %}
-                {% unless forloop.last %}, {% endunless %}
+              {% assign words = tag | split: '-' %}
+              {% for word in words %}
+              {{ word | capitalize }}
+              {% endfor %}
+              {% unless forloop.last %}, {% endunless %}
               {% endfor %}
             </td>
+        		<td>{{ page.manufacturer }}</td>
             <td>{{ page.format }}</td>
         		<td>{{ page.date }}</td>
             <td>{{ page.price }}</td>
@@ -112,8 +112,8 @@ title: Hardware
     <tfoot>
       <tr>
         <th class="all">Title</th>
-        <th class="desktop">Manufacturer</th>
         <th class="desktop">Category</th>
+        <th class="desktop">Manufacturer</th>
         <th class="desktop">Format</th>
         <th class="desktop">Released</th>
         <th class="desktop">Price</th>
