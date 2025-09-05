@@ -4,9 +4,9 @@ category: hardware
 subcategory: own
 tags:
   - audio
-title: YU4
+title: YU4 Speakers
 manufacturer: Kanto
-format: Powered Speakers
+format: Powered
 date: 2017-01-20
 price: 480
 ---
