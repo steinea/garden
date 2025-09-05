@@ -6,7 +6,7 @@ tags:
   - audio
 title: AT-LP3XBT
 manufacturer: Audio-Technica
-format: Automatic Belt-Drive Turntable
+format: Automatic Belt
 date: 2022-08-31
 price: 349
 ---
