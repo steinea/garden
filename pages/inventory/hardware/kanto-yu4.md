@@ -1,0 +1,16 @@
+---
+layout: page
+category: system
+subcategory: own
+tags:
+  - audio
+title: YU4
+manufacturer: Kanto
+format: Powered Speakers
+date: 2017-01-20
+price: 480
+---
+
+From [Audio-Technica](https://www.kantoaudio.com/powered-speakers/yu4/):
+
+"Effortlessly fill your room with rich, spacious sound. Featuring carefully designed 4-inch Kevlar® drivers and 1-inch silk dome tweeters, YU4 faithfully reproduces your favorite tunes, letting you enjoy them to their fullest. Throw on your latest vinyl with a built-in phono preamp, or sit back and stream your carefully curated playlist via Bluetooth™ 4.0 with Qualcomm aptX. Crystal-clear, detailed sound for all to enjoy."
