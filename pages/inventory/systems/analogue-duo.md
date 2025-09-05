@@ -1,7 +1,9 @@
 ---
 layout: page
-category: system
+category: hardware
 subcategory: wishlist
+tags:
+  - gaming
 title: Analogue Duo
 manufacturer: Analogue
 format: Console

@@ -1,7 +1,9 @@
 ---
 layout: page
-category: system
+category: hardware
 subcategory: own
+tags:
+  - gaming
 title: Backbone One PlayStation Edition
 manufacturer: Backbone
 format: Handheld

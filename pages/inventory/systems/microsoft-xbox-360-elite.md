@@ -1,7 +1,9 @@
 ---
 layout: page
-category: system
+category: hardware
 subcategory: own
+tags:
+  - gaming
 title: Xbox 360 Elite
 manufacturer: Microsoft
 format: Console

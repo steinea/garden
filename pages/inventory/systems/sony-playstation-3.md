@@ -1,7 +1,9 @@
 ---
 layout: page
-category: system
+category: hardware
 subcategory: own
+tags:
+  - gaming
 title: PlayStation 3
 manufacturer: Sony
 format: Console

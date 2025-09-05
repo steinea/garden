@@ -1,7 +1,9 @@
 ---
 layout: page
-category: system
+category: hardware
 subcategory: own
+tags:
+  - gaming
 title: Analogue Pocket
 manufacturer: Analogue
 format: Handheld

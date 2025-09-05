@@ -1,7 +1,9 @@
 ---
 layout: page
-category: system
+category: hardware
 subcategory: wishlist
+tags:
+  - gaming
 title: ZX Spectrum Next Accelerated
 manufacturer: SpecNext
 format: Console
