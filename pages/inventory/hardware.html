@@ -1,20 +1,20 @@
 ---
 layout: default
 category: inventory
-title: Systems
+title: Hardware
 ---
 
 <!-- Category Counts -->
 {% assign totalCollection = 0 %}
   {% for page in site.pages %}
-    {% if page.category contains "system" and page.subcategory != "wishlist" %}
+    {% if page.category contains "hardware" and page.subcategory != "wishlist" %}
       {% assign totalCollection = totalCollection | plus: 1 %}
     {% endif %}
   {% endfor %}
 
 {% assign totalWishlist = 0 %}
   {% for page in site.pages %}
-    {% if page.category contains "system" and page.subcategory contains "wishlist" %}
+    {% if page.category contains "hardware" and page.subcategory contains "wishlist" %}
       {% assign totalWishlist = totalWishlist | plus: 1 %}
     {% endif %}
   {% endfor %}
@@ -28,11 +28,12 @@ title: Systems
 <br>
 
 <div id="collection" class="tabcontent">
-  <table class="display nowrap systemsSort">
+  <table class="display nowrap hardwareSort">
     <thead>
       <tr>
         <th class="all">Title</th>
         <th class="desktop">Manufacturer</th>
+        <th class="desktop">Category</th>
         <th class="desktop">Format</th>
         <th class="desktop">Released</th>
       </tr>
@@ -40,10 +41,21 @@ title: Systems
 
     <tbody>
       {% for page in site.pages %}
-        {% if page.category contains "system" and page.subcategory != "wishlist" %}
+        {% if page.category contains "hardware" and page.subcategory != "wishlist" %}
           <tr>
             <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
         		<td>{{ page.manufacturer }}</td>
+            <td>
+              {% for tag in page.tags %}
+                <a href="/{{ tag }}" class="internal-link">
+                {% assign words = tag | split: '-' %}
+                  {% for word in words %}
+                    {{ word | capitalize }}
+                  {% endfor %}
+                </a>
+                {% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </td>
             <td>{{ page.format }}</td>
         		<td>{{ page.date }}</td>
       		</tr>
@@ -55,6 +67,7 @@ title: Systems
       <tr>
         <th class="all">Title</th>
         <th class="desktop">Manufacturer</th>
+        <th class="desktop">Category</th>
         <th class="desktop">Format</th>
         <th class="desktop">Released</th>
       </tr>
@@ -63,11 +76,12 @@ title: Systems
 </div>
 
 <div id="wishlist" class="tabcontent">
-  <table class="display nowrap systemsSort">
+  <table class="display nowrap hardwareSort">
     <thead>
       <tr>
         <th class="all">Title</th>
         <th class="desktop">Manufacturer</th>
+        <th class="desktop">Category</th>
         <th class="desktop">Format</th>
         <th class="desktop">Released</th>
         <th class="desktop">Price</th>
@@ -76,10 +90,21 @@ title: Systems
 
     <tbody>
       {% for page in site.pages %}
-        {% if page.category contains "system" and page.subcategory contains "wishlist" %}
+        {% if page.category contains "hardware" and page.subcategory contains "wishlist" %}
           <tr>
             <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
         		<td>{{ page.manufacturer }}</td>
+            <td>
+              {% for tag in page.tags %}
+                <a href="/{{ tag }}" class="internal-link">
+                {% assign words = tag | split: '-' %}
+                  {% for word in words %}
+                    {{ word | capitalize }}
+                  {% endfor %}
+                </a>
+                {% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </td>
             <td>{{ page.format }}</td>
         		<td>{{ page.date }}</td>
             <td>{{ page.price }}</td>
@@ -92,6 +117,7 @@ title: Systems
       <tr>
         <th class="all">Title</th>
         <th class="desktop">Manufacturer</th>
+        <th class="desktop">Category</th>
         <th class="desktop">Format</th>
         <th class="desktop">Released</th>
         <th class="desktop">Price</th>
