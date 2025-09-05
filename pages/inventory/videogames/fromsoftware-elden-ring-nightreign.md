@@ -1,7 +1,7 @@
 ---
 layout: page
 category: videogame
-subcategory: now
+subcategory: complete
 tags: soulslike-legacies
 title: "Elden Ring: Nightreign"
 developer: FromSoftware
@@ -11,16 +11,16 @@ releaseDate: 2025-05-30
 howlongtobeat: 37
 difficulty: 9/10
 trophyGuide: https://www.powerpyx.com/elden-ring-nightreign-trophy-guide-roadmap/
-durationHours: 62
-trophies: 35/37
-percent: 95%
+durationHours: 64
+trophies: 37/37
+percent: 100%
 link: https://steamcommunity.com/id/steinea/stats/2622380/achievements/
 backloggd: https://backloggd.com/u/steinea/logs/elden-ring-nightreign/
 exophase: https://www.exophase.com/game/elden-ring-nightreign-steam/achievements/#1624301
 hltb: https://howlongtobeat.com/user/steinea
 psnprofiles:
 steam: https://steamcommunity.com/id/steinea/stats/2622380/achievements/
-date: 2025-08-08
+date: 2025-09-04
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Elden_Ring_Nightreign):
