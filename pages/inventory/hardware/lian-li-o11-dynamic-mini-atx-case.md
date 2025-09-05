@@ -6,7 +6,7 @@ tags:
   - computer
 title: O11 Dynamic Mini
 manufacturer: Lian Li
-format: ATX Mid Tower Case
+format: ATX
 date: 2020-11-01
 price: 150
 ---
