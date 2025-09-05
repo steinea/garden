@@ -1,6 +1,6 @@
 ---
 layout: page
-category: system
+category: hardware
 subcategory: own
 tags:
   - audio
