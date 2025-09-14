@@ -1,0 +1,209 @@
+---
+layout: default
+category: activity
+title: "Watching (Series)"
+---
+
+<!-- Category Counts -->
+{% assign totalInProgress = 0 %}
+  {% for page in site.pages %}
+    {% if page.category contains "wiki" and page.subcategory contains "television" and page.tags contains "now" %}
+      {% assign totalInProgress = totalInProgress | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalComplete = 0 %}
+  {% for page in site.pages %}
+  {% if page.category contains "wiki" and page.subcategory contains "television" and page.tags contains "complete" %}
+    {% assign totalComplete = totalComplete | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalRetired = 0 %}
+  {% for page in site.pages %}
+  {% if page.category contains "wiki" and page.subcategory contains "television" and page.tags contains "retired" %}
+    {% assign totalRetired = totalRetired | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+{% assign totalBacklog = 0 %}
+  {% for page in site.pages %}
+  {% if page.category contains "wiki" and page.subcategory contains "television" and page.tags contains "backlog" %}
+    {% assign totalBacklog = totalBacklog | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+<!-- Category Tabs -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab('in-progress')">In Progress ({{ totalInProgress }})</button>
+  <button class="tablinks" onclick="openTab('complete')">Complete ({{ totalComplete }})</button>
+  <button class="tablinks" onclick="openTab('retired')">Retired ({{ totalRetired }})</button>
+  <button class="tablinks" onclick="openTab('backlog')">Backlog ({{ totalBacklog }})</button>
+</div>
+
+<br>
+
+<div id="in-progress" class="tabcontent">
+  <table class="display nowrap watchingDateSort">
+    <thead>
+      <tr>
+        <th class="all">Title</th>
+        <th class="desktop">Network</th>
+        <th class="desktop">Episodes</th>
+        <th class="desktop">Percent</th>
+        <th class="desktop">Date</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for page in site.pages %}
+        {% if page.category contains "wiki" and page.subcategory contains "television" and page.tags contains "now" %}
+          <tr>
+            <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
+        		<td>{{ page.publication }}</td>
+            <td>{{ page.episodes }}</td>
+            <td>{{ page.percent }}</td>
+            <td>{{ page.date | date: '%Y-%m-%d' }}</td>
+      		</tr>
+        {% endif %}
+    	{% endfor %}
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th class="all">Title</th>
+        <th class="desktop">Network</th>
+        <th class="desktop">Episodes</th>
+        <th class="desktop">Percent</th>
+        <th class="desktop">Date</th>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+
+<div id="complete" class="tabcontent">
+  <table class="display nowrap watchingDateSort">
+    <thead>
+      <tr>
+        <th class="all">Title</th>
+        <th class="desktop">Network</th>
+        <th class="desktop">Episodes</th>
+        <th class="desktop">Percent</th>
+        <th class="desktop">Date</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for page in site.pages %}
+        {% if page.category contains "wiki" and page.subcategory contains "television" and page.tags contains "complete" %}
+          <tr>
+            <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
+        		<td>{{ page.publication }}</td>
+            <td>{{ page.episodes }}</td>
+            <td>{{ page.percent }}</td>
+            <td>{{ page.date | date: '%Y-%m-%d' }}</td>
+      		</tr>
+        {% endif %}
+    	{% endfor %}
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th class="all">Title</th>
+        <th class="desktop">Network</th>
+        <th class="desktop">Episodes</th>
+        <th class="desktop">Percent</th>
+        <th class="desktop">Date</th>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+
+<div id="retired" class="tabcontent">
+  <table class="display nowrap watchingDateSort">
+    <thead>
+      <tr>
+        <th class="all">Title</th>
+        <th class="desktop">Network</th>
+        <th class="desktop">Episodes</th>
+        <th class="desktop">Percent</th>
+        <th class="desktop">Date</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for page in site.pages %}
+        {% if page.category contains "wiki" and page.subcategory contains "television" and page.tags contains "retired" %}
+          <tr>
+            <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
+        		<td>{{ page.publication }}</td>
+            <td>{{ page.episodes }}</td>
+            <td>{{ page.percent }}</td>
+            <td>{{ page.date | date: '%Y-%m-%d' }}</td>
+          </tr>
+        {% endif %}
+      {% endfor %}
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th class="all">Title</th>
+        <th class="desktop">Network</th>
+        <th class="desktop">Episodes</th>
+        <th class="desktop">Percent</th>
+        <th class="desktop">Date</th>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+
+<div id="backlog" class="tabcontent">
+  <table class="display nowrap watchingDateSort">
+    <thead>
+      <tr>
+        <th class="all">Title</th>
+        <th class="desktop">Network</th>
+        <th class="desktop">Episodes</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for page in site.pages %}
+        {% if page.category contains "wiki" and page.subcategory contains "television" and page.tags contains "backlog" %}
+          <tr>
+            <td><a href="{{ page.url }}" title="{{ page.title }}" class="internal-link">{{ page.title }}</a></td>
+        		<td>{{ page.publication }}</td>
+            <td>{{ page.episodes }}</td>
+          </tr>
+        {% endif %}
+      {% endfor %}
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th class="all">Title</th>
+        <th class="desktop">Network</th>
+        <th class="desktop">Episodes</th>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+
+<script>
+  function openTab(tabId) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabId).style.display = "block";
+    event.currentTarget.className += " active";
+  }
+
+  // Show the first tab by default
+  openTab('in-progress');
+</script>
