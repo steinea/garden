@@ -3,7 +3,7 @@ layout: entry
 category: commonplace
 author: Terence Blake
 title: Metaphysical Research Program Criteria
-publication: 
+publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2016/02/02/feyerabends-ontology-pluralist-diachronic-apophatic-empirical-and-democratic/
 date: 2016-11-06
 ---
